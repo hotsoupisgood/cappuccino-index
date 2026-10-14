@@ -1,0 +1,8 @@
+area,osm_cafe_count,population,population_year,people_per_cafe,cafes_per_10000_people,population_source
+"City of Melbourne (LGA, inner-city core only)",640,177396,2023,277,36.08,"ABS Estimated Resident Population, 30 Jun 2023"
+Brighton and Hove (council area),406,283870,2024,699,14.3,ONS mid-year population estimate
+City of Edinburgh (council area),722,530680,2024,735,13.61,ONS mid-2024 LA population estimate
+Milano (comune),1779,1371850,2024,771,12.97,ISTAT resident population
+Greater London Authority,6803,8950000,2023,1316,7.6,ONS mid-2023 population estimate (pub. Jul 2024)
+"Manchester (metropolitan borough, E08000003)",336,551938,2021,1643,6.09,2021 UK Census
+Napoli (comune),484,911697,2024,1884,5.31,ISTAT resident population

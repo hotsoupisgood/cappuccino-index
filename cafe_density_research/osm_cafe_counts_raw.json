@@ -1,0 +1,49 @@
+{
+  "query_template": "[out:json][timeout:T];area[\"name\"=\"<AREA_NAME>\"][\"boundary\"=\"administrative\"][\"admin_level\"=\"<LEVEL>\"]->.a;(node(area.a)[amenity=cafe];way(area.a)[amenity=cafe];);out count;",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "queried_at_utc": "2026-08-18",
+  "results": {
+    "City of Edinburgh (council area)": {
+      "match": {"name": "City of Edinburgh", "boundary": "administrative", "admin_level": "6"},
+      "nodes": 699, "ways": 23, "total": 722
+    },
+    "Greater London Authority": {
+      "match": {"name": "Greater London", "boundary": "administrative", "admin_level": "5"},
+      "nodes": 4749, "ways": 2054, "total": 6803
+    },
+    "Brighton and Hove (council area)": {
+      "match": {"name": "Brighton and Hove", "boundary": "administrative", "admin_level": "6"},
+      "nodes": 359, "ways": 47, "total": 406
+    },
+    "Manchester (metropolitan borough)": {
+      "match": {"ref:gss": "E08000003", "boundary": "administrative"},
+      "nodes": 315, "ways": 21, "total": 336
+    },
+    "City of Melbourne (LGA, inner-city core only)": {
+      "match": {"name": "City of Melbourne", "boundary": "administrative", "admin_level": "6"},
+      "nodes": 609, "ways": 31, "total": 640
+    },
+    "Milano (comune)": {
+      "match": {"name": "Milano", "boundary": "administrative", "admin_level": "8"},
+      "nodes": 1753, "ways": 26, "total": 1779
+    },
+    "Napoli (comune)": {
+      "match": {"name": "Napoli", "boundary": "administrative", "admin_level": "8"},
+      "nodes": 469, "ways": 15, "total": 484
+    }
+  },
+  "failed_no_data_obtained": {
+    "Roma (comune)": {
+      "match": {"name": "Roma", "boundary": "administrative", "admin_level": "8"},
+      "reason": "First attempt used wrong entity (\"Roma Capitale\", the metropolitan city, admin_level 6) and correctly returned 0 (no boundary match at admin_level 8 under that name). Corrected query targeting the actual comune (name=Roma, admin_level=8, OSM relation 41485, tagged population 2,848,084) was submitted twice more but both attempts failed: overpass-api.de had rate-limited / temporarily blocked this session's IP by that point (connection refused / timeout, no HTTP response). Not retried further this session."
+    },
+    "City of Sydney (LGA)": {
+      "match": {"name": "City of Sydney", "boundary": "administrative", "admin_level": "6"},
+      "reason": "Two attempts returned HTTP 429 (Too Many Requests) / 504 (Gateway Timeout). Never succeeded."
+    },
+    "City of Brisbane (LGA)": {
+      "match": {"name": "City of Brisbane", "boundary": "administrative", "admin_level": "6"},
+      "reason": "Correct relation identified (id 11677792, admin_level 6) via a diagnostic lookup, but the count query itself failed with connection refused once rate-limiting kicked in. Never retried successfully."
+    }
+  }
+}

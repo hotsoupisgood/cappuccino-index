@@ -1,0 +1,2595 @@
+Currency,Hourly wage,Price per small cappuccino,Country,City,Urban classification,Hourly wage in GBP,Price per cappuccino in GBP
+DKK - Danish Krone,140.00,90.00,Denmark,Copenhagen,Urban,15.99,10.28
+CNY - Yuan Renminbi,30.00,86.00,China,Shenzhen,Urban,3.30,9.45
+USD - US dollar,17.88,12.00,USA,West Richland,Suburban,13.25,8.90
+CHF - Swiss Franc,26.70,9.00,Switzerland,St. Moritz,Rural,24.32,8.20
+DKK - Danish Krone,140.00,65.00,Denmark,Copenhagen,Urban,15.99,7.43
+SGD - Singapore Dollar,19.31,11.90,Singapore,Singapore,Urban,11.18,6.89
+EUR - Euro,15.00,8.00,France,Paris,Urban,12.81,6.83
+CHF - Swiss Franc,23.00,6.80,Switzerland,Bern,Suburban,20.95,6.19
+SAR - Saudi Riyal,21.00,32.00,Saudi Arabia,Jeddah,Urban,4.14,6.30
+DKK - Danish Krone,189.50,55.00,Denmark,Copenhagen,Urban,21.65,6.28
+DKK - Danish Krone,140.00,54.00,Denmark,Copenhagen,Urban,15.99,6.17
+CHF - Swiss Franc,27.00,6.50,Switzerland,Geneva,Urban,24.59,5.92
+CHF - Swiss Franc,24.55,6.50,Switzerland,Geneva,Urban,22.36,5.92
+EUR - Euro,14.00,7.00,France,Paris,Urban,11.96,5.98
+DKK - Danish Krone,160.00,52.00,Denmark,Aalborg,Urban,18.28,5.94
+DKK - Danish Krone,135.00,52.00,Denmark,Copenhagen,Urban,15.42,5.94
+GBP - Pound Sterling,13.00,6.00,UK,Cambridge,Urban,13.00,6.00
+USD - US dollar,13.12,8.00,USA,Holland,Suburban,9.73,5.93
+GBP - Pound Sterling,15.00,5.80,UK,Montclair,Suburban,15.00,5.80
+DKK - Danish Krone,125.00,50.00,Denmark,Copenhagen,Urban,14.28,5.71
+DKK - Danish Krone,140.00,50.00,Denmark,Copenhagen,Urban,15.99,5.71
+DKK - Danish Krone,145.00,50.00,Denmark,Copenhagen,Urban,16.57,5.71
+DKK - Danish Krone,165.00,50.00,Denmark,Copenhagen,Urban,18.85,5.71
+GBP - Pound Sterling,13.00,5.68,UK,London,Urban,13.00,5.68
+CHF - Swiss Franc,28.00,6.00,Switzerland,Zürich,Urban,25.50,5.46
+CHF - Swiss Franc,27.00,6.00,Switzerland,Zürich,Urban,24.59,5.46
+DKK - Danish Krone,218.00,49.00,Denmark,Copenhagen,Suburban,24.91,5.60
+CHF - Swiss Franc,20.00,5.90,Switzerland,Zürich,Urban,18.22,5.37
+DKK - Danish Krone,140.00,48.00,Denmark,Copenhagen,Urban,15.99,5.48
+DKK - Danish Krone,150.00,48.00,Denmark,Copenhagen,Urban,17.14,5.48
+DKK - Danish Krone,155.00,48.00,Denmark,Vedbæk,Suburban,17.71,5.48
+GBP - Pound Sterling,12.21,5.50,UK,Newcastle,Urban,12.21,5.50
+CHF - Swiss Franc,20.70,5.80,Switzerland,Olten,Urban,18.85,5.28
+USD - US dollar,16.00,7.33,USA,,Suburban,11.86,5.43
+CHF - Swiss Franc,25.00,5.70,Switzerland,Zürich,Urban,22.77,5.19
+DKK - Danish Krone,145.00,46.00,Denmark,Copenhagen,Urban,16.57,5.26
+DKK - Danish Krone,145.00,46.00,Denmark,Copenhagen,Urban,16.57,5.26
+DKK - Danish Krone,165.00,46.00,Denmark,Copenhagen,Urban,18.85,5.26
+CHF - Swiss Franc,26.00,5.60,Switzerland,Bern,Urban,23.68,5.10
+CHF - Swiss Franc,23.76,5.60,Switzerland,Zürich,Urban,21.64,5.10
+ISK - Iceland Krona,"2,828.00",880.00,Iceland,Reykjavik,Urban,17.01,5.29
+USD - US dollar,18.00,7.00,USA,Waikiki,Urban,13.34,5.19
+USD - US dollar,27.00,7.00,USA,"Catskill, NY",Rural,20.01,5.19
+USD - US dollar,17.50,7.00,USA,Los Angeles,Urban,12.97,5.19
+USD - US dollar,21.00,7.00,USA,Seattle,Urban,15.57,5.19
+USD - US dollar,20.00,7.00,USA,New York City,Urban,14.83,5.19
+USD - US dollar,30.00,7.00,USA,New York City,Urban,22.24,5.19
+USD - US dollar,13.00,7.00,USA,Dallas,Urban,9.64,5.19
+USD - US dollar,12.00,7.00,USA,Austin,Urban,8.90,5.19
+USD - US dollar,19.50,7.00,USA,New York City,Urban,14.45,5.19
+USD - US dollar,25.00,7.00,USA,San Francisco,Urban,18.53,5.19
+USD - US dollar,25.00,7.00,USA,Prescott,Urban,18.53,5.19
+DKK - Danish Krone,83.00,45.00,Denmark,Aarhus,Urban,9.48,5.14
+DKK - Danish Krone,90.00,45.00,Denmark,Copenhagen,Urban,10.28,5.14
+DKK - Danish Krone,145.00,45.00,Denmark,Copenhagen,Urban,16.57,5.14
+DKK - Danish Krone,150.00,45.00,Denmark,Copenhagen,Urban,17.14,5.14
+DKK - Danish Krone,130.00,45.00,Denmark,Svendborg,Suburban,14.85,5.14
+DKK - Danish Krone,150.00,45.00,Denmark,Copenhagen,Suburban,17.14,5.14
+DKK - Danish Krone,145.00,45.00,Denmark,Copenhagen,Urban,16.57,5.14
+CHF - Swiss Franc,25.00,5.50,Switzerland,Aarau,"Urban, Suburban",22.77,5.01
+CHF - Swiss Franc,21.00,5.50,Switzerland,Zürich,Urban,19.13,5.01
+CHF - Swiss Franc,26.90,5.50,Switzerland,St.Gallen,Urban,24.50,5.01
+EUR - Euro,15.64,6.00,Finland,Helsinki,Urban,13.36,5.12
+EUR - Euro,50.00,6.00,Germany,Stuttgart,Urban,42.70,5.12
+EUR - Euro,13.00,6.00,France,Toulouse,Suburban,11.10,5.12
+USD - US dollar,16.37,6.87,USA,"Saint Paul, MN",Urban,12.13,5.09
+QAR - Qatari Rial,8.00,25.00,Qatar,Doha,Urban,1.63,5.08
+CHF - Swiss Franc,23.00,5.40,Switzerland,Lausanne,Urban,20.95,4.92
+ISK - Iceland Krona,"1,900.00",850.00,Iceland,Akureyri,Urban,11.43,5.11
+RUB - Russian Ruble,300.00,550.00,Russia,Moscow,Urban,2.68,4.92
+AED - UAE Dirham,20.00,25.00,UAE,Abu Dhabi,Urban,4.03,5.04
+AED - UAE Dirham,15.00,25.00,UAE,Umm al quwain,Rural,3.03,5.04
+EUR - Euro,15.00,5.80,Finland,Helsinki,Urban,12.81,4.95
+GBP - Pound Sterling,14.00,5.00,UK,London,Urban,14.00,5.00
+DKK - Danish Krone,142.00,43.00,Denmark,Copenhagen,Urban,16.22,4.91
+USD - US dollar,23.00,6.62,USA,Seattle,Urban,17.05,4.91
+GBP - Pound Sterling,17.50,4.90,UK,London,Urban,17.50,4.90
+GBP - Pound Sterling,14.00,4.90,UK,London,Urban,14.00,4.90
+USD - US dollar,15.75,6.55,USA,"League City, TX",Suburban,11.68,4.86
+TRY - Turkish Lira,55.50,290.00,Turkey,Istanbul,Urban,0.86,4.50
+DKK - Danish Krone,173.00,42.00,Denmark,Aarhus,Urban,19.76,4.80
+DKK - Danish Krone,135.00,42.00,Denmark,Ebeltoft,Suburban,15.42,4.80
+DKK - Danish Krone,180.00,42.00,Denmark,Copenhagen,Urban,20.56,4.80
+DKK - Danish Krone,140.00,42.00,Denmark,,Urban,15.99,4.80
+DKK - Danish Krone,140.00,42.00,Denmark,Aarhus,Urban,15.99,4.80
+DKK - Danish Krone,150.00,42.00,Denmark,Copenhagen,Urban,17.14,4.80
+USD - US dollar,20.00,6.50,USA,New York City,Urban,14.83,4.82
+USD - US dollar,12.00,6.50,USA,Colorado Springs,Urban,8.90,4.82
+USD - US dollar,22.00,6.50,USA,,Rural,16.31,4.82
+USD - US dollar,17.13,6.50,USA,Wenatchee,Suburban,12.70,4.82
+USD - US dollar,12.00,6.50,USA,New York City,Urban,8.90,4.82
+USD - US dollar,22.50,6.50,USA,Berkeley,Urban,16.68,4.82
+USD - US dollar,20.00,6.50,USA,Los Angeles,Urban,14.83,4.82
+USD - US dollar,18.00,6.50,USA,New York City,Urban,13.34,4.82
+USD - US dollar,20.25,6.50,USA,San Francisco,Urban,15.01,4.82
+NOK - Norwegian Krone,170.00,63.00,Norway,Bergen,"Urban, Suburban",13.27,4.92
+GBP - Pound Sterling,12.21,4.80,UK,Sheffield,Urban,12.21,4.80
+GBP - Pound Sterling,15.00,4.80,UK,London,Urban,15.00,4.80
+GBP - Pound Sterling,14.00,4.80,UK,,Rural,14.00,4.80
+SEK - Swedish Krona,170.00,60.00,Sweden,Malmö,Urban,13.15,4.64
+SEK - Swedish Krona,117.00,60.00,Sweden,Stockholm,Suburban,9.05,4.64
+SEK - Swedish Krona,161.00,60.00,Sweden,Malmö,Urban,12.45,4.64
+SEK - Swedish Krona,163.00,60.00,Sweden,Malmö,Urban,12.61,4.64
+CZK - Czech Koruna,160.00,135.00,Czechia,Prague,Urban,5.64,4.76
+USD - US dollar,15.00,6.38,USA,"Fort Myers, FL",Suburban,11.12,4.73
+EUR - Euro,15.00,5.50,France,Paris,Urban,12.81,4.70
+EUR - Euro,14.40,5.50,Netherlands,Rotterdam,"Urban, Suburban",12.30,4.70
+EUR - Euro,22.50,5.50,Netherlands,Rotterdam,Urban,19.22,4.70
+EUR - Euro,8.00,5.50,France,Versailles,Urban,6.83,4.70
+EUR - Euro,12.02,5.50,France,Paris,Urban,10.27,4.70
+EUR - Euro,13.00,5.50,France,Paris,Urban,11.10,4.70
+USD - US dollar,20.00,6.35,USA,Los Angeles,Urban,14.83,4.71
+CHF - Swiss Franc,26.50,5.00,Switzerland,Nyon,Urban,24.14,4.55
+CHF - Swiss Franc,25.00,5.00,Switzerland,Lausanne,Urban,22.77,4.55
+GBP - Pound Sterling,18.50,4.70,UK,London,Urban,18.50,4.70
+GBP - Pound Sterling,14.70,4.70,UK,London,Urban,14.70,4.70
+TWD - New Taiwan Dollar,220.00,200.00,Taiwan,Taichung,Urban,5.06,4.60
+USD - US dollar,22.00,6.25,USA,Los Angeles,Urban,16.31,4.63
+USD - US dollar,15.25,6.25,USA,"Long Island, NY",Suburban,11.30,4.63
+USD - US dollar,19.00,6.25,USA,Boston,Urban,14.08,4.63
+USD - US dollar,21.57,6.25,USA,San Francisco,Urban,15.99,4.63
+USD - US dollar,17.94,6.25,USA,Westlake Village,Suburban,13.30,4.63
+USD - US dollar,20.00,6.25,USA,Los Angeles,Urban,14.83,4.63
+DKK - Danish Krone,150.00,40.00,Denmark,Copenhagen,Urban,17.14,4.57
+DKK - Danish Krone,130.00,40.00,Denmark,Copenhagen,Urban,14.85,4.57
+EUR - Euro,10.00,5.35,France,Lyon,Urban,8.54,4.57
+NOK - Norwegian Krone,204.79,60.00,Norway,Stavanger,Urban,15.98,4.68
+NOK - Norwegian Krone,205.00,60.00,Norway,Bergen,Urban,16.00,4.68
+UYU - Peso Uruguayo,160.00,250.00,Uruguay,Salto,Urban,2.94,4.60
+USD - US dollar,19.00,6.16,USA,Kirkland Washington,Urban,14.08,4.57
+GBP - Pound Sterling,14.83,4.60,UK,Lincoln,Urban,14.83,4.60
+GBP - Pound Sterling,12.41,4.60,UK,Liverpool,Urban,12.41,4.60
+GBP - Pound Sterling,12.70,4.60,UK,Liverpool,Urban,12.70,4.60
+GBP - Pound Sterling,16.00,4.60,UK,London,Urban,16.00,4.60
+EUR - Euro,15.21,5.30,Belgium,Leuven,Urban,12.99,4.53
+TRY - Turkish Lira,130.00,270.00,Turkey,Istanbul,Urban,2.02,4.19
+NOK - Norwegian Krone,187.50,59.00,Norway,Sandnes,Urban,14.63,4.60
+NOK - Norwegian Krone,204.79,59.00,Norway,Bodø,Urban,15.98,4.60
+EUR - Euro,18.50,5.25,Netherlands,Tilburg,Urban,15.80,4.48
+CHF - Swiss Franc,23.00,4.80,Switzerland,Lucerne,Suburban,20.95,4.37
+USD - US dollar,16.90,6.06,USA,Sacramento,Urban,12.53,4.49
+DKK - Danish Krone,140.00,39.00,Denmark,Vejle,Urban,15.99,4.46
+USD - US dollar,10.00,6.04,USA,"Nashville, TN",Urban,7.41,4.48
+USD - US dollar,13.00,6.04,USA,"Nashville, Tn",Urban,9.64,4.48
+EUR - Euro,14.05,5.20,Ireland,Waterford,Urban,12.00,4.44
+GBP - Pound Sterling,12.21,4.50,UK,Leeds,Urban,12.21,4.50
+GBP - Pound Sterling,13.50,4.50,UK,Near York,Rural,13.50,4.50
+GBP - Pound Sterling,13.50,4.50,UK,London,Urban,13.50,4.50
+GBP - Pound Sterling,15.00,4.50,UK,Glasgow,Suburban,15.00,4.50
+GBP - Pound Sterling,12.25,4.50,UK,,Rural,12.25,4.50
+GBP - Pound Sterling,14.25,4.50,UK,London,Urban,14.25,4.50
+GBP - Pound Sterling,16.75,4.50,UK,London,Urban,16.75,4.50
+GBP - Pound Sterling,17.00,4.50,UK,London,Urban,17.00,4.50
+GBP - Pound Sterling,13.50,4.50,UK,London,Urban,13.50,4.50
+GBP - Pound Sterling,19.80,4.50,UK,London,Urban,19.80,4.50
+GBP - Pound Sterling,13.50,4.50,UK,London,Urban,13.50,4.50
+GBP - Pound Sterling,14.00,4.50,UK,London,Urban,14.00,4.50
+GBP - Pound Sterling,13.75,4.50,UK,,Rural,13.75,4.50
+GBP - Pound Sterling,15.00,4.50,UK,Ballymena,Suburban,15.00,4.50
+GBP - Pound Sterling,13.50,4.50,UK,Bristol,Urban,13.50,4.50
+GBP - Pound Sterling,13.85,4.50,UK,London,Urban,13.85,4.50
+USD - US dollar,15.00,6.00,USA,"Dripping Springs, Texas",Suburban,11.12,4.45
+USD - US dollar,24.00,6.00,USA,Renton,Suburban,17.79,4.45
+USD - US dollar,16.90,6.00,USA,"Napa, Ca",Urban,12.53,4.45
+USD - US dollar,6.25,6.00,USA,"San Marcos, TX",Urban,4.63,4.45
+USD - US dollar,13.00,6.00,USA,Phoenix,Suburban,9.64,4.45
+USD - US dollar,23.30,6.00,USA,"West Hollywood, CA",Urban,17.27,4.45
+USD - US dollar,15.97,6.00,USA,Minneapolis,Urban,11.84,4.45
+USD - US dollar,16.00,6.00,USA,Salt Lake City,Urban,11.86,4.45
+USD - US dollar,16.80,6.00,USA,Houghton,Rural,12.45,4.45
+USD - US dollar,16.15,6.00,USA,"Houghton, MI",Rural,11.97,4.45
+USD - US dollar,19.00,6.00,USA,"Speedway, Indiana",Suburban,14.08,4.45
+USD - US dollar,18.00,6.00,USA,"Staunton, VA",Urban,13.34,4.45
+USD - US dollar,24.50,6.00,USA,San Francisco,Urban,18.16,4.45
+USD - US dollar,16.00,6.00,USA,"Tulsa, OK",Urban,11.86,4.45
+USD - US dollar,21.00,6.00,USA,Nashville,Urban,15.57,4.45
+USD - US dollar,21.00,6.00,USA,New York City,Urban,15.57,4.45
+USD - US dollar,18.00,6.00,USA,Aurora IL,Suburban,13.34,4.45
+USD - US dollar,12.00,6.00,USA,"Fayetteville, Ar",Urban,8.90,4.45
+USD - US dollar,20.00,6.00,USA,New York City,Urban,14.83,4.45
+USD - US dollar,20.00,6.00,USA,San Luis Obispo,Suburban,14.83,4.45
+USD - US dollar,21.00,6.00,USA,Los Angeles,Urban,15.57,4.45
+USD - US dollar,12.50,6.00,USA,"Wilmington, DE",Suburban,9.27,4.45
+USD - US dollar,19.00,6.00,USA,Boston,Urban,14.08,4.45
+USD - US dollar,17.00,6.00,USA,Washington DC,Urban,12.60,4.45
+USD - US dollar,15.00,6.00,USA,Dallas,Urban,11.12,4.45
+USD - US dollar,17.00,6.00,USA,,Urban,12.60,4.45
+USD - US dollar,20.00,6.00,USA,Alexandria Virginia,Suburban,14.83,4.45
+USD - US dollar,18.00,6.00,USA,,Suburban,13.34,4.45
+USD - US dollar,33.00,6.00,USA,Nashville,Suburban,24.46,4.45
+USD - US dollar,11.00,6.00,USA,,Rural,8.15,4.45
+USD - US dollar,18.00,6.00,USA,New York City,Urban,13.34,4.45
+USD - US dollar,18.00,6.00,USA,Los Angeles,Suburban,13.34,4.45
+USD - US dollar,18.00,6.00,USA,"Nashville, TN",Urban,13.34,4.45
+USD - US dollar,16.50,6.00,USA,,Suburban,12.23,4.45
+USD - US dollar,18.50,5.99,USA,New York City,Urban,13.71,4.44
+USD - US dollar,14.00,5.99,USA,New York City,Urban,10.38,4.44
+NOK - Norwegian Krone,220.00,58.00,Norway,Oslo,Urban,17.17,4.53
+NOK - Norwegian Krone,200.00,58.00,Norway,Oslo,Urban,15.61,4.53
+PLN - Zloty,44.00,22.00,Poland,Warsaw,Urban,8.73,4.36
+USD - US dollar,11.50,5.95,USA,Boston,Urban,8.52,4.41
+USD - US dollar,16.00,5.95,USA,Branson,"Urban, Suburban",11.86,4.41
+USD - US dollar,17.00,5.95,USA,Los Angeles,Urban,12.60,4.41
+USD - US dollar,24.00,5.94,USA,Burlingame,Urban,17.79,4.40
+USD - US dollar,31.25,5.92,USA,"Milwaukee, WI",Urban,23.16,4.39
+EUR - Euro,24.00,5.10,Finland,Helsinki,Suburban,20.50,4.36
+EUR - Euro,17.00,5.10,Austria,Salzburg,Urban,14.52,4.36
+USD - US dollar,12.00,5.89,USA,"Hollywood, FL",Urban,8.90,4.37
+DKK - Danish Krone,140.00,38.00,Denmark,Silkeborg,Urban,15.99,4.34
+GBP - Pound Sterling,14.85,4.40,UK,London,Urban,14.85,4.40
+GBP - Pound Sterling,13.50,4.40,UK,London,Urban,13.50,4.40
+GBP - Pound Sterling,14.30,4.40,UK,Falmouth,"Suburban, Rural",14.30,4.40
+GBP - Pound Sterling,12.03,4.40,UK,Derby,Urban,12.03,4.40
+GBP - Pound Sterling,13.30,4.40,UK,Edinburgh,Urban,13.30,4.40
+GBP - Pound Sterling,12.80,4.40,UK,Doncaster,Suburban,12.80,4.40
+GBP - Pound Sterling,13.70,4.40,UK,,Suburban,13.70,4.40
+GBP - Pound Sterling,12.21,4.40,UK,London,Urban,12.21,4.40
+GBP - Pound Sterling,12.21,4.40,UK,Cambridge,Urban,12.21,4.40
+GBP - Pound Sterling,13.00,4.40,UK,Edinburgh,Urban,13.00,4.40
+GBP - Pound Sterling,16.50,4.40,UK,London,Urban,16.50,4.40
+GBP - Pound Sterling,12.30,4.40,UK,London,Urban,12.30,4.40
+GBP - Pound Sterling,17.10,4.40,UK,London,Urban,17.10,4.40
+GBP - Pound Sterling,12.39,4.40,UK,Southampton,Urban,12.39,4.40
+GBP - Pound Sterling,12.40,4.40,UK,,Urban,12.40,4.40
+GBP - Pound Sterling,12.50,4.40,UK,Southampton,Urban,12.50,4.40
+GBP - Pound Sterling,12.50,4.40,UK,Edinburgh,Urban,12.50,4.40
+SEK - Swedish Krona,155.00,55.00,Sweden,Malmö,Urban,11.99,4.25
+SEK - Swedish Krona,149.00,55.00,Sweden,Sundsvall,Urban,11.52,4.25
+HKD - Hong Kong Dollar,80.00,46.00,China,Hong Kong,Urban,7.56,4.35
+NOK - Norwegian Krone,217.00,57.00,Norway,Bergen,Urban,16.93,4.45
+NOK - Norwegian Krone,204.00,57.00,Norway,Trondheim,Urban,15.92,4.45
+USD - US dollar,17.00,5.82,USA,New York City,Urban,12.60,4.31
+CAD - Canadian Dollar,18.00,8.00,Canada,Calgary,Urban,9.57,4.25
+USD - US dollar,20.76,5.79,USA,Seattle,Urban,15.39,4.29
+EUR - Euro,11.50,5.00,France,Paris,Urban,9.82,4.27
+EUR - Euro,12.00,5.00,France,Paris,Urban,10.25,4.27
+EUR - Euro,15.00,5.00,Germany,Berlin,Urban,12.81,4.27
+EUR - Euro,8.00,5.00,Lithuania,Vilnius,Urban,6.83,4.27
+EUR - Euro,6.00,5.00,Greece,Athens,Urban,5.12,4.27
+EUR - Euro,12.60,5.00,France,Paris,Urban,10.76,4.27
+EUR - Euro,25.00,5.00,France,Paris,Urban,21.35,4.27
+EUR - Euro,32.00,5.00,Germany,Hamburg,Urban,27.33,4.27
+EUR - Euro,16.00,5.00,Finland,Helsinki,Urban,13.66,4.27
+EUR - Euro,20.00,5.00,Germany,Dortmund,Urban,17.08,4.27
+EUR - Euro,2.00,5.00,Greece,Athens,Urban,1.71,4.27
+EUR - Euro,11.83,5.00,France,Paris,Urban,10.10,4.27
+EUR - Euro,23.00,5.00,Netherlands,Amsterdam,Urban,19.64,4.27
+USD - US dollar,20.00,5.75,USA,Los Angeles,Urban,14.83,4.26
+USD - US dollar,18.00,5.75,USA,"Santa Barbara, CA",Urban,13.34,4.26
+USD - US dollar,20.17,5.75,USA,Seatac,Urban,14.95,4.26
+USD - US dollar,16.50,5.75,USA,Gresham Oregon,Suburban,12.23,4.26
+USD - US dollar,16.90,5.75,USA,"Merced, CA","Urban, Rural",12.53,4.26
+USD - US dollar,18.04,5.75,USA,"Pasadena, CA",Suburban,13.37,4.26
+GBP - Pound Sterling,13.85,4.30,UK,London,Urban,13.85,4.30
+GBP - Pound Sterling,17.00,4.30,UK,London,Urban,17.00,4.30
+GBP - Pound Sterling,15.50,4.30,UK,London,Urban,15.50,4.30
+GBP - Pound Sterling,13.50,4.30,UK,Bath,Urban,13.50,4.30
+GBP - Pound Sterling,12.90,4.30,UK,London,Urban,12.90,4.30
+GBP - Pound Sterling,16.00,4.30,UK,London,Urban,16.00,4.30
+GBP - Pound Sterling,12.44,4.30,UK,Belfast,Urban,12.44,4.30
+GBP - Pound Sterling,15.50,4.30,UK,London,Urban,15.50,4.30
+GBP - Pound Sterling,17.00,4.30,UK,London,Urban,17.00,4.30
+HKD - Hong Kong Dollar,75.00,45.00,China,Hong Kong,Urban,7.08,4.25
+AED - UAE Dirham,72.00,21.00,UAE,Dubai,Urban,14.52,4.24
+USD - US dollar,21.30,5.70,USA,Seattle,Urban,15.79,4.23
+USD - US dollar,10.00,5.69,USA,Bowing Green Ohio,Rural,7.41,4.22
+GBP - Pound Sterling,13.00,4.25,UK,Edinburgh,Urban,13.00,4.25
+GBP - Pound Sterling,12.21,4.25,UK,Manchester,Urban,12.21,4.25
+GBP - Pound Sterling,17.50,4.25,UK,,Urban,17.50,4.25
+USD - US dollar,18.80,5.68,USA,Austin,Urban,13.94,4.21
+EUR - Euro,15.00,4.90,Germany,Hamburg,Urban,12.81,4.18
+EUR - Euro,13.90,4.90,Germany,Oldenburg,Urban,11.87,4.18
+EUR - Euro,14.70,4.90,Netherlands,Amsterdam,Urban,12.55,4.18
+EUR - Euro,9.55,4.90,France,Paris,Urban,8.16,4.18
+EUR - Euro,15.00,4.90,France,Paris,Urban,12.81,4.18
+USD - US dollar,18.00,5.67,USA,Boston,"Urban, Suburban",13.34,4.20
+NOK - Norwegian Krone,250.00,55.00,Norway,Oslo,Urban,19.51,4.29
+NOK - Norwegian Krone,195.00,55.00,Norway,Stavanger,Urban,15.22,4.29
+NOK - Norwegian Krone,230.00,55.00,Norway,Bergen,Urban,17.95,4.29
+USD - US dollar,23.00,5.65,USA,Santa Clara,Suburban,17.05,4.19
+USD - US dollar,15.25,5.65,USA,Near Denver CO,Suburban,11.30,4.19
+USD - US dollar,21.80,5.65,USA,Seattle,Urban,16.16,4.19
+USD - US dollar,14.00,5.64,USA,Phoenix,Urban,10.38,4.18
+USD - US dollar,17.50,5.63,USA,Thousand Oaks,Suburban,12.97,4.17
+GBP - Pound Sterling,13.00,4.20,UK,Portsmouth,Suburban,13.00,4.20
+GBP - Pound Sterling,12.50,4.20,UK,Bath,Urban,12.50,4.20
+GBP - Pound Sterling,12.21,4.20,UK,London,Urban,12.21,4.20
+GBP - Pound Sterling,12.21,4.20,UK,Liverpool,Suburban,12.21,4.20
+GBP - Pound Sterling,13.50,4.20,UK,Lewes,Suburban,13.50,4.20
+GBP - Pound Sterling,14.00,4.20,UK,Bristol,Urban,14.00,4.20
+GBP - Pound Sterling,16.00,4.20,UK,London,Suburban,16.00,4.20
+GBP - Pound Sterling,12.21,4.20,UK,Hastings,Urban,12.21,4.20
+GBP - Pound Sterling,13.85,4.20,UK,London,Urban,13.85,4.20
+GBP - Pound Sterling,13.00,4.20,UK,Bristol,Urban,13.00,4.20
+GBP - Pound Sterling,12.71,4.20,UK,Glasgow,Urban,12.71,4.20
+GBP - Pound Sterling,14.00,4.20,UK,London,Urban,14.00,4.20
+GBP - Pound Sterling,14.00,4.20,UK,London,Urban,14.00,4.20
+GBP - Pound Sterling,7.55,4.20,UK,Poole,Suburban,7.55,4.20
+GBP - Pound Sterling,12.21,4.20,UK,Newcastle Upon Tyne,Urban,12.21,4.20
+GBP - Pound Sterling,12.80,4.20,UK,Edinburgh,Urban,12.80,4.20
+GBP - Pound Sterling,12.64,4.20,UK,Manchester,Urban,12.64,4.20
+GBP - Pound Sterling,19.23,4.20,UK,London,Urban,19.23,4.20
+GBP - Pound Sterling,17.00,4.20,UK,London,Urban,17.00,4.20
+GBP - Pound Sterling,12.21,4.20,UK,Leeds,"Urban, Suburban",12.21,4.20
+GBP - Pound Sterling,13.20,4.20,UK,Cambridge,Suburban,13.20,4.20
+GBP - Pound Sterling,13.44,4.20,UK,,Rural,13.44,4.20
+GBP - Pound Sterling,12.50,4.20,UK,London,Urban,12.50,4.20
+GBP - Pound Sterling,14.80,4.20,UK,London,Urban,14.80,4.20
+GBP - Pound Sterling,14.70,4.20,UK,London,Urban,14.70,4.20
+GBP - Pound Sterling,15.00,4.20,UK,London,Urban,15.00,4.20
+GBP - Pound Sterling,12.21,4.20,UK,Belfast,Urban,12.21,4.20
+GBP - Pound Sterling,14.40,4.20,UK,Farnham,Suburban,14.40,4.20
+GBP - Pound Sterling,12.21,4.20,UK,Bristol,Urban,12.21,4.20
+GBP - Pound Sterling,15.00,4.20,UK,London,Urban,15.00,4.20
+GBP - Pound Sterling,12.21,4.20,UK,Cardiff,"Urban, Suburban",12.21,4.20
+GBP - Pound Sterling,13.00,4.20,UK,Aberdeen,Urban,13.00,4.20
+GBP - Pound Sterling,14.50,4.20,UK,London,Urban,14.50,4.20
+GBP - Pound Sterling,13.00,4.20,UK,Edinburgh,Urban,13.00,4.20
+GBP - Pound Sterling,12.50,4.20,UK,Bristol,Urban,12.50,4.20
+GBP - Pound Sterling,13.50,4.20,UK,Cambridge,Suburban,13.50,4.20
+GBP - Pound Sterling,12.95,4.20,UK,London,Urban,12.95,4.20
+GBP - Pound Sterling,12.30,4.20,UK,Birmingham,Urban,12.30,4.20
+GBP - Pound Sterling,12.21,4.20,UK,London,Urban,12.21,4.20
+USD - US dollar,13.50,5.61,USA,Washington DC,Urban,10.01,4.16
+NOK - Norwegian Krone,250.00,54.00,Norway,Oslo,Suburban,19.51,4.21
+NOK - Norwegian Krone,220.00,54.00,Norway,Bergen,Suburban,17.17,4.21
+NOK - Norwegian Krone,198.00,54.00,Norway,Oslo,Urban,15.45,4.21
+NOK - Norwegian Krone,231.00,54.00,Norway,Oslo,Urban,18.03,4.21
+SEK - Swedish Krona,167.00,52.00,Sweden,Stockholm,Urban,12.91,4.02
+SEK - Swedish Krona,161.00,52.00,Sweden,Skövde,Urban,12.45,4.02
+SEK - Swedish Krona,166.00,52.00,Sweden,Stora Höga,Suburban,12.84,4.02
+EUR - Euro,18.70,4.80,Austria,Vienna,Urban,15.97,4.10
+EUR - Euro,13.32,4.80,Netherlands,Eindhoven,Urban,11.38,4.10
+EUR - Euro,11.00,4.80,Austria,Vienna,Urban,9.39,4.10
+EUR - Euro,18.40,4.80,Germany,Hamburg,Urban,15.71,4.10
+EUR - Euro,13.90,4.80,Germany,Hamburg,Urban,11.87,4.10
+EUR - Euro,18.00,4.80,Ireland,Dublin,Suburban,15.37,4.10
+EUR - Euro,16.40,4.80,Netherlands,Utrecht,Urban,14.01,4.10
+EUR - Euro,12.50,4.80,Germany,Luebeck,Suburban,10.68,4.10
+GBP - Pound Sterling,12.71,4.15,UK,Liverpool,Urban,12.71,4.15
+USD - US dollar,21.70,5.51,USA,Seattle,Urban,16.09,4.08
+USD - US dollar,15.00,5.50,USA,Deland,Urban,11.12,4.08
+USD - US dollar,17.00,5.50,USA,New York City,Urban,12.60,4.08
+USD - US dollar,21.00,5.50,USA,Berkeley,Urban,15.57,4.08
+USD - US dollar,20.00,5.50,USA,Charleston,Urban,14.83,4.08
+USD - US dollar,15.00,5.50,USA,Fairfax,Suburban,11.12,4.08
+USD - US dollar,15.00,5.50,USA,Austin,Urban,11.12,4.08
+USD - US dollar,18.50,5.50,USA,San José,Urban,13.71,4.08
+USD - US dollar,17.00,5.50,USA,New York City,Urban,12.60,4.08
+USD - US dollar,16.50,5.50,USA,Chicago,Urban,12.23,4.08
+USD - US dollar,14.00,5.50,USA,"Normal, IL","Urban, Suburban",10.38,4.08
+USD - US dollar,27.00,5.50,USA,"Santa Barbara, CA",Urban,20.01,4.08
+USD - US dollar,17.80,5.50,USA,Los Angeles,Urban,13.19,4.08
+USD - US dollar,21.30,5.50,USA,Seattle,Urban,15.79,4.08
+USD - US dollar,20.00,5.50,USA,Detroit,Urban,14.83,4.08
+USD - US dollar,15.00,5.50,USA,Washington DC,Urban,11.12,4.08
+USD - US dollar,20.00,5.50,USA,Los Angeles,Urban,14.83,4.08
+USD - US dollar,21.00,5.50,USA,Seattle,Urban,15.57,4.08
+USD - US dollar,23.00,5.50,USA,Menlo Park,Suburban,17.05,4.08
+USD - US dollar,15.50,5.50,USA,New York City,Urban,11.49,4.08
+USD - US dollar,13.00,5.50,USA,Biloxi,Suburban,9.64,4.08
+USD - US dollar,14.85,5.50,USA,Nashville,Urban,11.01,4.08
+USD - US dollar,19.90,5.50,USA,Venice,Suburban,14.75,4.08
+USD - US dollar,15.50,5.50,USA,"Uxbridge, MA",Suburban,11.49,4.08
+USD - US dollar,20.00,5.50,USA,Newport Beach,Suburban,14.83,4.08
+USD - US dollar,16.00,5.50,USA,,Suburban,11.86,4.08
+USD - US dollar,25.00,5.50,USA,Dearborn Heights,Suburban,18.53,4.08
+USD - US dollar,21.00,5.50,USA,New York City,Urban,15.57,4.08
+USD - US dollar,17.00,5.50,USA,Indianapolis,Urban,12.60,4.08
+USD - US dollar,22.00,5.50,USA,Dana Point,Suburban,16.31,4.08
+USD - US dollar,16.40,5.50,USA,Minneapolis,Urban,12.16,4.08
+USD - US dollar,20.00,5.50,USA,"Glendale, CA",Suburban,14.83,4.08
+USD - US dollar,23.00,5.50,USA,Seattle,Urban,17.05,4.08
+USD - US dollar,17.00,5.50,USA,New York City,Urban,12.60,4.08
+USD - US dollar,10.00,5.50,USA,Dallas,Suburban,7.41,4.08
+USD - US dollar,11.00,5.50,USA,"Saint Louis, MO",Urban,8.15,4.08
+USD - US dollar,11.25,5.50,USA,San Antonio,Urban,8.34,4.08
+USD - US dollar,19.00,5.50,USA,Washington DC,Urban,14.08,4.08
+USD - US dollar,17.50,5.50,USA,Baltimore,Urban,12.97,4.08
+USD - US dollar,16.50,5.50,USA,"Huntington Beach, California",Suburban,12.23,4.08
+USD - US dollar,13.50,5.50,USA,"Richmond, VA",Urban,10.01,4.08
+USD - US dollar,17.50,5.50,USA,Huntington Beach,Suburban,12.97,4.08
+USD - US dollar,11.00,5.50,USA,Atlanta,Urban,8.15,4.08
+USD - US dollar,12.00,5.50,USA,"Weatherford, Texas",Suburban,8.90,4.08
+USD - US dollar,19.00,5.50,USA,Long Beach,Urban,14.08,4.08
+USD - US dollar,26.00,5.50,USA,Philadelphia,Urban,19.27,4.08
+USD - US dollar,12.00,5.50,USA,St. Louis,Urban,8.90,4.08
+USD - US dollar,15.00,5.50,USA,New Orleans,Urban,11.12,4.08
+USD - US dollar,16.66,5.50,USA,New York City,Urban,12.35,4.08
+USD - US dollar,15.00,5.50,USA,Washington DC,Urban,11.12,4.08
+USD - US dollar,16.00,5.50,USA,Princeton,Suburban,11.86,4.08
+EUR - Euro,20.00,4.75,Netherlands,Rotterdam,"Urban, Suburban",17.08,4.06
+USD - US dollar,16.00,5.49,USA,,Suburban,11.86,4.07
+USD - US dollar,10.00,5.49,USA,Germantown,Suburban,7.41,4.07
+USD - US dollar,19.00,5.49,USA,Washington DC,Urban,14.08,4.07
+USD - US dollar,20.00,5.49,USA,Los Angeles,Urban,14.83,4.07
+GBP - Pound Sterling,14.50,4.10,UK,Reading,"Urban, Suburban",14.50,4.10
+GBP - Pound Sterling,12.21,4.10,UK,Stafford,Urban,12.21,4.10
+GBP - Pound Sterling,12.40,4.10,UK,Edinburgh,Urban,12.40,4.10
+GBP - Pound Sterling,14.50,4.10,UK,London,Urban,14.50,4.10
+GBP - Pound Sterling,15.30,4.10,UK,Huddersfield,Rural,15.30,4.10
+GBP - Pound Sterling,12.00,4.10,UK,London,Suburban,12.00,4.10
+GBP - Pound Sterling,12.51,4.10,UK,Huddersfield,Urban,12.51,4.10
+GBP - Pound Sterling,12.21,4.10,UK,"Shrewsbury, Shropshire",Urban,12.21,4.10
+GBP - Pound Sterling,12.40,4.10,UK,Bristol,Urban,12.40,4.10
+GBP - Pound Sterling,10.50,4.10,UK,Eastbourne,Suburban,10.50,4.10
+GBP - Pound Sterling,13.00,4.10,UK,Oxford,Urban,13.00,4.10
+GBP - Pound Sterling,13.00,4.10,UK,Swansea,Urban,13.00,4.10
+GBP - Pound Sterling,12.60,4.10,UK,Edinburgh,Urban,12.60,4.10
+GBP - Pound Sterling,12.40,4.10,UK,Bath,Urban,12.40,4.10
+GBP - Pound Sterling,12.60,4.10,UK,Cardiff,Urban,12.60,4.10
+GBP - Pound Sterling,15.00,4.10,UK,London,Urban,15.00,4.10
+GBP - Pound Sterling,12.21,4.10,UK,Leeds,Suburban,12.21,4.10
+GBP - Pound Sterling,12.21,4.10,UK,Aberdeen,Suburban,12.21,4.10
+GBP - Pound Sterling,12.30,4.10,UK,Bath,Urban,12.30,4.10
+GBP - Pound Sterling,12.60,4.10,UK,Oxford,"Urban, Suburban",12.60,4.10
+GBP - Pound Sterling,13.00,4.10,UK,York,Urban,13.00,4.10
+GBP - Pound Sterling,12.21,4.10,UK,Southampton,Urban,12.21,4.10
+GBP - Pound Sterling,12.40,4.10,UK,Bath,Urban,12.40,4.10
+GBP - Pound Sterling,12.75,4.10,UK,London,Suburban,12.75,4.10
+GBP - Pound Sterling,12.60,4.10,UK,Edinburgh,Urban,12.60,4.10
+GBP - Pound Sterling,13.15,4.10,UK,London,Urban,13.15,4.10
+GBP - Pound Sterling,12.30,4.10,UK,Leeds,Urban,12.30,4.10
+GBP - Pound Sterling,13.15,4.10,UK,London,Urban,13.15,4.10
+GBP - Pound Sterling,12.50,4.10,UK,Leeds,Urban,12.50,4.10
+GBP - Pound Sterling,12.40,4.10,UK,Bath,Urban,12.40,4.10
+USD - US dollar,15.25,5.45,USA,"Kalamazoo, MI","Urban, Suburban",11.30,4.04
+USD - US dollar,16.50,5.45,USA,"Chico, Ca",Suburban,12.23,4.04
+USD - US dollar,20.25,5.45,USA,"Newark, CA",Suburban,15.01,4.04
+USD - US dollar,24.00,5.44,USA,Brooklyn,Urban,17.79,4.03
+USD - US dollar,18.00,5.44,USA,"Buffalo, NY",Urban,13.34,4.03
+EUR - Euro,14.97,4.70,Germany,Kiel,Urban,12.79,4.01
+EUR - Euro,14.00,4.70,France,Chamonix,Urban,11.96,4.01
+EUR - Euro,14.00,4.70,Finland,Helsinki,Urban,11.96,4.01
+EUR - Euro,15.00,4.70,Netherlands,Amsterdam,Urban,12.81,4.01
+ILS - New Israeli Sheqel,45.00,17.00,Israel,Haifa,Urban,11.18,4.22
+ILS - New Israeli Sheqel,42.00,17.00,Israel,Tel Aviv,Urban,10.44,4.22
+USD - US dollar,12.00,5.43,USA,Oyster bay,Suburban,8.90,4.03
+USD - US dollar,10.50,5.43,USA,San Antonio,Urban,7.78,4.03
+DKK - Danish Krone,150.00,35.00,Denmark,Copenhagen,Urban,17.14,4.00
+PLN - Zloty,35.00,20.00,Poland,Warsaw,Urban,6.94,3.97
+USD - US dollar,24.50,5.40,USA,Boston,Urban,18.16,4.00
+USD - US dollar,12.00,5.40,USA,"Traverse City, Michigan",Suburban,8.90,4.00
+USD - US dollar,21.33,5.40,USA,Seattle,Urban,15.81,4.00
+USD - US dollar,15.50,5.38,USA,Albuquerque,Urban,11.49,3.99
+USD - US dollar,14.25,5.38,USA,Tallahassee,Suburban,10.56,3.99
+CRC - Costa Rican Colon,"2,200.00","2,500.00",Costa Rica,Heredia,Urban,3.59,4.08
+USD - US dollar,17.20,5.37,USA,St. Paul,Urban,12.75,3.98
+HKD - Hong Kong Dollar,98.70,42.00,China,Hong Kong,Urban,9.32,3.97
+HKD - Hong Kong Dollar,67.00,42.00,China,Hong Kong,Urban,6.33,3.97
+USD - US dollar,16.50,5.35,USA,Portland,Suburban,12.23,3.97
+USD - US dollar,17.50,5.35,USA,,Urban,12.97,3.97
+USD - US dollar,24.10,5.35,USA,"Asheville, NC",Urban,17.86,3.97
+GBP - Pound Sterling,14.00,4.00,UK,London,Urban,14.00,4.00
+GBP - Pound Sterling,12.50,4.00,UK,London,Urban,12.50,4.00
+GBP - Pound Sterling,11.50,4.00,UK,Oxford,Urban,11.50,4.00
+GBP - Pound Sterling,13.00,4.00,UK,Manchester,Suburban,13.00,4.00
+GBP - Pound Sterling,14.90,4.00,UK,Teesside,Urban,14.90,4.00
+GBP - Pound Sterling,12.38,4.00,UK,Bath,Urban,12.38,4.00
+GBP - Pound Sterling,14.00,4.00,UK,London,Urban,14.00,4.00
+GBP - Pound Sterling,14.00,4.00,UK,"Frome, Somerset","Urban, Rural",14.00,4.00
+GBP - Pound Sterling,13.50,4.00,UK,London,Urban,13.50,4.00
+GBP - Pound Sterling,11.21,4.00,UK,Guildford,Suburban,11.21,4.00
+GBP - Pound Sterling,13.00,4.00,UK,Glasgow,Urban,13.00,4.00
+GBP - Pound Sterling,17.00,4.00,UK,London,Suburban,17.00,4.00
+GBP - Pound Sterling,16.20,4.00,UK,Gatwick,Urban,16.20,4.00
+GBP - Pound Sterling,12.60,4.00,UK,Preston,Suburban,12.60,4.00
+GBP - Pound Sterling,12.00,4.00,UK,Edinburgh,Urban,12.00,4.00
+GBP - Pound Sterling,13.00,4.00,UK,Bath,Urban,13.00,4.00
+GBP - Pound Sterling,15.00,4.00,UK,London,Urban,15.00,4.00
+GBP - Pound Sterling,12.50,4.00,UK,,Suburban,12.50,4.00
+GBP - Pound Sterling,12.50,4.00,UK,Liverpool,Suburban,12.50,4.00
+GBP - Pound Sterling,16.00,4.00,UK,London,Urban,16.00,4.00
+GBP - Pound Sterling,14.00,4.00,UK,Liverpool,Urban,14.00,4.00
+GBP - Pound Sterling,13.00,4.00,UK,Manchester,Urban,13.00,4.00
+GBP - Pound Sterling,15.00,4.00,UK,London,Urban,15.00,4.00
+GBP - Pound Sterling,13.00,4.00,UK,Manchester,Urban,13.00,4.00
+GBP - Pound Sterling,12.21,4.00,UK,Hertfordshire,Suburban,12.21,4.00
+GBP - Pound Sterling,15.00,4.00,UK,London,Urban,15.00,4.00
+GBP - Pound Sterling,14.50,4.00,UK,St. James park ( westminster),Urban,14.50,4.00
+GBP - Pound Sterling,15.50,4.00,UK,London,Urban,15.50,4.00
+GBP - Pound Sterling,13.00,4.00,UK,London,Rural,13.00,4.00
+GBP - Pound Sterling,12.51,4.00,UK,Leicester,Urban,12.51,4.00
+GBP - Pound Sterling,13.00,4.00,UK,Winchester,"Suburban, Rural",13.00,4.00
+GBP - Pound Sterling,13.60,4.00,UK,Manchester,Urban,13.60,4.00
+GBP - Pound Sterling,12.21,4.00,UK,Edinburgh,Urban,12.21,4.00
+GBP - Pound Sterling,13.50,4.00,UK,Leeds,Urban,13.50,4.00
+GBP - Pound Sterling,13.00,4.00,UK,Wakefield,Suburban,13.00,4.00
+GBP - Pound Sterling,14.85,4.00,UK,London,Urban,14.85,4.00
+GBP - Pound Sterling,16.50,4.00,UK,London,Urban,16.50,4.00
+GBP - Pound Sterling,14.00,4.00,UK,London,Urban,14.00,4.00
+GBP - Pound Sterling,14.23,4.00,UK,Exeter,Urban,14.23,4.00
+GBP - Pound Sterling,11.50,4.00,UK,Leeds,Urban,11.50,4.00
+GBP - Pound Sterling,13.00,4.00,UK,Eastbourne,Urban,13.00,4.00
+GBP - Pound Sterling,13.00,4.00,UK,Bournemouth,Urban,13.00,4.00
+GBP - Pound Sterling,15.00,4.00,UK,London,Urban,15.00,4.00
+GBP - Pound Sterling,12.30,4.00,UK,Birmingham,Urban,12.30,4.00
+GBP - Pound Sterling,13.50,4.00,UK,Worcester,Suburban,13.50,4.00
+GBP - Pound Sterling,13.50,4.00,UK,London,Urban,13.50,4.00
+GBP - Pound Sterling,14.75,4.00,UK,London,Urban,14.75,4.00
+GBP - Pound Sterling,13.00,4.00,UK,Birmingham,Urban,13.00,4.00
+GBP - Pound Sterling,13.50,4.00,UK,Lyme Regis,Urban,13.50,4.00
+GBP - Pound Sterling,14.00,4.00,UK,Bristol,Urban,14.00,4.00
+GBP - Pound Sterling,13.50,4.00,UK,Bournemouth,Urban,13.50,4.00
+GBP - Pound Sterling,14.00,4.00,UK,London,Urban,14.00,4.00
+GBP - Pound Sterling,14.80,4.00,UK,London,Urban,14.80,4.00
+GBP - Pound Sterling,13.50,4.00,UK,Edinburgh,Urban,13.50,4.00
+GBP - Pound Sterling,12.42,4.00,UK,Edinburgh,Urban,12.42,4.00
+GBP - Pound Sterling,14.80,4.00,UK,London,Urban,14.80,4.00
+GBP - Pound Sterling,15.00,4.00,UK,London,Urban,15.00,4.00
+GBP - Pound Sterling,14.20,4.00,UK,London,Urban,14.20,4.00
+GBP - Pound Sterling,12.80,4.00,UK,Penryn,Suburban,12.80,4.00
+GBP - Pound Sterling,13.60,4.00,UK,Manchester,Urban,13.60,4.00
+SEK - Swedish Krona,168.00,50.00,Sweden,Stockholm,Urban,12.99,3.87
+SEK - Swedish Krona,169.00,50.00,Sweden,Stockholm,Urban,13.07,3.87
+GBP - Pound Sterling,15.00,3.99,UK,London,Urban,15.00,3.99
+USD - US dollar,17.00,5.33,USA,"Joplin, Missouri",Suburban,12.60,3.95
+EUR - Euro,14.00,4.60,Germany,Frankfurt,Urban,11.96,3.93
+EUR - Euro,19.00,4.60,Belgium,Brussels,Urban,16.23,3.93
+GBP - Pound Sterling,12.21,3.95,UK,Milton Keynes,Suburban,12.21,3.95
+GBP - Pound Sterling,12.44,3.95,UK,Manchester,Urban,12.44,3.95
+GBP - Pound Sterling,11.58,3.95,UK,Nottingham,Urban,11.58,3.95
+GBP - Pound Sterling,12.60,3.95,UK,Glasgow,Urban,12.60,3.95
+GBP - Pound Sterling,13.50,3.95,UK,Exeter,Urban,13.50,3.95
+GBP - Pound Sterling,13.00,3.95,UK,London,Suburban,13.00,3.95
+GBP - Pound Sterling,12.21,3.95,UK,London,Urban,12.21,3.95
+GBP - Pound Sterling,12.21,3.95,UK,Bangor,Suburban,12.21,3.95
+GBP - Pound Sterling,14.00,3.95,UK,London,Urban,14.00,3.95
+GBP - Pound Sterling,13.85,3.95,UK,London,Suburban,13.85,3.95
+GBP - Pound Sterling,12.30,3.95,UK,,Suburban,12.30,3.95
+GBP - Pound Sterling,13.60,3.95,UK,Lytham,Suburban,13.60,3.95
+GBP - Pound Sterling,12.44,3.95,UK,,Rural,12.44,3.95
+GBP - Pound Sterling,14.00,3.95,UK,London,Urban,14.00,3.95
+USD - US dollar,15.00,5.26,USA,Atlanta,Urban,11.12,3.90
+USD - US dollar,20.00,5.25,USA,Half Moon Bay,Suburban,14.83,3.89
+USD - US dollar,18.84,5.25,USA,"Portland, OR",Urban,13.97,3.89
+USD - US dollar,16.30,5.25,USA,Portland,Urban,12.08,3.89
+USD - US dollar,17.00,5.25,USA,Manhattan,Urban,12.60,3.89
+USD - US dollar,21.00,5.25,USA,New York City,Urban,15.57,3.89
+USD - US dollar,18.00,5.25,USA,"Charlottesville, Virginia",Urban,13.34,3.89
+USD - US dollar,21.50,5.25,USA,Miami,Urban,15.94,3.89
+USD - US dollar,16.50,5.25,USA,"Montclair, New Jersey",Suburban,12.23,3.89
+USD - US dollar,13.70,5.25,USA,"Charlotte, NC",Suburban,10.16,3.89
+USD - US dollar,19.00,5.25,USA,"Newport Beach, California",Urban,14.08,3.89
+USD - US dollar,12.50,5.25,USA,Las Vegas,Urban,9.27,3.89
+USD - US dollar,12.00,5.25,USA,Dunnellon,Suburban,8.90,3.89
+USD - US dollar,15.50,5.25,USA,"Houston, TX",Urban,11.49,3.89
+USD - US dollar,27.00,5.25,USA,Santee,Suburban,20.01,3.89
+USD - US dollar,17.35,5.25,USA,"Sonoma, CA",Urban,12.86,3.89
+USD - US dollar,16.27,5.25,USA,Denver,Urban,12.06,3.89
+USD - US dollar,22.00,5.25,USA,New York City,Urban,16.31,3.89
+BBD - Barbados Dollar,20.00,10.50,Barbados,,Urban,7.35,3.86
+USD - US dollar,18.00,5.25,USA,Vancouver,Suburban,13.34,3.89
+USD - US dollar,21.00,5.25,USA,Northern Virginia - Washington DC Metropolitan Statistical Area,Suburban,15.57,3.89
+USD - US dollar,16.00,5.25,USA,"Rochester, NY",Urban,11.86,3.89
+USD - US dollar,11.00,5.25,USA,,Suburban,8.15,3.89
+USD - US dollar,18.50,5.25,USA,Boston,Urban,13.71,3.89
+USD - US dollar,20.00,5.25,USA,Los Angeles,Urban,14.83,3.89
+USD - US dollar,19.00,5.25,USA,Los Angeles,Urban,14.08,3.89
+USD - US dollar,19.00,5.25,USA,Los Angeles,Urban,14.08,3.89
+USD - US dollar,15.00,5.25,USA,"Lansing, MI",Urban,11.12,3.89
+SEK - Swedish Krona,150.00,49.00,Sweden,Helsingborg,Urban,11.60,3.79
+GBP - Pound Sterling,12.60,3.90,UK,,Rural,12.60,3.90
+GBP - Pound Sterling,12.15,3.90,UK,,Suburban,12.15,3.90
+GBP - Pound Sterling,13.00,3.90,UK,Great Malvern,Suburban,13.00,3.90
+GBP - Pound Sterling,12.90,3.90,UK,Cardiff,Urban,12.90,3.90
+GBP - Pound Sterling,12.30,3.90,UK,Aberdeen,Suburban,12.30,3.90
+GBP - Pound Sterling,13.50,3.90,UK,Bath,Urban,13.50,3.90
+GBP - Pound Sterling,12.82,3.90,UK,St Albans,Urban,12.82,3.90
+GBP - Pound Sterling,12.12,3.90,UK,Aberdeen,Urban,12.12,3.90
+GBP - Pound Sterling,17.00,3.90,UK,Macclesfield,Urban,17.00,3.90
+GBP - Pound Sterling,12.00,3.90,UK,Canterbury,Suburban,12.00,3.90
+GBP - Pound Sterling,12.71,3.90,UK,Glasgow,Urban,12.71,3.90
+GBP - Pound Sterling,13.44,3.90,UK,Bristol,Urban,13.44,3.90
+GBP - Pound Sterling,12.60,3.90,UK,Cardiff,Urban,12.60,3.90
+GBP - Pound Sterling,12.60,3.90,UK,Sheffield,Suburban,12.60,3.90
+GBP - Pound Sterling,12.21,3.90,UK,Knaresborough,Urban,12.21,3.90
+GBP - Pound Sterling,12.50,3.90,UK,Winchester,"Suburban, Rural",12.50,3.90
+GBP - Pound Sterling,12.41,3.90,UK,Dundee,Urban,12.41,3.90
+GBP - Pound Sterling,12.60,3.90,UK,Nottingham,Urban,12.60,3.90
+GBP - Pound Sterling,13.00,3.90,UK,Belfast,Suburban,13.00,3.90
+GBP - Pound Sterling,15.00,3.90,UK,London,Urban,15.00,3.90
+GBP - Pound Sterling,13.15,3.90,UK,London,Urban,13.15,3.90
+GBP - Pound Sterling,13.50,3.90,UK,London,Urban,13.50,3.90
+GBP - Pound Sterling,13.00,3.90,UK,,Rural,13.00,3.90
+GBP - Pound Sterling,12.90,3.90,UK,,Suburban,12.90,3.90
+GBP - Pound Sterling,13.50,3.90,UK,Nottinghamshire,Suburban,13.50,3.90
+GBP - Pound Sterling,12.21,3.90,UK,,Rural,12.21,3.90
+GBP - Pound Sterling,12.60,3.90,UK,Cardiff,Urban,12.60,3.90
+GBP - Pound Sterling,12.21,3.90,UK,Milngavie,Suburban,12.21,3.90
+GBP - Pound Sterling,12.21,3.90,UK,,Suburban,12.21,3.90
+GBP - Pound Sterling,13.00,3.90,UK,Sheffield,Urban,13.00,3.90
+GBP - Pound Sterling,13.80,3.90,UK,Cardiff,Urban,13.80,3.90
+GBP - Pound Sterling,14.10,3.90,UK,London,Urban,14.10,3.90
+GBP - Pound Sterling,11.00,3.90,UK,Bournemouth,Urban,11.00,3.90
+GBP - Pound Sterling,13.50,3.90,UK,Edinburgh,Urban,13.50,3.90
+GBP - Pound Sterling,12.70,3.90,UK,Leeds,Urban,12.70,3.90
+GBP - Pound Sterling,13.00,3.90,UK,Leeds,Urban,13.00,3.90
+GBP - Pound Sterling,12.21,3.90,UK,Glasgow,Urban,12.21,3.90
+GBP - Pound Sterling,13.00,3.90,UK,London,Urban,13.00,3.90
+GBP - Pound Sterling,12.50,3.90,UK,,Rural,12.50,3.90
+GBP - Pound Sterling,13.90,3.90,UK,,Urban,13.90,3.90
+GBP - Pound Sterling,8.60,3.90,UK,Swansea,Suburban,8.60,3.90
+GBP - Pound Sterling,13.00,3.90,UK,Canterbury,Urban,13.00,3.90
+GBP - Pound Sterling,14.50,3.90,UK,London,Urban,14.50,3.90
+GBP - Pound Sterling,13.21,3.90,UK,,Suburban,13.21,3.90
+GBP - Pound Sterling,12.67,3.90,UK,London,Suburban,12.67,3.90
+GBP - Pound Sterling,12.21,3.90,UK,,Rural,12.21,3.90
+GBP - Pound Sterling,15.00,3.90,UK,London,Urban,15.00,3.90
+GBP - Pound Sterling,12.21,3.90,UK,Edinburgh,Urban,12.21,3.90
+GBP - Pound Sterling,14.30,3.90,UK,Exeter,Suburban,14.30,3.90
+GBP - Pound Sterling,13.00,3.90,UK,,Suburban,13.00,3.90
+GBP - Pound Sterling,12.70,3.90,UK,Nottingham,Urban,12.70,3.90
+GBP - Pound Sterling,12.21,3.90,UK,Edinburgh,Urban,12.21,3.90
+GBP - Pound Sterling,13.00,3.90,UK,Manchester,Suburban,13.00,3.90
+AUD - Australian Dollar,31.19,7.50,Australia,Sydney,Urban,16.32,3.93
+EUR - Euro,16.70,4.50,Belgium,Brussels,Urban,14.26,3.84
+EUR - Euro,22.00,4.50,Finland,Helsinki,Urban,18.79,3.84
+EUR - Euro,17.00,4.50,Finland,Helsinki,Urban,14.52,3.84
+EUR - Euro,16.00,4.50,Germany,Berlin,Urban,13.66,3.84
+EUR - Euro,14.15,4.50,Ireland,Limerick,"Urban, Rural",12.08,3.84
+EUR - Euro,17.00,4.50,Belgium,Ghent,Suburban,14.52,3.84
+EUR - Euro,13.00,4.50,France,Paris,Urban,11.10,3.84
+EUR - Euro,12.00,4.50,Germany,,Suburban,10.25,3.84
+EUR - Euro,13.00,4.50,Germany,Hamburg,Urban,11.10,3.84
+EUR - Euro,14.50,4.50,Ireland,,Rural,12.38,3.84
+EUR - Euro,20.00,4.50,Netherlands,Amsterdam,Urban,17.08,3.84
+EUR - Euro,13.00,4.50,Belgium,Brussels,Urban,11.10,3.84
+EUR - Euro,15.50,4.50,Finland,Helsinki,Urban,13.24,3.84
+EUR - Euro,13.00,4.50,Austria,Lake Attersee,Rural,11.10,3.84
+EUR - Euro,16.70,4.50,Finland,Helsinki,Urban,14.26,3.84
+EUR - Euro,13.00,4.50,Germany,Freiburg,Urban,11.10,3.84
+EUR - Euro,14.00,4.50,Germany,Chemnitz,Suburban,11.96,3.84
+EUR - Euro,14.00,4.50,Germany,Kassel,Urban,11.96,3.84
+EUR - Euro,15.00,4.50,Germany,Hamburg,Urban,12.81,3.84
+EUR - Euro,15.00,4.50,Ireland,Newcastle West,Suburban,12.81,3.84
+EUR - Euro,14.90,4.50,Ireland,Kildare,Suburban,12.73,3.84
+EUR - Euro,15.00,4.50,Netherlands,Amsterdam,Urban,12.81,3.84
+EUR - Euro,14.00,4.50,Finland,Helsinki,Urban,11.96,3.84
+EUR - Euro,13.52,4.50,Finland,Helsinki,Urban,11.55,3.84
+EUR - Euro,14.88,4.50,Belgium,Brussels,Urban,12.71,3.84
+EUR - Euro,22.00,4.50,Finland,Helsinki,Urban,18.79,3.84
+EUR - Euro,12.00,4.50,Finland,Helsinki,Urban,10.25,3.84
+EUR - Euro,12.72,4.50,France,Paris,Urban,10.86,3.84
+EUR - Euro,13.50,4.50,France,Lyon,Urban,11.53,3.84
+EUR - Euro,13.00,4.50,France,Paris,Urban,11.10,3.84
+EUR - Euro,15.00,4.50,Germany,,Urban,12.81,3.84
+EUR - Euro,14.50,4.50,Ireland,Limerick,"Urban, Suburban",12.38,3.84
+EUR - Euro,14.15,4.50,Ireland,Dublin,Urban,12.08,3.84
+EUR - Euro,18.40,4.50,Netherlands,Amsterdam,Urban,15.71,3.84
+EUR - Euro,10.00,4.50,Netherlands,Rotterdam,Urban,8.54,3.84
+USD - US dollar,16.00,5.19,USA,"Lawrence, Kansas",Suburban,11.86,3.85
+USD - US dollar,13.00,5.19,USA,Norfolk,Urban,9.64,3.85
+USD - US dollar,12.00,5.17,USA,Atlanta,Urban,8.90,3.83
+USD - US dollar,26.00,5.17,USA,New York City,Urban,19.27,3.83
+USD - US dollar,13.00,5.16,USA,Phoenix,"Urban, Suburban",9.64,3.82
+USD - US dollar,17.50,5.15,USA,Boston,Urban,12.97,3.82
+USD - US dollar,10.00,5.15,USA,"Tulsa, OK",Suburban,7.41,3.82
+USD - US dollar,12.00,5.15,USA,"Boca Raton, FL",Suburban,8.90,3.82
+GBP - Pound Sterling,13.80,3.85,UK,Exeter,Rural,13.80,3.85
+GBP - Pound Sterling,12.20,3.85,UK,Bath,Urban,12.20,3.85
+GBP - Pound Sterling,12.60,3.85,UK,Halesowen,Urban,12.60,3.85
+GBP - Pound Sterling,12.50,3.85,UK,Leeds,Urban,12.50,3.85
+GBP - Pound Sterling,12.60,3.85,UK,Bristol,Urban,12.60,3.85
+GBP - Pound Sterling,12.21,3.85,UK,London,Urban,12.21,3.85
+GBP - Pound Sterling,12.21,3.85,UK,London,Urban,12.21,3.85
+GBP - Pound Sterling,12.21,3.85,UK,Stratford-upon-Avon,Rural,12.21,3.85
+GBP - Pound Sterling,12.50,3.85,UK,,Rural,12.50,3.85
+GBP - Pound Sterling,7.55,3.85,UK,,Suburban,7.55,3.85
+GBP - Pound Sterling,16.40,3.85,UK,London,Urban,16.40,3.85
+GBP - Pound Sterling,12.50,3.85,UK,"Pewsey, Wiltshire",Rural,12.50,3.85
+PLN - Zloty,36.00,19.00,Poland,Kraków,Urban,7.14,3.77
+PLN - Zloty,33.40,19.00,Poland,Warsaw,Urban,6.62,3.77
+PLN - Zloty,23.94,19.00,Poland,Tychy,Urban,4.75,3.77
+PLN - Zloty,30.00,19.00,Poland,Wrocław,Urban,5.95,3.77
+PLN - Zloty,35.00,19.00,Poland,Warsaw,Urban,6.94,3.77
+PLN - Zloty,31.40,19.00,Poland,Kraków,"Urban, Suburban",6.23,3.77
+PLN - Zloty,33.50,19.00,Poland,Warsaw,Urban,6.64,3.77
+PLN - Zloty,33.00,19.00,Poland,Gdańsk,Urban,6.54,3.77
+USD - US dollar,16.00,5.14,USA,Fort Worth,Urban,11.86,3.81
+SEK - Swedish Krona,160.00,48.00,Sweden,Malmö,Urban,12.37,3.71
+USD - US dollar,10.60,5.12,USA,Atlanta,Urban,7.86,3.80
+USD - US dollar,19.35,5.12,USA,Bonney Lake,Suburban,14.34,3.80
+ILS - New Israeli Sheqel,50.00,16.00,Israel,Tel Aviv,Urban,12.42,3.98
+ILS - New Israeli Sheqel,60.00,16.00,Israel,Tel Aviv,Urban,14.91,3.98
+ILS - New Israeli Sheqel,50.00,16.00,Israel,Tel Aviv,Urban,12.42,3.98
+ILS - New Israeli Sheqel,45.00,16.00,Israel,Rishon lezion,Suburban,11.18,3.98
+HKD - Hong Kong Dollar,75.00,40.00,China,Hong Kong,Urban,7.08,3.78
+HKD - Hong Kong Dollar,75.00,40.00,China,Hong Kong,Urban,7.08,3.78
+HKD - Hong Kong Dollar,70.00,40.00,China,Hong Kong,Urban,6.61,3.78
+EUR - Euro,12.93,4.40,Austria,Linz,Urban,11.04,3.76
+EUR - Euro,13.00,4.40,Finland,Helsinki,Urban,11.10,3.76
+EUR - Euro,12.50,4.40,Germany,,Urban,10.68,3.76
+EUR - Euro,17.00,4.40,Germany,Berlin,Urban,14.52,3.76
+EUR - Euro,12.41,4.40,Germany,Cologne,Urban,10.60,3.76
+CAD - Canadian Dollar,18.00,7.00,Canada,Toronto,Urban,9.57,3.72
+CAD - Canadian Dollar,17.00,7.00,Canada,Toronto,Urban,9.04,3.72
+USD - US dollar,15.00,5.09,USA,Traverse City,Suburban,11.12,3.77
+GBP - Pound Sterling,14.00,3.80,UK,London,Urban,14.00,3.80
+GBP - Pound Sterling,13.00,3.80,UK,Leeds,Urban,13.00,3.80
+GBP - Pound Sterling,16.85,3.80,UK,London,Suburban,16.85,3.80
+GBP - Pound Sterling,13.40,3.80,UK,,Rural,13.40,3.80
+GBP - Pound Sterling,13.50,3.80,UK,Belfast,Suburban,13.50,3.80
+GBP - Pound Sterling,13.00,3.80,UK,"Taunton, Somerset",Urban,13.00,3.80
+GBP - Pound Sterling,14.40,3.80,UK,London,Urban,14.40,3.80
+GBP - Pound Sterling,12.50,3.80,UK,North Berwick,Suburban,12.50,3.80
+GBP - Pound Sterling,13.25,3.80,UK,London,Urban,13.25,3.80
+GBP - Pound Sterling,12.30,3.80,UK,York,Suburban,12.30,3.80
+GBP - Pound Sterling,10.00,3.80,UK,,Suburban,10.00,3.80
+GBP - Pound Sterling,12.75,3.80,UK,The Lake District,Rural,12.75,3.80
+GBP - Pound Sterling,16.50,3.80,UK,Belfast,Urban,16.50,3.80
+GBP - Pound Sterling,12.60,3.80,UK,London,Urban,12.60,3.80
+GBP - Pound Sterling,13.10,3.80,UK,Oxford,Urban,13.10,3.80
+GBP - Pound Sterling,12.00,3.80,UK,,Rural,12.00,3.80
+GBP - Pound Sterling,14.15,3.80,UK,London,Urban,14.15,3.80
+GBP - Pound Sterling,13.00,3.80,UK,,Rural,13.00,3.80
+GBP - Pound Sterling,14.00,3.80,UK,London,"Urban, Suburban",14.00,3.80
+GBP - Pound Sterling,12.50,3.80,UK,Edinburgh,Urban,12.50,3.80
+GBP - Pound Sterling,13.20,3.80,UK,Glasgow,Urban,13.20,3.80
+GBP - Pound Sterling,12.80,3.80,UK,Chester,Urban,12.80,3.80
+GBP - Pound Sterling,12.21,3.80,UK,Sutton,Suburban,12.21,3.80
+GBP - Pound Sterling,12.74,3.80,UK,,Suburban,12.74,3.80
+GBP - Pound Sterling,12.60,3.80,UK,St.Ives,Rural,12.60,3.80
+GBP - Pound Sterling,13.00,3.80,UK,Salisbury,Urban,13.00,3.80
+GBP - Pound Sterling,14.75,3.80,UK,Birmingham,Suburban,14.75,3.80
+GBP - Pound Sterling,13.50,3.80,UK,Bangor,Suburban,13.50,3.80
+GBP - Pound Sterling,12.41,3.80,UK,Edinburgh,Urban,12.41,3.80
+GBP - Pound Sterling,12.35,3.80,UK,Manchester,Urban,12.35,3.80
+GBP - Pound Sterling,14.00,3.80,UK,London,Urban,14.00,3.80
+GBP - Pound Sterling,12.21,3.80,UK,Edinburgh,Urban,12.21,3.80
+GBP - Pound Sterling,12.75,3.80,UK,Manchester,Urban,12.75,3.80
+GBP - Pound Sterling,12.70,3.80,UK,,Suburban,12.70,3.80
+GBP - Pound Sterling,12.41,3.80,UK,Sheffield,Urban,12.41,3.80
+GBP - Pound Sterling,14.33,3.80,UK,Bristol,Urban,14.33,3.80
+GBP - Pound Sterling,14.42,3.80,UK,Belfast,Urban,14.42,3.80
+GBP - Pound Sterling,15.00,3.80,UK,Southampton,Suburban,15.00,3.80
+GBP - Pound Sterling,13.00,3.80,UK,Belfast,Urban,13.00,3.80
+GBP - Pound Sterling,12.60,3.80,UK,Newcastle upon tyne,Urban,12.60,3.80
+GBP - Pound Sterling,12.50,3.80,UK,Manchester,Urban,12.50,3.80
+GBP - Pound Sterling,12.31,3.80,UK,Sunderland,Urban,12.31,3.80
+GBP - Pound Sterling,12.21,3.80,UK,,Suburban,12.21,3.80
+GBP - Pound Sterling,12.80,3.80,UK,York,Suburban,12.80,3.80
+GBP - Pound Sterling,16.50,3.80,UK,London,Urban,16.50,3.80
+GBP - Pound Sterling,14.00,3.80,UK,Brighton,Urban,14.00,3.80
+GBP - Pound Sterling,17.00,3.80,UK,London,"Urban, Suburban",17.00,3.80
+GBP - Pound Sterling,12.50,3.80,UK,London,Suburban,12.50,3.80
+GBP - Pound Sterling,13.43,3.80,UK,Huddersfield,Urban,13.43,3.80
+GBP - Pound Sterling,12.50,3.80,UK,Kinross,Rural,12.50,3.80
+GBP - Pound Sterling,13.00,3.80,UK,Manchester,Suburban,13.00,3.80
+GBP - Pound Sterling,14.80,3.80,UK,London,Urban,14.80,3.80
+GBP - Pound Sterling,14.00,3.80,UK,London,Urban,14.00,3.80
+GBP - Pound Sterling,13.00,3.80,UK,Birmingham,Urban,13.00,3.80
+GBP - Pound Sterling,12.75,3.80,UK,Newcastle-under-Lyme,Urban,12.75,3.80
+GBP - Pound Sterling,14.00,3.80,UK,Oxford,Urban,14.00,3.80
+GBP - Pound Sterling,13.55,3.80,UK,Dundee,Urban,13.55,3.80
+GBP - Pound Sterling,13.30,3.80,UK,Liverpool,Urban,13.30,3.80
+GBP - Pound Sterling,14.00,3.80,UK,Bristol,Suburban,14.00,3.80
+GBP - Pound Sterling,13.00,3.80,UK,London,Urban,13.00,3.80
+GBP - Pound Sterling,15.60,3.80,UK,London,Urban,15.60,3.80
+GBP - Pound Sterling,12.80,3.80,UK,Manchester,Suburban,12.80,3.80
+GBP - Pound Sterling,12.21,3.80,UK,Glasgow,Urban,12.21,3.80
+GBP - Pound Sterling,13.67,3.80,UK,Bristol,"Urban, Suburban",13.67,3.80
+GBP - Pound Sterling,12.35,3.80,UK,Leeds,Urban,12.35,3.80
+GBP - Pound Sterling,12.42,3.80,UK,Colwyn Bay,Suburban,12.42,3.80
+GBP - Pound Sterling,12.50,3.80,UK,Hitchin,Suburban,12.50,3.80
+GBP - Pound Sterling,12.80,3.80,UK,Wrexham,Urban,12.80,3.80
+GBP - Pound Sterling,12.00,3.80,UK,London,Urban,12.00,3.80
+GBP - Pound Sterling,13.00,3.80,UK,London,Urban,13.00,3.80
+GBP - Pound Sterling,12.71,3.80,UK,Plymouth,Urban,12.71,3.80
+GBP - Pound Sterling,14.25,3.80,UK,Cheltenham,Suburban,14.25,3.80
+GBP - Pound Sterling,12.50,3.80,UK,Glasgow,Urban,12.50,3.80
+GBP - Pound Sterling,14.00,3.80,UK,Bristol,Urban,14.00,3.80
+GBP - Pound Sterling,12.21,3.80,UK,Bristol,Urban,12.21,3.80
+GBP - Pound Sterling,14.00,3.80,UK,London,Urban,14.00,3.80
+GBP - Pound Sterling,13.77,3.80,UK,Birmingham,Urban,13.77,3.80
+GBP - Pound Sterling,13.50,3.80,UK,Bristol,Urban,13.50,3.80
+GBP - Pound Sterling,17.00,3.80,UK,London,Urban,17.00,3.80
+GBP - Pound Sterling,15.00,3.80,UK,Liverpool,Urban,15.00,3.80
+GBP - Pound Sterling,14.00,3.80,UK,London,Urban,14.00,3.80
+GBP - Pound Sterling,15.00,3.80,UK,London,Urban,15.00,3.80
+GBP - Pound Sterling,12.25,3.80,UK,Bristol,Urban,12.25,3.80
+GBP - Pound Sterling,13.50,3.80,UK,Oxford,Urban,13.50,3.80
+GBP - Pound Sterling,12.51,3.80,UK,London,Urban,12.51,3.80
+GBP - Pound Sterling,13.00,3.80,UK,Glasgow,Urban,13.00,3.80
+GBP - Pound Sterling,12.21,3.80,UK,,Suburban,12.21,3.80
+GBP - Pound Sterling,14.50,3.80,UK,Harrogate,Suburban,14.50,3.80
+GBP - Pound Sterling,12.00,3.80,UK,Glasgow,Urban,12.00,3.80
+GBP - Pound Sterling,12.40,3.80,UK,Newcastle,Urban,12.40,3.80
+GBP - Pound Sterling,12.70,3.80,UK,Leeds,Urban,12.70,3.80
+GBP - Pound Sterling,13.00,3.80,UK,Derry closest,Rural,13.00,3.80
+GBP - Pound Sterling,12.36,3.80,UK,Oxford,Urban,12.36,3.80
+GBP - Pound Sterling,12.21,3.80,UK,Cheltenham,Urban,12.21,3.80
+GBP - Pound Sterling,9.86,3.80,UK,London,Urban,9.86,3.80
+USD - US dollar,15.00,5.08,USA,"St. Petersburg, FL",Urban,11.12,3.77
+SGD - Singapore Dollar,10.00,6.50,Singapore,,Urban,5.79,3.76
+SGD - Singapore Dollar,18.00,6.50,Singapore,,Urban,10.42,3.76
+SGD - Singapore Dollar,10.00,6.50,Singapore,,Urban,5.79,3.76
+GBP - Pound Sterling,12.50,3.79,UK,Plymouth,Rural,12.50,3.79
+GBP - Pound Sterling,12.50,3.79,UK,,Rural,12.50,3.79
+USD - US dollar,14.00,5.05,USA,McKinney Texas,Suburban,10.38,3.74
+USD - US dollar,11.00,5.05,USA,Austin,Urban,8.15,3.74
+USD - US dollar,12.00,5.05,USA,,Rural,8.90,3.74
+USD - US dollar,14.25,5.04,USA,"Houston, TX",Suburban,10.56,3.74
+JPY - Yen,"1,200.00",800.00,Japan,Tokyo,Urban,5.58,3.72
+MXN - Mexican Peso,41.25,90.00,Mexico,Ciudad de México,Urban,1.79,3.91
+USD - US dollar,22.00,5.03,USA,"Kansas City, Missouri",Urban,16.31,3.73
+USD - US dollar,18.00,5.03,USA,"Ocean city, Maryland",Rural,13.34,3.73
+USD - US dollar,20.00,5.03,USA,Ypsilanti,Urban,14.83,3.73
+SEK - Swedish Krona,87.50,47.00,Sweden,Stockholm,Urban,6.77,3.63
+USD - US dollar,22.50,5.02,USA,Chicago,Urban,16.68,3.72
+GBP - Pound Sterling,12.41,3.75,UK,Nottingham,Urban,12.41,3.75
+GBP - Pound Sterling,12.60,3.75,UK,Norwich,Urban,12.60,3.75
+GBP - Pound Sterling,12.50,3.75,UK,Belfast,Urban,12.50,3.75
+GBP - Pound Sterling,13.00,3.75,UK,Cardiff,Urban,13.00,3.75
+GBP - Pound Sterling,11.00,3.75,UK,Manchester,Suburban,11.00,3.75
+GBP - Pound Sterling,16.20,3.75,UK,Brighton and Hove,Urban,16.20,3.75
+GBP - Pound Sterling,14.85,3.75,UK,London,Urban,14.85,3.75
+GBP - Pound Sterling,12.21,3.75,UK,Nottinghamshire,Suburban,12.21,3.75
+GBP - Pound Sterling,12.25,3.75,UK,Ross-on-wye,Suburban,12.25,3.75
+GBP - Pound Sterling,12.21,3.75,UK,,Rural,12.21,3.75
+GBP - Pound Sterling,12.50,3.75,UK,Belfast,Urban,12.50,3.75
+GBP - Pound Sterling,13.00,3.75,UK,,Rural,13.00,3.75
+GBP - Pound Sterling,14.50,3.75,UK,,Rural,14.50,3.75
+GBP - Pound Sterling,12.70,3.75,UK,Bristol,Urban,12.70,3.75
+GBP - Pound Sterling,14.25,3.75,UK,Edinburgh,Urban,14.25,3.75
+GBP - Pound Sterling,12.30,3.75,UK,Lancaster,Suburban,12.30,3.75
+GBP - Pound Sterling,14.25,3.75,UK,Leeds,Suburban,14.25,3.75
+GBP - Pound Sterling,13.50,3.75,UK,Topsham,"Suburban, Rural",13.50,3.75
+GBP - Pound Sterling,13.75,3.75,UK,Exeter,"Urban, Suburban",13.75,3.75
+GBP - Pound Sterling,12.80,3.75,UK,Blackpool,Urban,12.80,3.75
+USD - US dollar,20.00,5.00,USA,Salt Lake City,Urban,14.83,3.71
+USD - US dollar,25.00,5.00,USA,San Francisco,Urban,18.53,3.71
+USD - US dollar,24.00,5.00,USA,"Santa Barbara, CA",Urban,17.79,3.71
+USD - US dollar,21.00,5.00,USA,"Murfreesboro, TN",Suburban,15.57,3.71
+USD - US dollar,25.00,5.00,USA,"Olympia, WA",Suburban,18.53,3.71
+USD - US dollar,12.00,5.00,USA,Atlanta,Urban,8.90,3.71
+USD - US dollar,12.00,5.00,USA,Savannah,Urban,8.90,3.71
+USD - US dollar,10.00,5.00,USA,Knoxville,Urban,7.41,3.71
+USD - US dollar,14.50,5.00,USA,Traverse City,Suburban,10.75,3.71
+USD - US dollar,21.50,5.00,USA,Chico,"Urban, Rural",15.94,3.71
+USD - US dollar,9.00,5.00,USA,"Lexington, KY",Urban,6.67,3.71
+USD - US dollar,21.00,5.00,USA,Las Vegas,Urban,15.57,3.71
+USD - US dollar,13.00,5.00,USA,Duluth,Urban,9.64,3.71
+USD - US dollar,18.00,5.00,USA,San Luis Obispo,Rural,13.34,3.71
+USD - US dollar,21.00,5.00,USA,San Francisco,Urban,15.57,3.71
+USD - US dollar,15.50,5.00,USA,Salem MA,Urban,11.49,3.71
+USD - US dollar,16.50,5.00,USA,"Santa Barbara, CA",Suburban,12.23,3.71
+USD - US dollar,4.00,5.00,USA,"Austin, Texas",Urban,2.97,3.71
+USD - US dollar,22.00,5.00,USA,Los Angeles,Urban,16.31,3.71
+USD - US dollar,16.00,5.00,USA,Boise,Urban,11.86,3.71
+USD - US dollar,17.50,5.00,USA,New York City,Urban,12.97,3.71
+USD - US dollar,14.00,5.00,USA,Pittsburgh,Urban,10.38,3.71
+USD - US dollar,18.00,5.00,USA,New York City,Urban,13.34,3.71
+USD - US dollar,13.00,5.00,USA,Lexington,Urban,9.64,3.71
+USD - US dollar,15.00,5.00,USA,Denver,Urban,11.12,3.71
+USD - US dollar,20.00,5.00,USA,"Nashville, TN",Urban,14.83,3.71
+USD - US dollar,19.00,5.00,USA,Los Angeles,Urban,14.08,3.71
+USD - US dollar,20.00,5.00,USA,Boston,Suburban,14.83,3.71
+USD - US dollar,18.00,5.00,USA,"Eureka, CA",Urban,13.34,3.71
+USD - US dollar,11.00,5.00,USA,New Orleans,Suburban,8.15,3.71
+USD - US dollar,24.00,5.00,USA,"Portland, ME",Urban,17.79,3.71
+USD - US dollar,17.50,5.00,USA,Indianapolis,Urban,12.97,3.71
+USD - US dollar,20.00,5.00,USA,Lancaster,Suburban,14.83,3.71
+USD - US dollar,17.00,5.00,USA,"Philadelphia, PA",Urban,12.60,3.71
+USD - US dollar,14.00,5.00,USA,"Madison, WI",Urban,10.38,3.71
+USD - US dollar,18.50,5.00,USA,San José,Urban,13.71,3.71
+USD - US dollar,13.50,5.00,USA,"Huntsville, Alabama",Suburban,10.01,3.71
+USD - US dollar,10.00,5.00,USA,"Taylor, TX",Urban,7.41,3.71
+USD - US dollar,14.00,5.00,USA,"Memphis, TN",Urban,10.38,3.71
+USD - US dollar,19.00,5.00,USA,"Fullerton, CA & Orange, CA",Suburban,14.08,3.71
+USD - US dollar,12.50,5.00,USA,Jersey City,Urban,9.27,3.71
+USD - US dollar,16.00,5.00,USA,Roanoke,Suburban,11.86,3.71
+USD - US dollar,11.00,5.00,USA,"Fayetteville, AR",Suburban,8.15,3.71
+USD - US dollar,12.25,5.00,USA,"Dallas, TX",Urban,9.08,3.71
+USD - US dollar,19.00,5.00,USA,Los Angeles,Urban,14.08,3.71
+USD - US dollar,17.75,5.00,USA,Los Angeles,Urban,13.16,3.71
+USD - US dollar,15.00,5.00,USA,"Midland, TX",Suburban,11.12,3.71
+USD - US dollar,18.00,5.00,USA,San Francisco,Urban,13.34,3.71
+USD - US dollar,15.00,5.00,USA,San Antonio,Urban,11.12,3.71
+USD - US dollar,15.15,5.00,USA,Phoenix,Urban,11.23,3.71
+USD - US dollar,18.00,5.00,USA,Kansas City,Urban,13.34,3.71
+USD - US dollar,20.00,5.00,USA,Chicago,Suburban,14.83,3.71
+USD - US dollar,19.12,5.00,USA,Fontana,Suburban,14.17,3.71
+USD - US dollar,16.00,5.00,USA,"Portland, OR",Urban,11.86,3.71
+USD - US dollar,25.00,5.00,USA,New York City,Urban,18.53,3.71
+USD - US dollar,12.50,5.00,USA,"Troy, New York","Urban, Suburban",9.27,3.71
+USD - US dollar,12.50,5.00,USA,Toledo,Urban,9.27,3.71
+USD - US dollar,18.00,5.00,USA,Sioux Falls,Rural,13.34,3.71
+USD - US dollar,16.41,5.00,USA,Minneapolis,Urban,12.16,3.71
+USD - US dollar,9.00,5.00,USA,"Lexington, KY",Urban,6.67,3.71
+USD - US dollar,9.00,5.00,USA,"Lexington, KY",Urban,6.67,3.71
+USD - US dollar,13.00,5.00,USA,"Lexington, KY",Urban,9.64,3.71
+USD - US dollar,33.00,5.00,USA,New York City,Urban,24.46,3.71
+USD - US dollar,17.00,5.00,USA,New York City,Urban,12.60,3.71
+USD - US dollar,19.00,5.00,USA,New York City,Urban,14.08,3.71
+USD - US dollar,10.00,5.00,USA,Ogden,Suburban,7.41,3.71
+USD - US dollar,12.00,5.00,USA,Selmer,Rural,8.90,3.71
+USD - US dollar,13.75,5.00,USA,"Lexington, KY",Suburban,10.19,3.71
+USD - US dollar,19.00,5.00,USA,Tucson,Urban,14.08,3.71
+USD - US dollar,13.50,5.00,USA,"Lexington, KY",Suburban,10.01,3.71
+USD - US dollar,17.00,5.00,USA,"Ames, Iowa",Urban,12.60,3.71
+USD - US dollar,16.50,5.00,USA,Aurora,Suburban,12.23,3.71
+USD - US dollar,15.00,5.00,USA,"Billings, MT",Suburban,11.12,3.71
+USD - US dollar,15.00,5.00,USA,"Atlanta, GA",Urban,11.12,3.71
+USD - US dollar,20.00,5.00,USA,"Santa Barbara, CA",Urban,14.83,3.71
+USD - US dollar,17.50,5.00,USA,Olympia,Suburban,12.97,3.71
+USD - US dollar,17.00,5.00,USA,"Cincinnati, Ohio",Urban,12.60,3.71
+USD - US dollar,15.00,5.00,USA,Omaha Nebraska,Urban,11.12,3.71
+USD - US dollar,16.00,5.00,USA,"Wallingford, Connecticut",Urban,11.86,3.71
+USD - US dollar,17.00,5.00,USA,New York City,Urban,12.60,3.71
+USD - US dollar,19.00,5.00,USA,Orange County,Suburban,14.08,3.71
+USD - US dollar,16.00,5.00,USA,Miami,Urban,11.86,3.71
+USD - US dollar,25.00,5.00,USA,Boston,Urban,18.53,3.71
+USD - US dollar,21.00,5.00,USA,Minneapolis,Urban,15.57,3.71
+USD - US dollar,25.00,5.00,USA,New York City,Urban,18.53,3.71
+USD - US dollar,22.00,5.00,USA,Washington DC,Urban,16.31,3.71
+USD - US dollar,17.50,5.00,USA,"Beverly, MA",Suburban,12.97,3.71
+USD - US dollar,23.00,5.00,USA,"Madison, WI",Urban,17.05,3.71
+USD - US dollar,22.00,5.00,USA,Austin,Urban,16.31,3.71
+USD - US dollar,21.00,5.00,USA,New York City,Urban,15.57,3.71
+USD - US dollar,22.50,5.00,USA,"Madison, WI",Urban,16.68,3.71
+USD - US dollar,9.00,5.00,USA,Boston,Urban,6.67,3.71
+USD - US dollar,23.00,5.00,USA,San José,Suburban,17.05,3.71
+USD - US dollar,14.00,5.00,USA,Portland,Urban,10.38,3.71
+USD - US dollar,20.00,5.00,USA,"Houston, TX",Urban,14.83,3.71
+USD - US dollar,17.75,5.00,USA,San Diego,Urban,13.16,3.71
+USD - US dollar,25.00,5.00,USA,Billings,Suburban,18.53,3.71
+USD - US dollar,20.56,5.00,USA,Olympia,Suburban,15.24,3.71
+USD - US dollar,16.78,4.98,USA,Columbia,Urban,12.44,3.69
+EUR - Euro,14.00,4.30,Germany,Freiburg im Breisgau,Urban,11.96,3.67
+EUR - Euro,14.50,4.30,Germany,Freiburg,Urban,12.38,3.67
+EUR - Euro,21.00,4.30,Germany,Kiel,Urban,17.94,3.67
+EUR - Euro,16.50,4.30,Germany,Kiel,Urban,14.09,3.67
+EUR - Euro,14.00,4.30,Belgium,Tournai,Urban,11.96,3.67
+EUR - Euro,9.50,4.30,Estonia,Tallinn,Urban,8.11,3.67
+EUR - Euro,18.75,4.30,Germany,Frankfurt,Urban,16.01,3.67
+EUR - Euro,14.80,4.30,Germany,Cologne,Urban,12.64,3.67
+EUR - Euro,20.00,4.30,Germany,Dresden,Urban,17.08,3.67
+EUR - Euro,14.00,4.30,Germany,Frankfurt,Urban,11.96,3.67
+EUR - Euro,14.90,4.30,Ireland,Dublin,Urban,12.73,3.67
+EUR - Euro,14.15,4.30,Ireland,Sligo,Urban,12.08,3.67
+EUR - Euro,14.50,4.30,Ireland,Dublin,Suburban,12.38,3.67
+EUR - Euro,15.75,4.30,Netherlands,Tilburg,Urban,13.45,3.67
+TRY - Turkish Lira,145.00,220.00,Turkey,Çanakkale,Suburban,2.25,3.41
+USD - US dollar,16.00,4.95,USA,Fairfax,Suburban,11.86,3.67
+USD - US dollar,12.50,4.95,USA,Columbus,Suburban,9.27,3.67
+GBP - Pound Sterling,13.50,3.70,UK,Conwy,Rural,13.50,3.70
+GBP - Pound Sterling,12.60,3.70,UK,Sevenoaks,Suburban,12.60,3.70
+GBP - Pound Sterling,13.00,3.70,UK,Bristol,Urban,13.00,3.70
+GBP - Pound Sterling,12.50,3.70,UK,Brighton,Urban,12.50,3.70
+GBP - Pound Sterling,12.21,3.70,UK,Dundee,Urban,12.21,3.70
+GBP - Pound Sterling,14.00,3.70,UK,Ambleside,Rural,14.00,3.70
+GBP - Pound Sterling,12.21,3.70,UK,Manchester,Urban,12.21,3.70
+GBP - Pound Sterling,12.21,3.70,UK,Whitley Bay,Urban,12.21,3.70
+GBP - Pound Sterling,12.00,3.70,UK,Alsager,Suburban,12.00,3.70
+GBP - Pound Sterling,13.50,3.70,UK,Watford,Urban,13.50,3.70
+GBP - Pound Sterling,12.21,3.70,UK,Bristol,Suburban,12.21,3.70
+GBP - Pound Sterling,12.00,3.70,UK,Newcastle,Urban,12.00,3.70
+GBP - Pound Sterling,12.45,3.70,UK,Sheffield,Suburban,12.45,3.70
+GBP - Pound Sterling,12.25,3.70,UK,Aberdeen,Rural,12.25,3.70
+GBP - Pound Sterling,13.50,3.70,UK,Bristol,Suburban,13.50,3.70
+GBP - Pound Sterling,12.60,3.70,UK,Belfast,Urban,12.60,3.70
+GBP - Pound Sterling,13.25,3.70,UK,Exeter,Urban,13.25,3.70
+GBP - Pound Sterling,15.00,3.70,UK,,Rural,15.00,3.70
+GBP - Pound Sterling,13.70,3.70,UK,London,Urban,13.70,3.70
+GBP - Pound Sterling,15.50,3.70,UK,London,Urban,15.50,3.70
+GBP - Pound Sterling,12.71,3.70,UK,Winchester,Urban,12.71,3.70
+GBP - Pound Sterling,12.21,3.70,UK,Newcastle Upon Tyne,Urban,12.21,3.70
+GBP - Pound Sterling,13.00,3.70,UK,belfast,Urban,13.00,3.70
+GBP - Pound Sterling,13.00,3.70,UK,,Rural,13.00,3.70
+GBP - Pound Sterling,12.21,3.70,UK,,Suburban,12.21,3.70
+GBP - Pound Sterling,13.00,3.70,UK,Dorking,Suburban,13.00,3.70
+GBP - Pound Sterling,12.50,3.70,UK,Sheffield,Urban,12.50,3.70
+GBP - Pound Sterling,12.30,3.70,UK,,Rural,12.30,3.70
+GBP - Pound Sterling,13.00,3.70,UK,York,Urban,13.00,3.70
+GBP - Pound Sterling,13.00,3.70,UK,Leeds,Urban,13.00,3.70
+GBP - Pound Sterling,13.50,3.70,UK,Bristol,Urban,13.50,3.70
+GBP - Pound Sterling,12.50,3.70,UK,Newcastle upon Tyne,Suburban,12.50,3.70
+GBP - Pound Sterling,12.70,3.70,UK,,Rural,12.70,3.70
+GBP - Pound Sterling,12.25,3.70,UK,Oxford,Urban,12.25,3.70
+GBP - Pound Sterling,12.51,3.70,UK,,Urban,12.51,3.70
+GBP - Pound Sterling,13.75,3.70,UK,,Suburban,13.75,3.70
+GBP - Pound Sterling,12.21,3.70,UK,Reading,Urban,12.21,3.70
+GBP - Pound Sterling,13.88,3.70,UK,Llandudno,Suburban,13.88,3.70
+GBP - Pound Sterling,12.50,3.70,UK,,Suburban,12.50,3.70
+GBP - Pound Sterling,12.50,3.70,UK,,Suburban,12.50,3.70
+GBP - Pound Sterling,12.60,3.70,UK,Surrey,Suburban,12.60,3.70
+GBP - Pound Sterling,12.49,3.70,UK,Isle of Wight,Rural,12.49,3.70
+GBP - Pound Sterling,13.00,3.70,UK,Bristol,Suburban,13.00,3.70
+GBP - Pound Sterling,13.00,3.70,UK,London,Urban,13.00,3.70
+GBP - Pound Sterling,12.28,3.70,UK,Edinburgh,Urban,12.28,3.70
+GBP - Pound Sterling,13.50,3.70,UK,London,Urban,13.50,3.70
+NOK - Norwegian Krone,258.00,48.00,Norway,Oslo,Urban,20.13,3.75
+NOK - Norwegian Krone,199.00,48.00,Norway,Oslo,Urban,15.53,3.75
+NOK - Norwegian Krone,226.00,48.00,Norway,Oslo,Urban,17.64,3.75
+NOK - Norwegian Krone,204.00,48.00,Norway,Oslo,Urban,15.92,3.75
+EUR - Euro,5.60,4.25,Greece,Athens,Urban,4.78,3.63
+EUR - Euro,15.00,4.25,Netherlands,Amsterdam,Urban,12.81,3.63
+EUR - Euro,15.30,4.25,Netherlands,Enschede,Suburban,13.07,3.63
+OMR - Rial Omani,0.67,1.89,Oman,Muscat,Urban,1.29,3.64
+USD - US dollar,16.50,4.90,USA,Atlanta,Urban,12.23,3.63
+USD - US dollar,12.50,4.90,USA,Yemasse,Rural,9.27,3.63
+USD - US dollar,17.00,4.90,USA,Indianapolis,Urban,12.60,3.63
+USD - US dollar,10.00,4.90,USA,Anderson,Suburban,7.41,3.63
+USD - US dollar,16.90,4.90,USA,Santa Cruz,Suburban,12.53,3.63
+GBP - Pound Sterling,12.46,3.65,UK,Manchester,Urban,12.46,3.65
+GBP - Pound Sterling,12.60,3.65,UK,,Suburban,12.60,3.65
+GBP - Pound Sterling,13.53,3.65,UK,,Suburban,13.53,3.65
+GBP - Pound Sterling,12.21,3.65,UK,North east Lincolnshire,Rural,12.21,3.65
+GBP - Pound Sterling,12.93,3.65,UK,Glasgow,Urban,12.93,3.65
+GBP - Pound Sterling,12.21,3.65,UK,Horsham,Urban,12.21,3.65
+GBP - Pound Sterling,12.45,3.65,UK,,Rural,12.45,3.65
+GBP - Pound Sterling,13.00,3.65,UK,,Rural,13.00,3.65
+GBP - Pound Sterling,12.60,3.65,UK,Hamilton (Glasgow),"Urban, Suburban",12.60,3.65
+GBP - Pound Sterling,15.00,3.65,UK,,Rural,15.00,3.65
+PLN - Zloty,33.00,18.00,Poland,Wrocław,Urban,6.54,3.57
+PLN - Zloty,34.00,18.00,Poland,Kraków,Suburban,6.74,3.57
+PLN - Zloty,31.50,18.00,Poland,Kraków,Urban,6.25,3.57
+PLN - Zloty,28.00,18.00,Poland,Kraków,Urban,5.55,3.57
+PLN - Zloty,26.00,18.00,Poland,Kraków,Urban,5.16,3.57
+PLN - Zloty,30.00,18.00,Poland,Warsaw,Urban,5.95,3.57
+PLN - Zloty,31.40,18.00,Poland,Szczecin,Urban,6.23,3.57
+PLN - Zloty,31.40,18.00,Poland,Warsaw,Urban,6.23,3.57
+PLN - Zloty,30.50,18.00,Poland,Kraków,Urban,6.05,3.57
+PLN - Zloty,36.00,18.00,Poland,Warsaw,Urban,7.14,3.57
+PLN - Zloty,31.00,18.00,Poland,,Urban,6.15,3.57
+PLN - Zloty,23.00,18.00,Poland,Bielsko-Biała,Suburban,4.56,3.57
+PLN - Zloty,31.00,18.00,Poland,Gdańsk,Urban,6.15,3.57
+PLN - Zloty,27.00,18.00,Poland,Kraków,Urban,5.35,3.57
+PLN - Zloty,31.40,18.00,Poland,Kraków,Urban,6.23,3.57
+USD - US dollar,8.75,4.87,USA,,Suburban,6.49,3.61
+USD - US dollar,10.00,4.87,USA,"Richardson, TX",Suburban,7.41,3.61
+HUF - Forint,"2,800.00","1,640.00",Hungary,Budapest,Urban,6.56,3.84
+AUD - Australian Dollar,33.00,7.00,Australia,Melbourne,Urban,17.27,3.66
+AUD - Australian Dollar,33.00,7.00,Australia,Melbourne,Urban,17.27,3.66
+EUR - Euro,13.50,4.20,France,Paris,Urban,11.53,3.59
+EUR - Euro,14.00,4.20,Germany,Mannheim,Urban,11.96,3.59
+EUR - Euro,15.00,4.20,Germany,Braunschweig,Suburban,12.81,3.59
+EUR - Euro,16.16,4.20,Germany,Osnabrück,Urban,13.80,3.59
+EUR - Euro,28.00,4.20,Finland,Helsinki,Suburban,23.91,3.59
+EUR - Euro,11.00,4.20,France,Montpellier,Urban,9.39,3.59
+EUR - Euro,13.90,4.20,Germany,Berlin,Urban,11.87,3.59
+EUR - Euro,18.00,4.20,Germany,Rosenheim,Urban,15.37,3.59
+EUR - Euro,13.00,4.20,Germany,Berlin,Urban,11.10,3.59
+EUR - Euro,16.00,4.20,Germany,Berlin,Urban,13.66,3.59
+EUR - Euro,15.00,4.20,Germany,Munich,Urban,12.81,3.59
+EUR - Euro,13.00,4.20,Germany,,Urban,11.10,3.59
+EUR - Euro,13.90,4.20,Germany,Düsseldorf,Urban,11.87,3.59
+EUR - Euro,7.60,4.20,Portugal,Lisbon,Urban,6.49,3.59
+EUR - Euro,12.45,4.20,Germany,Hannover,Suburban,10.63,3.59
+EUR - Euro,15.00,4.20,Germany,Cologne,Urban,12.81,3.59
+EUR - Euro,13.90,4.20,Germany,Düsseldorf,Urban,11.87,3.59
+EUR - Euro,7.00,4.20,Greece,Chania,Suburban,5.98,3.59
+EUR - Euro,14.15,4.20,Ireland,Dublin,Urban,12.08,3.59
+EUR - Euro,15.50,4.20,Ireland,Dublin,Urban,13.24,3.59
+EUR - Euro,14.90,4.20,Ireland,Dublin,Urban,12.73,3.59
+EUR - Euro,16.00,4.20,Netherlands,Amsterdam,Urban,13.66,3.59
+EUR - Euro,16.00,4.20,Netherlands,Amsterdam,Urban,13.66,3.59
+EUR - Euro,15.00,4.20,Germany,Mannheim,Urban,12.81,3.59
+EUR - Euro,6.50,4.20,Lithuania,Vilnius,Urban,5.55,3.59
+EUR - Euro,15.50,4.20,Germany,Berlin,Urban,13.24,3.59
+EUR - Euro,13.00,4.20,Germany,Karlsruhe,Urban,11.10,3.59
+EUR - Euro,12.00,4.20,Netherlands,Den Haag,Urban,10.25,3.59
+EUR - Euro,16.00,4.20,Netherlands,Amsterdam,Urban,13.66,3.59
+HKD - Hong Kong Dollar,70.00,38.00,China,Kowloon Bay,Urban,6.61,3.59
+CAD - Canadian Dollar,15.96,6.67,Canada,Ottawa,Urban,8.48,3.55
+USD - US dollar,16.00,4.85,USA,"Princeton, NJ",Suburban,11.86,3.60
+USD - US dollar,17.00,4.85,USA,St. Ives,Urban,12.60,3.60
+USD - US dollar,16.40,4.85,USA,Dayton,Suburban,12.16,3.60
+USD - US dollar,11.00,4.85,USA,Pittsburgh,Suburban,8.15,3.60
+GBP - Pound Sterling,11.25,3.60,UK,Tynemouth,Suburban,11.25,3.60
+GBP - Pound Sterling,12.71,3.60,UK,,Suburban,12.71,3.60
+GBP - Pound Sterling,11.00,3.60,UK,Belfast,Urban,11.00,3.60
+GBP - Pound Sterling,13.00,3.60,UK,Preston,Suburban,13.00,3.60
+GBP - Pound Sterling,12.60,3.60,UK,,Urban,12.60,3.60
+GBP - Pound Sterling,13.13,3.60,UK,Keswick,Rural,13.13,3.60
+GBP - Pound Sterling,15.50,3.60,UK,London,Urban,15.50,3.60
+GBP - Pound Sterling,12.50,3.60,UK,,Suburban,12.50,3.60
+GBP - Pound Sterling,12.21,3.60,UK,Sunderland,Urban,12.21,3.60
+GBP - Pound Sterling,12.40,3.60,UK,"Yeovil, South Somerset",Urban,12.40,3.60
+GBP - Pound Sterling,13.75,3.60,UK,Bristol,Urban,13.75,3.60
+GBP - Pound Sterling,12.21,3.60,UK,Southend,Suburban,12.21,3.60
+GBP - Pound Sterling,12.71,3.60,UK,Dundee,Urban,12.71,3.60
+GBP - Pound Sterling,13.00,3.60,UK,Greater Manchester,Suburban,13.00,3.60
+GBP - Pound Sterling,12.21,3.60,UK,London,Urban,12.21,3.60
+GBP - Pound Sterling,12.75,3.60,UK,Aberdeen,Suburban,12.75,3.60
+GBP - Pound Sterling,14.50,3.60,UK,Norwich,Urban,14.50,3.60
+GBP - Pound Sterling,13.20,3.60,UK,Innerleithen,Rural,13.20,3.60
+GBP - Pound Sterling,12.00,3.60,UK,Bristol,Urban,12.00,3.60
+GBP - Pound Sterling,14.50,3.60,UK,Brighton,Urban,14.50,3.60
+GBP - Pound Sterling,12.25,3.60,UK,Preston,Urban,12.25,3.60
+GBP - Pound Sterling,12.21,3.60,UK,Bath,Urban,12.21,3.60
+GBP - Pound Sterling,12.50,3.60,UK,Belfast,Urban,12.50,3.60
+GBP - Pound Sterling,12.21,3.60,UK,Liverpool,Urban,12.21,3.60
+GBP - Pound Sterling,14.00,3.60,UK,Belfast,Suburban,14.00,3.60
+GBP - Pound Sterling,11.00,3.60,UK,London,Urban,11.00,3.60
+GBP - Pound Sterling,12.50,3.60,UK,Newcastle Upon Tyne,Urban,12.50,3.60
+GBP - Pound Sterling,12.50,3.60,UK,,Suburban,12.50,3.60
+GBP - Pound Sterling,12.21,3.60,UK,Sheffield,Suburban,12.21,3.60
+GBP - Pound Sterling,12.20,3.60,UK,Southampton,Suburban,12.20,3.60
+GBP - Pound Sterling,13.50,3.60,UK,Marlow,Suburban,13.50,3.60
+GBP - Pound Sterling,13.00,3.60,UK,Market Harborough,"Suburban, Rural",13.00,3.60
+GBP - Pound Sterling,13.50,3.60,UK,Margate,Urban,13.50,3.60
+GBP - Pound Sterling,12.21,3.60,UK,Prestwich,Suburban,12.21,3.60
+GBP - Pound Sterling,12.21,3.60,UK,Ayr,Urban,12.21,3.60
+GBP - Pound Sterling,13.00,3.60,UK,Tonbridge,Suburban,13.00,3.60
+GBP - Pound Sterling,10.00,3.60,UK,Newport,Rural,10.00,3.60
+GBP - Pound Sterling,13.85,3.60,UK,,Suburban,13.85,3.60
+GBP - Pound Sterling,14.40,3.60,UK,Glasgow,Urban,14.40,3.60
+GBP - Pound Sterling,13.50,3.60,UK,Newcastle upon Tyne,Urban,13.50,3.60
+GBP - Pound Sterling,13.00,3.60,UK,Sheffield,Urban,13.00,3.60
+GBP - Pound Sterling,13.00,3.60,UK,,Rural,13.00,3.60
+GBP - Pound Sterling,15.00,3.60,UK,London,Urban,15.00,3.60
+SEK - Swedish Krona,145.00,45.00,Sweden,Lund,Urban,11.21,3.48
+SEK - Swedish Krona,195.00,45.00,Sweden,Malmö,Suburban,15.08,3.48
+SEK - Swedish Krona,198.00,45.00,Sweden,Malmö,Urban,15.31,3.48
+INR - Indian Rupee,150.00,450.00,India,Hyderabad,Urban,1.17,3.50
+ILS - New Israeli Sheqel,40.00,15.00,Israel,Tel Aviv,Urban,9.94,3.73
+ILS - New Israeli Sheqel,45.00,15.00,Israel,Tel Aviv,Urban,11.18,3.73
+ILS - New Israeli Sheqel,50.00,15.00,Israel,Tel Aviv,Urban,12.42,3.73
+ILS - New Israeli Sheqel,55.00,15.00,Israel,Tel Aviv,Urban,13.67,3.73
+USD - US dollar,19.00,4.77,USA,Detroit,Urban,14.08,3.54
+USD - US dollar,11.75,4.77,USA,"Rochester, MI",Suburban,8.71,3.54
+USD - US dollar,24.00,4.77,USA,Philadelphia,"Urban, Suburban",17.79,3.54
+USD - US dollar,13.75,4.75,USA,"Lexington, KY",Urban,10.19,3.52
+USD - US dollar,17.50,4.75,USA,"Rochester Hills, MI",Suburban,12.97,3.52
+USD - US dollar,21.00,4.75,USA,Los Altos,Suburban,15.57,3.52
+USD - US dollar,19.00,4.75,USA,,Urban,14.08,3.52
+USD - US dollar,21.50,4.75,USA,Washington DC,Urban,15.94,3.52
+USD - US dollar,14.00,4.75,USA,"Austin, Texas",Urban,10.38,3.52
+USD - US dollar,13.00,4.75,USA,Waco,Suburban,9.64,3.52
+USD - US dollar,20.00,4.75,USA,"Springdale, AR",Suburban,14.83,3.52
+USD - US dollar,15.00,4.75,USA,Austin,Urban,11.12,3.52
+USD - US dollar,22.50,4.75,USA,Cincinnati,Suburban,16.68,3.52
+USD - US dollar,14.00,4.75,USA,Bannockburn,Suburban,10.38,3.52
+USD - US dollar,15.00,4.75,USA,Indianapolis,Urban,11.12,3.52
+USD - US dollar,18.00,4.75,USA,"Portland, OR",Urban,13.34,3.52
+USD - US dollar,12.00,4.75,USA,Southlake,Suburban,8.90,3.52
+USD - US dollar,17.13,4.75,USA,"Bellevue, WA",Suburban,12.70,3.52
+USD - US dollar,14.00,4.75,USA,"St. Petersburg, FL",Suburban,10.38,3.52
+USD - US dollar,13.00,4.75,USA,Dallas,"Urban, Suburban",9.64,3.52
+USD - US dollar,17.05,4.75,USA,Hillsboro,Urban,12.64,3.52
+USD - US dollar,10.00,4.75,USA,"Fort Worth, Texas",Urban,7.41,3.52
+USD - US dollar,7.25,4.75,USA,Norman,Urban,5.37,3.52
+USD - US dollar,16.07,4.75,USA,Raleigh,Suburban,11.91,3.52
+GBP - Pound Sterling,12.54,3.55,UK,,Urban,12.54,3.55
+EUR - Euro,24.00,4.10,Ireland,Dublin,Urban,20.50,3.50
+EUR - Euro,11.71,4.10,Austria,Graz,Urban,10.00,3.50
+EUR - Euro,12.30,4.10,Austria,Vienna,Urban,10.50,3.50
+EUR - Euro,15.00,4.10,Germany,Kiel,"Urban, Suburban",12.81,3.50
+EUR - Euro,15.00,4.10,Netherlands,Amsterdam,Urban,12.81,3.50
+EUR - Euro,15.00,4.10,Germany,Kiel,Urban,12.81,3.50
+EUR - Euro,14.93,4.10,Austria,Graz,Urban,12.75,3.50
+EUR - Euro,13.90,4.10,Germany,Oldenburg,Urban,11.87,3.50
+EUR - Euro,13.90,4.10,Germany,Bamberg,Urban,11.87,3.50
+EUR - Euro,16.50,4.10,Ireland,Dublin,Suburban,14.09,3.50
+EUR - Euro,15.00,4.10,Ireland,Tullamore,Urban,12.81,3.50
+EUR - Euro,14.00,4.10,Slovakia,Trenčín,Urban,11.96,3.50
+EUR - Euro,14.20,4.10,Ireland,Dublin,Urban,12.13,3.50
+EUR - Euro,14.00,4.10,Germany,Jena,Urban,11.96,3.50
+EUR - Euro,20.00,4.10,Ireland,Galway,Urban,17.08,3.50
+EUR - Euro,14.71,4.10,Netherlands,Rotterdam,Urban,12.56,3.50
+EUR - Euro,16.43,4.10,Netherlands,Amsterdam,"Urban, Suburban",14.03,3.50
+NOK - Norwegian Krone,176.00,46.00,Norway,Oslo,Urban,13.74,3.59
+PLN - Zloty,33.50,17.50,Poland,Wrocław,Urban,6.64,3.47
+PLN - Zloty,31.50,17.50,Poland,Toruń,Urban,6.25,3.47
+PLN - Zloty,31.40,17.50,Poland,Warsaw,Urban,6.23,3.47
+TRY - Turkish Lira,135.00,210.00,Turkey,Çanakkale,Urban,2.09,3.26
+KWD - Kuwaiti Dinar,5.00,1.45,Kuwait,Kuwait city,Urban,11.99,3.48
+CRC - Costa Rican Colon,"3,000.00","2,200.00",Costa Rica,San José,Urban,4.90,3.59
+CRC - Costa Rican Colon,"2,000.00","2,200.00",Costa Rica,"La Fortuna, San Carlos",Rural,3.26,3.59
+CAD - Canadian Dollar,17.60,6.50,Canada,Hamilton,Suburban,9.36,3.46
+CAD - Canadian Dollar,17.85,6.50,Canada,Victoria,Urban,9.49,3.46
+CAD - Canadian Dollar,15.30,6.50,Canada,Hamilton,Urban,8.13,3.46
+JPY - Yen,"1,150.00",750.00,Japan,Tokyo,Urban,5.35,3.49
+USD - US dollar,17.00,4.71,USA,"Houston, TX",Urban,12.60,3.49
+USD - US dollar,21.00,4.71,USA,Lubbock,Urban,15.57,3.49
+USD - US dollar,12.50,4.70,USA,Raleigh,Urban,9.27,3.48
+USD - US dollar,12.00,4.70,USA,Atlanta,Suburban,8.90,3.48
+USD - US dollar,15.00,4.69,USA,Jacksonville,Suburban,11.12,3.48
+SGD - Singapore Dollar,20.00,6.00,Singapore,Singapore,Urban,11.58,3.47
+SGD - Singapore Dollar,25.00,6.00,Singapore,Singapore,Urban,14.47,3.47
+SGD - Singapore Dollar,14.50,6.00,Singapore,Singapore,Urban,8.39,3.47
+SGD - Singapore Dollar,20.00,6.00,Singapore,Singapore,"Urban, Suburban",11.58,3.47
+SGD - Singapore Dollar,8.00,6.00,Singapore,,Urban,4.63,3.47
+OMR - Rial Omani,1.00,1.80,Oman,Muscat,Urban,1.93,3.47
+OMR - Rial Omani,1.10,1.80,Oman,Muscat,Urban,2.12,3.47
+GBP - Pound Sterling,13.50,3.50,UK,Glasgow,Urban,13.50,3.50
+GBP - Pound Sterling,12.21,3.50,UK,Newcastle upon Tyne,Urban,12.21,3.50
+GBP - Pound Sterling,13.75,3.50,UK,Gorleston,Suburban,13.75,3.50
+GBP - Pound Sterling,20.00,3.50,UK,Exeter,"Urban, Suburban",20.00,3.50
+GBP - Pound Sterling,12.22,3.50,UK,,Rural,12.22,3.50
+GBP - Pound Sterling,12.50,3.50,UK,Glasgow,Urban,12.50,3.50
+GBP - Pound Sterling,12.32,3.50,UK,Sheffield,Suburban,12.32,3.50
+GBP - Pound Sterling,12.80,3.50,UK,Nailsea,Suburban,12.80,3.50
+GBP - Pound Sterling,12.50,3.50,UK,Brighton,Urban,12.50,3.50
+GBP - Pound Sterling,12.50,3.50,UK,Anglesey,Rural,12.50,3.50
+GBP - Pound Sterling,15.00,3.50,UK,Northampton,Urban,15.00,3.50
+GBP - Pound Sterling,15.00,3.50,UK,,Urban,15.00,3.50
+GBP - Pound Sterling,13.60,3.50,UK,Edinburgh,Urban,13.60,3.50
+GBP - Pound Sterling,13.60,3.50,UK,Edinburgh,Urban,13.60,3.50
+GBP - Pound Sterling,14.00,3.50,UK,Trowbridge,Suburban,14.00,3.50
+GBP - Pound Sterling,15.00,3.50,UK,London,"Urban, Suburban",15.00,3.50
+GBP - Pound Sterling,13.00,3.50,UK,Hertford,Suburban,13.00,3.50
+GBP - Pound Sterling,12.51,3.50,UK,Manchester,Suburban,12.51,3.50
+GBP - Pound Sterling,12.21,3.50,UK,Manchester,Urban,12.21,3.50
+GBP - Pound Sterling,16.00,3.50,UK,London,Suburban,16.00,3.50
+GBP - Pound Sterling,12.21,3.50,UK,,Rural,12.21,3.50
+GBP - Pound Sterling,14.00,3.50,UK,Halifax,Urban,14.00,3.50
+GBP - Pound Sterling,12.50,3.50,UK,Cheltenham,Suburban,12.50,3.50
+GBP - Pound Sterling,14.85,3.50,UK,London,Urban,14.85,3.50
+GBP - Pound Sterling,13.50,3.50,UK,"Bigton, Shetland",Rural,13.50,3.50
+GBP - Pound Sterling,12.21,3.50,UK,Salford,Suburban,12.21,3.50
+GBP - Pound Sterling,12.60,3.50,UK,Brighton,Suburban,12.60,3.50
+GBP - Pound Sterling,12.21,3.50,UK,,Rural,12.21,3.50
+GBP - Pound Sterling,12.90,3.50,UK,Leamington Spa,Suburban,12.90,3.50
+GBP - Pound Sterling,12.50,3.50,UK,Isle of Arran,Rural,12.50,3.50
+GBP - Pound Sterling,13.00,3.50,UK,Belfast,Urban,13.00,3.50
+GBP - Pound Sterling,13.50,3.50,UK,Swansea,Suburban,13.50,3.50
+GBP - Pound Sterling,13.45,3.50,UK,Cardiff,Urban,13.45,3.50
+GBP - Pound Sterling,13.00,3.50,UK,Norwich,Urban,13.00,3.50
+GBP - Pound Sterling,13.00,3.50,UK,Lincoln,Urban,13.00,3.50
+GBP - Pound Sterling,11.00,3.50,UK,Swansea,Suburban,11.00,3.50
+GBP - Pound Sterling,12.50,3.50,UK,Congleton,Suburban,12.50,3.50
+GBP - Pound Sterling,13.44,3.50,UK,Nottingham,Urban,13.44,3.50
+GBP - Pound Sterling,12.50,3.50,UK,Oxford,Urban,12.50,3.50
+GBP - Pound Sterling,12.21,3.50,UK,Edinburgh,Rural,12.21,3.50
+GBP - Pound Sterling,13.10,3.50,UK,,Rural,13.10,3.50
+GBP - Pound Sterling,10.40,3.50,UK,Bristol,Urban,10.40,3.50
+GBP - Pound Sterling,13.00,3.50,UK,London,Urban,13.00,3.50
+GBP - Pound Sterling,12.60,3.50,UK,Brighton,Urban,12.60,3.50
+GBP - Pound Sterling,15.00,3.50,UK,,Rural,15.00,3.50
+GBP - Pound Sterling,10.00,3.50,UK,,Rural,10.00,3.50
+GBP - Pound Sterling,11.00,3.50,UK,Weybridge,Urban,11.00,3.50
+GBP - Pound Sterling,12.44,3.50,UK,Edinburgh,Urban,12.44,3.50
+USD - US dollar,15.25,4.68,USA,"Ocala, Florida",Suburban,11.30,3.47
+USD - US dollar,15.00,4.68,USA,Washington DC,Suburban,11.12,3.47
+USD - US dollar,17.25,4.66,USA,"Saint Paul, MN",Urban,12.79,3.45
+USD - US dollar,18.00,4.65,USA,Cincinnati,Suburban,13.34,3.45
+USD - US dollar,15.25,4.65,USA,"West Lafayette, IN",Urban,11.30,3.45
+USD - US dollar,12.50,4.65,USA,"Forest, VA",Suburban,9.27,3.45
+USD - US dollar,20.10,4.65,USA,Santa Clarita,Suburban,14.90,3.45
+USD - US dollar,22.88,4.65,USA,Oregon City,Urban,16.96,3.45
+USD - US dollar,15.75,4.65,USA,"Fayetteville, AR",Suburban,11.68,3.45
+USD - US dollar,24.17,4.65,USA,Mineola,Suburban,17.92,3.45
+NOK - Norwegian Krone,180.00,45.00,Norway,Oslo,Urban,14.05,3.51
+EUR - Euro,13.00,4.00,Netherlands,Amsterdam,Urban,11.10,3.42
+EUR - Euro,14.71,4.00,Netherlands,Hilversum,Urban,12.56,3.42
+EUR - Euro,25.00,4.00,Netherlands,The Hague,Suburban,21.35,3.42
+EUR - Euro,12.00,4.00,France,Bordeaux,Urban,10.25,3.42
+EUR - Euro,35.00,4.00,France,Nantes,Suburban,29.89,3.42
+EUR - Euro,14.00,4.00,Germany,Rhede,Rural,11.96,3.42
+EUR - Euro,21.00,4.00,Germany,Bielefeld,Urban,17.94,3.42
+EUR - Euro,8.00,4.00,Greece,Chania,Urban,6.83,3.42
+EUR - Euro,14.50,4.00,Ireland,,Suburban,12.38,3.42
+EUR - Euro,19.00,4.00,Netherlands,Amsterdam,Suburban,16.23,3.42
+EUR - Euro,24.00,4.00,Netherlands,Amsterdam,Urban,20.50,3.42
+EUR - Euro,15.13,4.00,Netherlands,Rotterdam,Urban,12.92,3.42
+EUR - Euro,14.40,4.00,Netherlands,Groningen,Urban,12.30,3.42
+EUR - Euro,12.00,4.00,Austria,Vienna,Urban,10.25,3.42
+EUR - Euro,15.00,4.00,Belgium,Antwerp,Urban,12.81,3.42
+EUR - Euro,14.60,4.00,Belgium,Antwerp,Urban,12.47,3.42
+EUR - Euro,16.50,4.00,Belgium,Ghent,Urban,14.09,3.42
+EUR - Euro,14.00,4.00,Belgium,Brussels,Urban,11.96,3.42
+EUR - Euro,17.20,4.00,Belgium,Antwerp,Urban,14.69,3.42
+EUR - Euro,13.47,4.00,France,Lyon,Urban,11.50,3.42
+EUR - Euro,18.00,4.00,France,,Urban,15.37,3.42
+EUR - Euro,18.00,4.00,Germany,Hamburg,Urban,15.37,3.42
+EUR - Euro,16.50,4.00,Germany,Oldenburg,Urban,14.09,3.42
+EUR - Euro,22.00,4.00,Germany,Munich,Urban,18.79,3.42
+EUR - Euro,25.00,4.00,Germany,Neu-Ulm,Suburban,21.35,3.42
+EUR - Euro,19.00,4.00,Germany,Neu-Ulm,Suburban,16.23,3.42
+EUR - Euro,14.00,4.00,Germany,Neu-Ulm,Suburban,11.96,3.42
+EUR - Euro,13.00,4.00,Germany,Mannheim,Urban,11.10,3.42
+EUR - Euro,19.00,4.00,Germany,Hamburg,Urban,16.23,3.42
+EUR - Euro,16.00,4.00,Germany,Hamburg,Urban,13.66,3.42
+EUR - Euro,13.90,4.00,Germany,Esslingen,Urban,11.87,3.42
+EUR - Euro,13.90,4.00,Germany,Leipzig,Urban,11.87,3.42
+EUR - Euro,14.00,4.00,Germany,Bielefeld,Urban,11.96,3.42
+EUR - Euro,15.00,4.00,Germany,Munchen,Urban,12.81,3.42
+EUR - Euro,5.00,4.00,Greece,Corfu,Urban,4.27,3.42
+EUR - Euro,6.50,4.00,Greece,,Suburban,5.55,3.42
+EUR - Euro,5.00,4.00,Greece,Nafplio,Rural,4.27,3.42
+EUR - Euro,14.50,4.00,Ireland,Galway,Urban,12.38,3.42
+EUR - Euro,14.80,4.00,Ireland,Limerick,Urban,12.64,3.42
+EUR - Euro,13.00,4.00,Ireland,Galway,Suburban,11.10,3.42
+EUR - Euro,14.50,4.00,Ireland,Lahinch,Rural,12.38,3.42
+EUR - Euro,14.50,4.00,Ireland,Dublin,Urban,12.38,3.42
+EUR - Euro,15.00,4.00,Ireland,Cork,Suburban,12.81,3.42
+EUR - Euro,14.80,4.00,Ireland,Drogheda,Suburban,12.64,3.42
+EUR - Euro,19.04,4.00,Netherlands,Eindhoven,Urban,16.26,3.42
+EUR - Euro,16.00,4.00,Netherlands,Delft,Urban,13.66,3.42
+EUR - Euro,14.55,4.00,Netherlands,Amsterdam,Urban,12.43,3.42
+EUR - Euro,15.00,4.00,Netherlands,Den Haag,Suburban,12.81,3.42
+EUR - Euro,14.84,4.00,Netherlands,Amersfoort,Urban,12.67,3.42
+EUR - Euro,15.79,4.00,Netherlands,Rotterdam,Urban,13.49,3.42
+EUR - Euro,17.00,4.00,Netherlands,Amsterdam,Urban,14.52,3.42
+EUR - Euro,5.25,4.00,Portugal,Porto,Urban,4.48,3.42
+EUR - Euro,7.50,4.00,Portugal,Lisbon,Suburban,6.41,3.42
+EUR - Euro,15.00,4.00,Germany,Potsdam,Urban,12.81,3.42
+EUR - Euro,20.00,4.00,Germany,Leipzig,Urban,17.08,3.42
+EUR - Euro,14.00,4.00,Germany,Essen,Urban,11.96,3.42
+GBP - Pound Sterling,13.70,3.45,UK,Newcastle,Urban,13.70,3.45
+GBP - Pound Sterling,14.25,3.45,UK,Cardiff,Urban,14.25,3.45
+GBP - Pound Sterling,10.50,3.45,UK,Stockport,Suburban,10.50,3.45
+USD - US dollar,15.00,4.61,USA,"Boise, ID",Urban,11.12,3.42
+CAD - Canadian Dollar,18.00,6.33,Canada,,Rural,9.57,3.36
+PLN - Zloty,31.40,17.00,Poland,Kraków,Urban,6.23,3.37
+PLN - Zloty,31.40,17.00,Poland,Gdańsk,Urban,6.23,3.37
+PLN - Zloty,31.40,17.00,Poland,Warsaw,Urban,6.23,3.37
+PLN - Zloty,35.50,17.00,Poland,Gdańsk,Urban,7.04,3.37
+PLN - Zloty,31.40,17.00,Poland,Wrocław,Urban,6.23,3.37
+PLN - Zloty,29.00,17.00,Poland,Kraków,Urban,5.75,3.37
+PLN - Zloty,32.50,17.00,Poland,,Urban,6.45,3.37
+PLN - Zloty,30.00,17.00,Poland,Warsaw,Urban,5.95,3.37
+PLN - Zloty,39.00,17.00,Poland,Warsaw,Urban,7.73,3.37
+PLN - Zloty,40.00,17.00,Poland,Warsaw,Urban,7.93,3.37
+USD - US dollar,18.00,4.60,USA,Pittsburgh,Urban,13.34,3.41
+USD - US dollar,9.50,4.60,USA,"Waco, Texas",Urban,7.04,3.41
+USD - US dollar,17.00,4.60,USA,"Newburgh, New York",Urban,12.60,3.41
+USD - US dollar,12.15,4.59,USA,"Fort Collins, CO",Urban,9.01,3.40
+IQD - Iraqi Dinar,"3,540.00","6,000.00",Iraq,Erbil,Urban,2.00,3.39
+USD - US dollar,19.25,4.58,USA,"Poplar Bluff, MO",Rural,14.27,3.40
+USD - US dollar,19.25,4.58,USA,"Poplar Bluff, MO",Rural,14.27,3.40
+MVR - Rufiyaa,60.00,70.80,Maldives,Malé,Urban,2.88,3.39
+PLN - Zloty,33.50,16.90,Poland,Warsaw,Urban,6.64,3.35
+EUR - Euro,15.00,3.95,Netherlands,Heemstede,Suburban,12.81,3.37
+EUR - Euro,14.15,3.95,Ireland,Dublin,Suburban,12.08,3.37
+USD - US dollar,7.25,4.56,USA,"Greenwood, sc",Rural,5.37,3.38
+USD - US dollar,15.25,4.55,USA,,Suburban,11.30,3.37
+GBP - Pound Sterling,12.90,3.40,UK,Edinburgh,Urban,12.90,3.40
+GBP - Pound Sterling,13.00,3.40,UK,Brighton and Hove,Urban,13.00,3.40
+GBP - Pound Sterling,12.60,3.40,UK,Liverpool,Urban,12.60,3.40
+GBP - Pound Sterling,12.21,3.40,UK,,Rural,12.21,3.40
+GBP - Pound Sterling,13.50,3.40,UK,,Rural,13.50,3.40
+GBP - Pound Sterling,13.00,3.40,UK,Bournemouth,Urban,13.00,3.40
+GBP - Pound Sterling,13.50,3.40,UK,Birmingham,Urban,13.50,3.40
+GBP - Pound Sterling,12.25,3.40,UK,Bolton,Urban,12.25,3.40
+GBP - Pound Sterling,13.77,3.40,UK,Manchester,Urban,13.77,3.40
+GBP - Pound Sterling,12.21,3.40,UK,Newcastle,Urban,12.21,3.40
+GBP - Pound Sterling,12.41,3.40,UK,Newcastle,Urban,12.41,3.40
+GBP - Pound Sterling,13.00,3.40,UK,Bristol,Urban,13.00,3.40
+GBP - Pound Sterling,12.75,3.40,UK,,Rural,12.75,3.40
+GBP - Pound Sterling,12.21,3.40,UK,,Urban,12.21,3.40
+RON - Romanian Leu,28.85,20.00,Romania,Bucharest,Urban,4.70,3.26
+USD - US dollar,11.00,4.54,USA,Knoxville,Suburban,8.15,3.37
+GBP - Pound Sterling,12.25,3.39,UK,Glasgow,Urban,12.25,3.39
+USD - US dollar,16.00,4.53,USA,Montclair,Urban,11.86,3.36
+AUD - Australian Dollar,32.31,6.50,Australia,Canberra,Urban,16.91,3.40
+AUD - Australian Dollar,30.00,6.50,Australia,Ballarat,Urban,15.70,3.40
+AUD - Australian Dollar,31.00,6.50,Australia,Uluru,Rural,16.23,3.40
+AUD - Australian Dollar,32.00,6.50,Australia,Melbourne,Suburban,16.75,3.40
+AUD - Australian Dollar,36.00,6.50,Australia,Sydney,Suburban,18.84,3.40
+AUD - Australian Dollar,35.00,6.50,Australia,Melbourne,Urban,18.32,3.40
+EUR - Euro,15.00,3.90,Germany,,Urban,12.81,3.33
+EUR - Euro,14.00,3.90,Germany,Landsberg am Lech,Urban,11.96,3.33
+EUR - Euro,13.90,3.90,Germany,Düsseldorf,"Urban, Suburban",11.87,3.33
+EUR - Euro,14.00,3.90,Germany,Würzburg,Urban,11.96,3.33
+EUR - Euro,14.00,3.90,Germany,Bremen,Urban,11.96,3.33
+EUR - Euro,14.00,3.90,Germany,Jena,Urban,11.96,3.33
+EUR - Euro,14.75,3.90,Ireland,,Rural,12.60,3.33
+EUR - Euro,15.00,3.90,Belgium,Antwerp,Urban,12.81,3.33
+EUR - Euro,15.60,3.90,Finland,Mikkeli,Urban,13.32,3.33
+EUR - Euro,14.00,3.90,Germany,Berlin,Urban,11.96,3.33
+EUR - Euro,23.00,3.90,Germany,Munich,Urban,19.64,3.33
+EUR - Euro,15.00,3.90,Germany,Regensburg,Urban,12.81,3.33
+EUR - Euro,14.00,3.90,Germany,Hamburg,Urban,11.96,3.33
+EUR - Euro,13.90,3.90,Germany,Coburg,Urban,11.87,3.33
+EUR - Euro,14.50,3.90,Ireland,,Rural,12.38,3.33
+EUR - Euro,17.00,3.90,Ireland,Dublin,Urban,14.52,3.33
+EUR - Euro,15.50,3.90,Ireland,,Suburban,13.24,3.33
+EUR - Euro,10.60,3.90,Austria,Vienna,Urban,9.05,3.33
+EUR - Euro,14.00,3.90,Austria,Vienna,Urban,11.96,3.33
+EUR - Euro,16.88,3.90,Belgium,Ghent,Urban,14.42,3.33
+EUR - Euro,19.50,3.90,Belgium,,Urban,16.65,3.33
+EUR - Euro,13.00,3.90,France,Lyon,Urban,11.10,3.33
+EUR - Euro,13.90,3.90,Germany,Oldenburg,Urban,11.87,3.33
+EUR - Euro,16.00,3.90,Germany,,Urban,13.66,3.33
+EUR - Euro,13.90,3.90,Germany,Cologne,Urban,11.87,3.33
+EUR - Euro,15.50,3.90,Germany,Karlsruhe,Urban,13.24,3.33
+EUR - Euro,16.00,3.90,Germany,Munich,Urban,13.66,3.33
+EUR - Euro,14.00,3.90,Germany,Karlsruhe,Rural,11.96,3.33
+EUR - Euro,14.00,3.90,Germany,Berlin,Urban,11.96,3.33
+EUR - Euro,14.21,3.90,Germany,Münster,Urban,12.14,3.33
+EUR - Euro,18.00,3.90,Germany,Munich,Urban,15.37,3.33
+EUR - Euro,14.00,3.90,Germany,Berlin,Urban,11.96,3.33
+EUR - Euro,16.00,3.90,Germany,Saarbrücken,Urban,13.66,3.33
+EUR - Euro,17.00,3.90,Germany,Giessen,Urban,14.52,3.33
+EUR - Euro,15.32,3.90,Germany,Erfurt,Urban,13.08,3.33
+EUR - Euro,14.75,3.90,Ireland,Galway,Suburban,12.60,3.33
+EUR - Euro,17.62,3.90,Netherlands,Rotterdam,Urban,15.05,3.33
+EUR - Euro,14.40,3.90,Netherlands,Maastricht,Urban,12.30,3.33
+EUR - Euro,17.00,3.90,Netherlands,Amsterdam,Urban,14.52,3.33
+EUR - Euro,14.50,3.90,Germany,Freiburg,Urban,12.38,3.33
+EUR - Euro,13.90,3.90,Germany,Karlsruhe,Urban,11.87,3.33
+EUR - Euro,14.00,3.90,Germany,Jena,Urban,11.96,3.33
+EUR - Euro,15.00,3.90,Germany,Hamburg,Urban,12.81,3.33
+EUR - Euro,13.50,3.90,Germany,Freiburg im Breisgau,Urban,11.53,3.33
+EUR - Euro,18.00,3.90,Germany,Überlingen,Rural,15.37,3.33
+EUR - Euro,22.00,3.90,Germany,Hamburg,Urban,18.79,3.33
+EUR - Euro,18.00,3.90,Germany,Hamburg,Urban,15.37,3.33
+EUR - Euro,14.00,3.90,Germany,Berlin,Urban,11.96,3.33
+EUR - Euro,20.00,3.90,Germany,Hamburg,Urban,17.08,3.33
+EUR - Euro,16.00,3.90,Ireland,Castlebar,Suburban,13.66,3.33
+EUR - Euro,4.50,3.90,Latvia,Riga,Urban,3.84,3.33
+EUR - Euro,14.40,3.90,Netherlands,Maastricht,Urban,12.30,3.33
+HUF - Forint,"3,600.00","1,520.00",Hungary,Budapest,Urban,8.44,3.56
+USD - US dollar,18.00,4.50,USA,Washington DC,Urban,13.34,3.34
+USD - US dollar,13.00,4.50,USA,"Austin, Texas",Urban,9.64,3.34
+USD - US dollar,15.00,4.50,USA,DC,Urban,11.12,3.34
+USD - US dollar,12.00,4.50,USA,Cypress,Suburban,8.90,3.34
+USD - US dollar,16.00,4.50,USA,"Pittsburgh, Pennsylvania",Urban,11.86,3.34
+USD - US dollar,16.50,4.50,USA,Phoenixville,Suburban,12.23,3.34
+USD - US dollar,20.00,4.50,USA,Redlands,Suburban,14.83,3.34
+USD - US dollar,16.90,4.50,USA,Hayfork,Rural,12.53,3.34
+USD - US dollar,15.97,4.50,USA,Minneapolis,Urban,11.84,3.34
+USD - US dollar,16.50,4.50,USA,Rockland,Suburban,12.23,3.34
+USD - US dollar,19.75,4.50,USA,"Omaha, Nebraska",Suburban,14.64,3.34
+USD - US dollar,13.00,4.50,USA,"Carmel, Indiana",Suburban,9.64,3.34
+USD - US dollar,9.00,4.50,USA,Brownsville,Suburban,6.67,3.34
+USD - US dollar,17.50,4.50,USA,,Rural,12.97,3.34
+USD - US dollar,15.00,4.50,USA,,Urban,11.12,3.34
+USD - US dollar,12.00,4.50,USA,Atlanta,Suburban,8.90,3.34
+USD - US dollar,18.00,4.50,USA,Greenville,Urban,13.34,3.34
+USD - US dollar,20.00,4.50,USA,Alpharetta,Urban,14.83,3.34
+USD - US dollar,18.50,4.50,USA,Rochester,Suburban,13.71,3.34
+USD - US dollar,24.00,4.50,USA,San Francisco,Urban,17.79,3.34
+USD - US dollar,15.00,4.50,USA,Salt Lake City,Urban,11.12,3.34
+USD - US dollar,23.00,4.50,USA,Seattle,Urban,17.05,3.34
+USD - US dollar,26.00,4.50,USA,Indianapolis,Suburban,19.27,3.34
+USD - US dollar,16.50,4.50,USA,"Long Branch, NJ",Suburban,12.23,3.34
+USD - US dollar,16.50,4.50,USA,Milwaukee,Urban,12.23,3.34
+USD - US dollar,16.25,4.50,USA,Phoenix,Suburban,12.05,3.34
+USD - US dollar,11.75,4.50,USA,Austin,Urban,8.71,3.34
+USD - US dollar,10.00,4.50,USA,"Lafayette, LA",Urban,7.41,3.34
+USD - US dollar,15.00,4.50,USA,New Hampshire,Rural,11.12,3.34
+USD - US dollar,12.00,4.50,USA,"Houston, TX",Urban,8.90,3.34
+USD - US dollar,19.00,4.50,USA,"Richmond, VA",Urban,14.08,3.34
+USD - US dollar,15.00,4.50,USA,Madison,Urban,11.12,3.34
+USD - US dollar,18.00,4.50,USA,"St. Louis, MO",Suburban,13.34,3.34
+USD - US dollar,18.00,4.50,USA,San Diego California,Urban,13.34,3.34
+USD - US dollar,14.00,4.50,USA,Fort Worth,Suburban,10.38,3.34
+USD - US dollar,11.00,4.50,USA,"Gainesville, FL",Suburban,8.15,3.34
+USD - US dollar,13.00,4.50,USA,"Missoula, MT",Suburban,9.64,3.34
+USD - US dollar,12.00,4.50,USA,"Sawyer, MI",Rural,8.90,3.34
+USD - US dollar,13.00,4.50,USA,"Nashville, TN",Urban,9.64,3.34
+USD - US dollar,15.00,4.50,USA,Kokomo,Suburban,11.12,3.34
+USD - US dollar,10.50,4.50,USA,,Rural,7.78,3.34
+USD - US dollar,16.35,4.50,USA,"Naugatuck, CT",Suburban,12.12,3.34
+USD - US dollar,14.00,4.50,USA,Milwaukee,Urban,10.38,3.34
+USD - US dollar,12.00,4.50,USA,Dallas,Urban,8.90,3.34
+USD - US dollar,12.50,4.50,USA,"Bismarck, ND",Urban,9.27,3.34
+USD - US dollar,18.00,4.50,USA,Chicago,Urban,13.34,3.34
+USD - US dollar,10.00,4.50,USA,Austin,Urban,7.41,3.34
+USD - US dollar,12.00,4.50,USA,"Milwaukee, WI",Urban,8.90,3.34
+USD - US dollar,18.00,4.50,USA,"Portland, OR",Urban,13.34,3.34
+USD - US dollar,16.50,4.50,USA,San Luis Obispo,Urban,12.23,3.34
+USD - US dollar,13.78,4.50,USA,Duluth MN,Urban,10.21,3.34
+USD - US dollar,12.50,4.50,USA,"Columbus, OH",Urban,9.27,3.34
+USD - US dollar,18.75,4.50,USA,"Lexington, KY",Urban,13.90,3.34
+USD - US dollar,21.00,4.50,USA,"Madison, WI",Urban,15.57,3.34
+USD - US dollar,20.00,4.50,USA,Mission Viejo,Suburban,14.83,3.34
+USD - US dollar,21.00,4.50,USA,Minneapolis,Urban,15.57,3.34
+USD - US dollar,16.50,4.50,USA,"Portland, OR",Urban,12.23,3.34
+USD - US dollar,13.00,4.50,USA,"Uniontown, OH",Suburban,9.64,3.34
+USD - US dollar,28.00,4.50,USA,"Denver, CO",Suburban,20.76,3.34
+USD - US dollar,7.50,4.50,USA,"Athens, GA",Suburban,5.56,3.34
+USD - US dollar,13.00,4.50,USA,Omaha,Urban,9.64,3.34
+USD - US dollar,17.50,4.50,USA,"Waitsburg, WA",Rural,12.97,3.34
+USD - US dollar,14.00,4.50,USA,Orlando,Urban,10.38,3.34
+USD - US dollar,24.00,4.50,USA,Kansas City,Urban,17.79,3.34
+USD - US dollar,18.00,4.50,USA,Orange County,Urban,13.34,3.34
+USD - US dollar,16.50,4.50,USA,Chicago,Urban,12.23,3.34
+USD - US dollar,20.75,4.50,USA,San Francisco,Urban,15.38,3.34
+USD - US dollar,12.25,4.50,USA,Knoxville,Suburban,9.08,3.34
+USD - US dollar,23.50,4.50,USA,"Arlington, VA",Urban,17.42,3.34
+USD - US dollar,23.00,4.50,USA,Minneapolis,Urban,17.05,3.34
+USD - US dollar,16.00,4.50,USA,"Arlington, VA",Urban,11.86,3.34
+USD - US dollar,14.00,4.50,USA,Philadelphia,Urban,10.38,3.34
+USD - US dollar,15.00,4.50,USA,"Gainesville, GA",Suburban,11.12,3.34
+USD - US dollar,11.00,4.50,USA,Pittsburgh,Urban,8.15,3.34
+USD - US dollar,17.50,4.50,USA,"Portland, OR",Suburban,12.97,3.34
+USD - US dollar,13.50,4.50,USA,"Fort Collins, CO",Suburban,10.01,3.34
+USD - US dollar,14.00,4.50,USA,Bozeman,Urban,10.38,3.34
+USD - US dollar,16.50,4.50,USA,Portland,Urban,12.23,3.34
+USD - US dollar,20.00,4.50,USA,Albany NY,Suburban,14.83,3.34
+USD - US dollar,18.00,4.50,USA,Atlanta,Urban,13.34,3.34
+USD - US dollar,16.00,4.50,USA,"Fairlee, VT",Rural,11.86,3.34
+CZK - Czech Koruna,170.00,95.00,Czechia,Prague,Urban,5.99,3.35
+CZK - Czech Koruna,220.00,95.00,Czechia,Prague,Urban,7.75,3.35
+SEK - Swedish Krona,158.00,42.00,Sweden,Växjö,Urban,12.22,3.25
+USD - US dollar,11.40,4.49,USA,"Wilmington, NC",Urban,8.45,3.33
+GBP - Pound Sterling,10.00,3.35,UK,London,Urban,10.00,3.35
+GBP - Pound Sterling,10.00,3.35,UK,Liverpool,Urban,10.00,3.35
+ILS - New Israeli Sheqel,38.00,14.00,Israel,Be'er Sheva,Urban,9.44,3.48
+PLN - Zloty,33.00,16.50,Poland,Warsaw,Urban,6.54,3.27
+EUR - Euro,15.52,3.85,Ireland,Dublin,Suburban,13.25,3.29
+HUF - Forint,"2,800.00","1,500.00",Hungary,Budapest,Urban,6.56,3.52
+SGD - Singapore Dollar,12.50,5.70,Singapore,,Urban,7.24,3.30
+USD - US dollar,15.00,4.45,USA,Boston,Urban,11.12,3.30
+USD - US dollar,14.03,4.45,USA,Milwaukee,Urban,10.40,3.30
+USD - US dollar,17.10,4.45,USA,Milwaukee,Urban,12.68,3.30
+USD - US dollar,16.00,4.45,USA,Columbus,Suburban,11.86,3.30
+JMD - Jamaican Dollar,500.00,700.00,Jamaica,Kingston,Urban,2.34,3.27
+USD - US dollar,12.75,4.44,USA,Pooler,Suburban,9.45,3.29
+GBP - Pound Sterling,12.25,3.30,UK,Preston,Rural,12.25,3.30
+GBP - Pound Sterling,12.70,3.30,UK,Brighton,Urban,12.70,3.30
+GBP - Pound Sterling,12.51,3.30,UK,Newcastle,Urban,12.51,3.30
+USD - US dollar,11.00,4.41,USA,"Atlanta, GA",Urban,8.15,3.27
+JPY - Yen,"1,200.00",700.00,Japan,Tokyo,Suburban,5.58,3.25
+USD - US dollar,16.00,4.40,USA,Ann Arbor,Urban,11.86,3.26
+USD - US dollar,21.00,4.40,USA,"Chaimpaign, Illinois",Suburban,15.57,3.26
+EUR - Euro,15.00,3.80,Ireland,,Urban,12.81,3.25
+EUR - Euro,6.25,3.80,Latvia,Riga,Urban,5.34,3.25
+EUR - Euro,18.00,3.80,Netherlands,Bergen op Zoom,Urban,15.37,3.25
+EUR - Euro,17.00,3.80,Netherlands,Amsterdam,Urban,14.52,3.25
+EUR - Euro,14.00,3.80,Netherlands,Amsterdam,Urban,11.96,3.25
+EUR - Euro,14.00,3.80,Germany,Hamburg,Urban,11.96,3.25
+EUR - Euro,16.00,3.80,Germany,Berlin,Urban,13.66,3.25
+EUR - Euro,13.90,3.80,Germany,Münster,Suburban,11.87,3.25
+EUR - Euro,14.00,3.80,Germany,Cologne,Urban,11.96,3.25
+EUR - Euro,14.40,3.80,Germany,Munich,Urban,12.30,3.25
+EUR - Euro,16.72,3.80,Netherlands,Amsterdam,Urban,14.28,3.25
+EUR - Euro,14.80,3.80,Netherlands,Amsterdam,Urban,12.64,3.25
+EUR - Euro,16.00,3.80,Belgium,Ghent,Urban,13.66,3.25
+EUR - Euro,15.00,3.80,Belgium,Antwerp,Suburban,12.81,3.25
+EUR - Euro,9.86,3.80,France,,Suburban,8.42,3.25
+EUR - Euro,13.90,3.80,Germany,Münster,Urban,11.87,3.25
+EUR - Euro,14.00,3.80,Germany,Frankfurt,Suburban,11.96,3.25
+EUR - Euro,14.00,3.80,Germany,Munich,Urban,11.96,3.25
+EUR - Euro,20.00,3.80,Germany,Munich,Urban,17.08,3.25
+EUR - Euro,13.00,3.80,Germany,Berlin,Urban,11.10,3.25
+EUR - Euro,14.00,3.80,Germany,Berlin,Urban,11.96,3.25
+EUR - Euro,15.50,3.80,Germany,Berlin,Urban,13.24,3.25
+EUR - Euro,14.50,3.80,Germany,Leipzig,Urban,12.38,3.25
+EUR - Euro,15.50,3.80,Germany,Berlin,Urban,13.24,3.25
+EUR - Euro,13.50,3.80,Germany,Hamburg,Suburban,11.53,3.25
+EUR - Euro,19.00,3.80,Germany,Würzburg,Urban,16.23,3.25
+EUR - Euro,13.90,3.80,Germany,Aachen,Urban,11.87,3.25
+EUR - Euro,13.00,3.80,Germany,Heidelberg,Urban,11.10,3.25
+EUR - Euro,6.00,3.80,Greece,Rhodes,Suburban,5.12,3.25
+EUR - Euro,14.50,3.80,Ireland,Cork,Urban,12.38,3.25
+EUR - Euro,16.50,3.80,Ireland,,Rural,14.09,3.25
+EUR - Euro,15.75,3.80,Ireland,,Suburban,13.45,3.25
+EUR - Euro,15.35,3.80,Netherlands,The Hague,Urban,13.11,3.25
+EUR - Euro,15.00,3.80,Netherlands,Haarlem,Urban,12.81,3.25
+EUR - Euro,14.95,3.80,Netherlands,,Suburban,12.77,3.25
+EUR - Euro,12.13,3.80,France,Anglet,Urban,10.36,3.25
+EUR - Euro,9.00,3.80,Slovakia,Poprad,Suburban,7.69,3.25
+CAD - Canadian Dollar,19.50,6.04,Canada,Calgary,Urban,10.37,3.21
+CAD - Canadian Dollar,20.00,6.00,Canada,Sherbrooke,Urban,10.63,3.19
+CAD - Canadian Dollar,18.19,6.00,Canada,Halifax,Urban,9.67,3.19
+CAD - Canadian Dollar,17.75,6.00,Canada,Guelph,Urban,9.44,3.19
+CAD - Canadian Dollar,25.00,6.00,Canada,Toronto,Urban,13.29,3.19
+CAD - Canadian Dollar,17.50,6.00,Canada,Montréal,Urban,9.30,3.19
+CAD - Canadian Dollar,18.00,6.00,Canada,Nova Scotia,Rural,9.57,3.19
+CLP - Chilean Peso,"3,750.00","3,990.00",Chile,Talcahuano,Urban,3.04,3.23
+USD - US dollar,16.00,4.35,USA,"Chandler, AZ",Urban,11.86,3.22
+USD - US dollar,12.25,4.35,USA,Rock Hill,Urban,9.08,3.22
+USD - US dollar,18.00,4.35,USA,Queen Creek,Urban,13.34,3.22
+USD - US dollar,20.05,4.35,USA,"Greer, South Carolina",Suburban,14.86,3.22
+USD - US dollar,29.00,4.35,USA,Minneapolis,Suburban,21.50,3.22
+USD - US dollar,16.11,4.35,USA,"O'Fallon, Missouri",Suburban,11.94,3.22
+USD - US dollar,15.25,4.35,USA,Baton Rouge,Suburban,11.30,3.22
+USD - US dollar,19.76,4.35,USA,"Little Rock, Arkansas",Suburban,14.65,3.22
+USD - US dollar,16.25,4.35,USA,Phoenix,Suburban,12.05,3.22
+USD - US dollar,19.00,4.35,USA,Dallas,Suburban,14.08,3.22
+USD - US dollar,20.00,4.35,USA,"Winston-Salem, NC",Suburban,14.83,3.22
+USD - US dollar,16.84,4.35,USA,Lehi,Suburban,12.48,3.22
+GBP - Pound Sterling,12.25,3.25,UK,,Urban,12.25,3.25
+USD - US dollar,12.00,4.34,USA,Salt Lake City,Suburban,8.90,3.22
+USD - US dollar,17.09,4.34,USA,"Nashville, TN",Urban,12.67,3.22
+USD - US dollar,13.75,4.34,USA,Columbia MO,Urban,10.19,3.22
+EUR - Euro,10.00,3.75,Netherlands,Sittard,Urban,8.54,3.20
+EUR - Euro,14.71,3.75,Netherlands,Amsterdam,Urban,12.56,3.20
+EUR - Euro,14.40,3.75,Netherlands,Eindhoven,Suburban,12.30,3.20
+EUR - Euro,14.71,3.75,Netherlands,Elst,Suburban,12.56,3.20
+EUR - Euro,14.00,3.75,Netherlands,Rotterdam,Suburban,11.96,3.20
+PLN - Zloty,31.00,16.00,Poland,Gdańsk,Urban,6.15,3.17
+PLN - Zloty,31.40,16.00,Poland,Kraków,Urban,6.23,3.17
+PLN - Zloty,25.00,16.00,Poland,Kraków,Urban,4.96,3.17
+PLN - Zloty,32.00,16.00,Poland,Poznań,Urban,6.35,3.17
+PLN - Zloty,32.00,16.00,Poland,Warsaw,Urban,6.35,3.17
+PLN - Zloty,30.40,16.00,Poland,Kraków,Urban,6.03,3.17
+PLN - Zloty,31.40,16.00,Poland,Kolobrzeg,Urban,6.23,3.17
+PLN - Zloty,31.40,16.00,Poland,Gdańsk,Urban,6.23,3.17
+PLN - Zloty,31.00,16.00,Poland,Kraków,Urban,6.15,3.17
+PLN - Zloty,31.40,16.00,Poland,Opole,Suburban,6.23,3.17
+PLN - Zloty,28.00,16.00,Poland,Kraków,Urban,5.55,3.17
+PLN - Zloty,25.00,16.00,Poland,Gliwice,Urban,4.96,3.17
+PLN - Zloty,80.00,16.00,Poland,Warsaw,Urban,15.87,3.17
+PLN - Zloty,31.40,16.00,Poland,Wrocław,Urban,6.23,3.17
+PLN - Zloty,31.40,16.00,Poland,Łódź,Urban,6.23,3.17
+USD - US dollar,15.00,4.33,USA,Peoria,Urban,11.12,3.21
+USD - US dollar,16.00,4.33,USA,"Amarillo, TX",Urban,11.86,3.21
+USD - US dollar,9.25,4.32,USA,Philadelphia,Urban,6.86,3.20
+CAD - Canadian Dollar,17.60,5.93,Canada,Toronto,Urban,9.36,3.15
+PLN - Zloty,30.50,15.90,Poland,Żory,"Urban, Suburban",6.05,3.15
+USD - US dollar,15.00,4.30,USA,"Forest, VA",Suburban,11.12,3.19
+USD - US dollar,15.00,4.30,USA,"Tulsa, OK",Urban,11.12,3.19
+SGD - Singapore Dollar,12.00,5.50,Singapore,Singapore,Urban,6.95,3.18
+SGD - Singapore Dollar,14.00,5.50,Singapore,,Urban,8.10,3.18
+SGD - Singapore Dollar,15.00,5.50,Singapore,,Urban,8.68,3.18
+SGD - Singapore Dollar,8.00,5.50,Singapore,Singapore,Urban,4.63,3.18
+SGD - Singapore Dollar,12.00,5.50,Singapore,,Urban,6.95,3.18
+ARS - Argentine Peso,"4,000.00","6,000.00",Argentina,Buenos Aires,Urban,1.99,2.98
+USD - US dollar,13.00,4.29,USA,Lincoln,Urban,9.64,3.18
+EUR - Euro,12.82,3.70,Germany,,Rural,10.95,3.16
+EUR - Euro,15.00,3.70,Belgium,Brussels,Urban,12.81,3.16
+EUR - Euro,8.00,3.70,Estonia,Tallinn,Suburban,6.83,3.16
+EUR - Euro,13.90,3.70,Germany,Berlin,Urban,11.87,3.16
+EUR - Euro,14.10,3.70,Ireland,Cork,Urban,12.04,3.16
+EUR - Euro,13.00,3.70,Germany,Cologne,Urban,11.10,3.16
+EUR - Euro,23.00,3.70,Netherlands,Amsterdam,Urban,19.64,3.16
+EUR - Euro,14.95,3.70,Netherlands,Nijmegen,Urban,12.77,3.16
+EUR - Euro,14.71,3.70,Netherlands,Utrecht,Urban,12.56,3.16
+EUR - Euro,15.00,3.70,Germany,Cologne,Urban,12.81,3.16
+EUR - Euro,14.00,3.70,Germany,,Suburban,11.96,3.16
+EUR - Euro,23.00,3.70,Netherlands,Amsterdam,Suburban,19.64,3.16
+EUR - Euro,15.00,3.70,Netherlands,Amsterdam,Urban,12.81,3.16
+USD - US dollar,8.00,4.28,USA,"Liberty, IN",Rural,5.93,3.17
+GBP - Pound Sterling,12.61,3.20,UK,,Suburban,12.61,3.20
+GBP - Pound Sterling,12.75,3.20,UK,,Rural,12.75,3.20
+GBP - Pound Sterling,13.45,3.20,UK,Liverpool,Urban,13.45,3.20
+GBP - Pound Sterling,13.00,3.20,UK,"Poole, Dorset",Suburban,13.00,3.20
+GBP - Pound Sterling,13.50,3.20,UK,,Suburban,13.50,3.20
+GBP - Pound Sterling,12.40,3.20,UK,Birmingham,Urban,12.40,3.20
+GBP - Pound Sterling,13.00,3.20,UK,Sunerland,Urban,13.00,3.20
+SEK - Swedish Krona,180.00,40.00,Sweden,Lund,Urban,13.92,3.09
+CZK - Czech Koruna,160.00,90.00,Czechia,Brno,Urban,5.64,3.17
+USD - US dollar,15.00,4.25,USA,"Clarksville, Tennessee",Suburban,11.12,3.15
+USD - US dollar,13.50,4.25,USA,Charleston,Suburban,10.01,3.15
+USD - US dollar,13.50,4.25,USA,Winfield,Suburban,10.01,3.15
+USD - US dollar,7.25,4.25,USA,,Suburban,5.37,3.15
+USD - US dollar,19.50,4.25,USA,"Glendora, California",Suburban,14.45,3.15
+USD - US dollar,9.00,4.25,USA,San Antonio,Urban,6.67,3.15
+USD - US dollar,17.25,4.25,USA,San Diego,Urban,12.79,3.15
+USD - US dollar,19.00,4.25,USA,Fresno,Suburban,14.08,3.15
+USD - US dollar,12.00,4.25,USA,Albuquerque,Urban,8.90,3.15
+USD - US dollar,15.05,4.25,USA,"Salem, Oregon",Suburban,11.16,3.15
+USD - US dollar,16.00,4.25,USA,"Lake Zurich, IL",Suburban,11.86,3.15
+USD - US dollar,12.75,4.25,USA,,Suburban,9.45,3.15
+USD - US dollar,18.00,4.25,USA,Belmont,Suburban,13.34,3.15
+USD - US dollar,21.00,4.25,USA,Ann Arbor,Suburban,15.57,3.15
+USD - US dollar,17.00,4.25,USA,Cincinnati,Urban,12.60,3.15
+USD - US dollar,16.25,4.25,USA,"Newberg, Oregon",Suburban,12.05,3.15
+USD - US dollar,10.00,4.25,USA,Charlottesville,Urban,7.41,3.15
+USD - US dollar,11.00,4.25,USA,Johns Creek,Suburban,8.15,3.15
+USD - US dollar,17.25,4.25,USA,"Iowa City, IA",Urban,12.79,3.15
+USD - US dollar,18.00,4.25,USA,Delmar NY,Rural,13.34,3.15
+USD - US dollar,15.00,4.25,USA,Jacksonville,Suburban,11.12,3.15
+USD - US dollar,19.00,4.25,USA,Cincinnati,Urban,14.08,3.15
+USD - US dollar,15.45,4.25,USA,Tucson,Urban,11.45,3.15
+USD - US dollar,15.00,4.25,USA,"Beverly, MA",Suburban,11.12,3.15
+USD - US dollar,9.50,4.25,USA,"Lafayette, LA",Urban,7.04,3.15
+USD - US dollar,21.50,4.25,USA,,Suburban,15.94,3.15
+USD - US dollar,16.00,4.24,USA,Spruce Pine,"Suburban, Rural",11.86,3.14
+USD - US dollar,9.50,4.24,USA,"Harrisburg, PA",Urban,7.04,3.14
+CAD - Canadian Dollar,18.70,5.80,Canada,Toronto,Urban,9.94,3.08
+GBP - Pound Sterling,12.40,3.15,UK,Bovey Tracey,Rural,12.40,3.15
+GBP - Pound Sterling,12.21,3.15,UK,Cardiff,Urban,12.21,3.15
+CAD - Canadian Dollar,20.45,5.78,Canada,Vancouver,Urban,10.87,3.07
+USD - US dollar,18.50,4.20,USA,St. Louis,Suburban,13.71,3.11
+MXN - Mexican Peso,40.00,75.00,Mexico,Mérida,Urban,1.74,3.26
+MXN - Mexican Peso,39.30,75.00,Mexico,México city,Urban,1.71,3.26
+CAD - Canadian Dollar,19.00,5.75,Canada,Toronto,Urban,10.10,3.06
+CAD - Canadian Dollar,20.00,5.75,Canada,Montréal,Urban,10.63,3.06
+CAD - Canadian Dollar,15.00,5.75,Canada,Edmonton,Urban,7.97,3.06
+CAD - Canadian Dollar,17.85,5.75,Canada,Victoria,Urban,9.49,3.06
+CAD - Canadian Dollar,19.00,5.75,Canada,Montréal,Urban,10.10,3.06
+AUD - Australian Dollar,33.50,6.00,Australia,Launceston,Urban,17.53,3.14
+AUD - Australian Dollar,32.00,6.00,Australia,Katoomba,Suburban,16.75,3.14
+AUD - Australian Dollar,32.00,6.00,Australia,Canberra,Urban,16.75,3.14
+AUD - Australian Dollar,38.00,6.00,Australia,Melbourne,Suburban,19.89,3.14
+AUD - Australian Dollar,33.38,6.00,Australia,Perth,Urban,17.47,3.14
+AUD - Australian Dollar,32.00,6.00,Australia,Newcastle,Urban,16.75,3.14
+AUD - Australian Dollar,25.85,6.00,Australia,Canberra,Urban,13.53,3.14
+AUD - Australian Dollar,25.85,6.00,Australia,Katoomba,Rural,13.53,3.14
+AUD - Australian Dollar,32.25,6.00,Australia,,"Urban, Suburban",16.88,3.14
+AUD - Australian Dollar,31.32,6.00,Australia,Geelong,Suburban,16.39,3.14
+AUD - Australian Dollar,33.00,6.00,Australia,Melbourne,Urban,17.27,3.14
+AUD - Australian Dollar,34.50,6.00,Australia,Melbourne,Urban,18.06,3.14
+AUD - Australian Dollar,32.31,6.00,Australia,Melbourne,Suburban,16.91,3.14
+AUD - Australian Dollar,28.00,6.00,Australia,Melbourne,Urban,14.66,3.14
+AUD - Australian Dollar,26.00,6.00,Australia,Melbourne,Urban,13.61,3.14
+AUD - Australian Dollar,26.55,6.00,Australia,Melbourne,Suburban,13.90,3.14
+AUD - Australian Dollar,35.50,6.00,Australia,Melbourne,Suburban,18.58,3.14
+AUD - Australian Dollar,30.13,6.00,Australia,,Rural,15.77,3.14
+AUD - Australian Dollar,31.00,6.00,Australia,Brisbane,Urban,16.23,3.14
+AUD - Australian Dollar,32.31,6.00,Australia,Melbourne,Urban,16.91,3.14
+AUD - Australian Dollar,34.00,6.00,Australia,Sydney,Urban,17.80,3.14
+EUR - Euro,9.52,3.60,France,Strasbourg,Urban,8.13,3.07
+EUR - Euro,14.60,3.60,Netherlands,Nijmegen,Urban,12.47,3.07
+EUR - Euro,16.00,3.60,Germany,Bremen,Urban,13.66,3.07
+EUR - Euro,19.00,3.60,Germany,Freiburg,Urban,16.23,3.07
+EUR - Euro,14.00,3.60,Germany,Berlin,Urban,11.96,3.07
+EUR - Euro,15.00,3.60,Ireland,,Rural,12.81,3.07
+EUR - Euro,17.70,3.60,Netherlands,The Hague,Urban,15.12,3.07
+EUR - Euro,14.00,3.60,Germany,Berlin,Urban,11.96,3.07
+EUR - Euro,13.00,3.60,Germany,Bonn,Urban,11.10,3.07
+EUR - Euro,14.00,3.60,Germany,Trier,Suburban,11.96,3.07
+EUR - Euro,14.60,3.60,Germany,Bonn,Urban,12.47,3.07
+EUR - Euro,16.30,3.60,Netherlands,Amsterdam,Urban,13.92,3.07
+EUR - Euro,17.00,3.60,Germany,Berlin,Urban,14.52,3.07
+EUR - Euro,14.07,3.60,Netherlands,Groningen,Urban,12.02,3.07
+HUF - Forint,"2,900.00","1,400.00",Hungary,Budapest,Urban,6.80,3.28
+HUF - Forint,"2,900.00","1,400.00",Hungary,Budapest,Urban,6.80,3.28
+ILS - New Israeli Sheqel,40.00,13.00,Israel,,Rural,9.94,3.23
+ARS - Argentine Peso,"6,700.00","5,800.00",Argentina,Ciudad Autónoma de Buenos Aires,Urban,3.33,2.88
+USD - US dollar,16.50,4.15,USA,"Dallas, TX",Urban,12.23,3.08
+CLP - Chilean Peso,"2,500.00","3,800.00",Chile,Santiago,Urban,2.03,3.08
+CAD - Canadian Dollar,17.00,5.70,Canada,Montréal,Urban,9.04,3.03
+CAD - Canadian Dollar,19.20,5.70,Canada,Toronto,Urban,10.21,3.03
+GBP - Pound Sterling,14.42,3.10,UK,Aldershot,Urban,14.42,3.10
+GBP - Pound Sterling,13.50,3.10,UK,Huddersfield,Urban,13.50,3.10
+GBP - Pound Sterling,13.50,3.10,UK,Manchester,Suburban,13.50,3.10
+GBP - Pound Sterling,12.21,3.10,UK,Torquay,Suburban,12.21,3.10
+GBP - Pound Sterling,12.50,3.10,UK,,Urban,12.50,3.10
+MYR - Malaysian Ringgit,11.00,16.40,Malaysia,Kuala Lumpur,Urban,2.00,2.97
+SGD - Singapore Dollar,12.00,5.30,Singapore,,Urban,6.95,3.07
+CAD - Canadian Dollar,18.00,5.69,Canada,Toronto,Urban,9.57,3.02
+USD - US dollar,17.81,4.12,USA,Ellensburg,Suburban,13.20,3.05
+CAD - Canadian Dollar,17.60,5.65,Canada,Toronto,Urban,9.36,3.00
+CAD - Canadian Dollar,21.00,5.65,Canada,Toronto,Urban,11.16,3.00
+EUR - Euro,4.75,3.55,Cyprus,Larnaca,Urban,4.06,3.03
+USD - US dollar,16.00,4.10,USA,"Hillsborough, NC",Suburban,11.86,3.04
+CAD - Canadian Dollar,18.25,5.63,Canada,Vancouver,Urban,9.70,2.99
+JPY - Yen,"1,200.00",650.00,Japan,Tokyo,Urban,5.58,3.02
+JPY - Yen,"1,250.00",650.00,Japan,"Koenji, Tokyo",Suburban,5.81,3.02
+RUB - Russian Ruble,240.00,330.00,Russia,Kazan,Urban,2.15,2.95
+RON - Romanian Leu,21.00,18.00,Romania,Cluj-Napoca,Urban,3.42,2.94
+USD - US dollar,11.50,4.08,USA,Louisville,Urban,8.52,3.02
+CAD - Canadian Dollar,20.00,5.60,Canada,Toronto,Urban,10.63,2.98
+CAD - Canadian Dollar,15.50,5.60,Canada,"Edmonton, Alberta",Urban,8.24,2.98
+CAD - Canadian Dollar,18.00,5.60,Canada,Toronto,Urban,9.57,2.98
+CAD - Canadian Dollar,18.35,5.60,Canada,Vancouver,Urban,9.75,2.98
+CAD - Canadian Dollar,20.00,5.59,Canada,"Kingston, ON",Suburban,10.63,2.97
+PLN - Zloty,31.40,15.00,Poland,Wrocław,Urban,6.23,2.97
+PLN - Zloty,31.40,15.00,Poland,Kraków,Urban,6.23,2.97
+PLN - Zloty,32.00,15.00,Poland,Poznań,Urban,6.35,2.97
+PLN - Zloty,27.00,15.00,Poland,Warsaw,Urban,5.35,2.97
+PLN - Zloty,37.00,15.00,Poland,Warsaw,Urban,7.34,2.97
+PLN - Zloty,45.00,15.00,Poland,Warsaw,Urban,8.92,2.97
+PLN - Zloty,32.00,15.00,Poland,Wrocław,Urban,6.35,2.97
+PLN - Zloty,32.00,15.00,Poland,Toruń,Urban,6.35,2.97
+PLN - Zloty,37.50,15.00,Poland,Warsaw,Urban,7.44,2.97
+PLN - Zloty,50.00,15.00,Poland,Warsaw,Urban,9.92,2.97
+PLN - Zloty,27.00,15.00,Poland,Cieszyn,Urban,5.35,2.97
+PLN - Zloty,34.00,15.00,Poland,Warsaw,Urban,6.74,2.97
+PLN - Zloty,33.00,15.00,Poland,Warsaw,Urban,6.54,2.97
+PLN - Zloty,31.40,15.00,Poland,Kraków,Suburban,6.23,2.97
+PLN - Zloty,31.40,15.00,Poland,Warsaw,Urban,6.23,2.97
+PLN - Zloty,32.00,15.00,Poland,Kraków,Urban,6.35,2.97
+PLN - Zloty,32.00,15.00,Poland,Warsaw,Urban,6.35,2.97
+PLN - Zloty,31.40,15.00,Poland,Kraków,Urban,6.23,2.97
+TRY - Turkish Lira,197.00,180.00,Turkey,Istanbul,Urban,3.06,2.79
+EUR - Euro,20.00,3.50,Germany,Hamburg,Urban,17.08,2.99
+EUR - Euro,15.00,3.50,Germany,Giessen,Urban,12.81,2.99
+EUR - Euro,8.00,3.50,Portugal,Lisbon,Rural,6.83,2.99
+EUR - Euro,9.50,3.50,Spain,Málaga,Urban,8.11,2.99
+EUR - Euro,14.00,3.50,Germany,Berlin,Suburban,11.96,2.99
+EUR - Euro,7.50,3.50,Lithuania,Vilnius,Urban,6.41,2.99
+EUR - Euro,9.00,3.50,Spain,Barcelona,Urban,7.69,2.99
+EUR - Euro,8.00,3.50,Spain,Barcelona,Urban,6.83,2.99
+EUR - Euro,15.00,3.50,Belgium,Antwerp,Urban,12.81,2.99
+EUR - Euro,9.00,3.50,France,Châtellaion-Plage,Suburban,7.69,2.99
+EUR - Euro,16.00,3.50,Germany,,Rural,13.66,2.99
+EUR - Euro,35.00,3.50,Germany,Munich,Urban,29.89,2.99
+EUR - Euro,13.50,3.50,Germany,Olpe,Suburban,11.53,2.99
+EUR - Euro,15.00,3.50,Germany,,Urban,12.81,2.99
+EUR - Euro,14.50,3.50,Germany,Cologne,Urban,12.38,2.99
+EUR - Euro,13.00,3.50,Germany,Münster,Urban,11.10,2.99
+EUR - Euro,17.00,3.50,Germany,Düsseldorf,Urban,14.52,2.99
+EUR - Euro,13.00,3.50,Germany,,Urban,11.10,2.99
+EUR - Euro,13.00,3.50,Germany,Heidelberg,Urban,11.10,2.99
+EUR - Euro,14.50,3.50,Ireland,Galway,Urban,12.38,2.99
+EUR - Euro,7.70,3.50,Latvia,Riga,Suburban,6.58,2.99
+EUR - Euro,15.00,3.50,Netherlands,Amsterdam,Urban,12.81,2.99
+EUR - Euro,21.00,3.50,Netherlands,Wageningen,Suburban,17.94,2.99
+EUR - Euro,15.00,3.50,Netherlands,Arnhem,Urban,12.81,2.99
+EUR - Euro,14.70,3.50,Netherlands,Boskoop,Rural,12.55,2.99
+EUR - Euro,7.50,3.50,Portugal,Cascais,Suburban,6.41,2.99
+EUR - Euro,5.49,3.50,Portugal,Porto,Urban,4.69,2.99
+EUR - Euro,9.26,3.50,Spain,Málaga,Urban,7.91,2.99
+EUR - Euro,10.00,3.50,Spain,Barcelona,Urban,8.54,2.99
+EUR - Euro,15.00,3.50,Germany,,Rural,12.81,2.99
+EUR - Euro,17.00,3.50,Germany,Coburg,Urban,14.52,2.99
+USD - US dollar,13.00,4.05,USA,Greenville,Suburban,9.64,3.00
+MYR - Malaysian Ringgit,8.00,16.00,Malaysia,Petaling Jaya,Suburban,1.45,2.90
+MYR - Malaysian Ringgit,31.25,16.00,Malaysia,Kuala Lumpur,Urban,5.67,2.90
+AUD - Australian Dollar,33.50,5.80,Australia,Brisbane,Suburban,17.53,3.04
+MXN - Mexican Peso,39.38,72.00,Mexico,Ciudad de México,Urban,1.71,3.13
+CZK - Czech Koruna,200.00,85.00,Czechia,Prague,Urban,7.05,3.00
+CZK - Czech Koruna,160.00,85.00,Czechia,Prague,Urban,5.64,3.00
+CZK - Czech Koruna,155.00,85.00,Czechia,Brno,Urban,5.46,3.00
+CZK - Czech Koruna,180.00,85.00,Czechia,Prague,Urban,6.34,3.00
+CZK - Czech Koruna,218.00,85.00,Czechia,Brno,Suburban,7.68,3.00
+CZK - Czech Koruna,160.00,85.00,Czechia,Prague,Urban,5.64,3.00
+CZK - Czech Koruna,160.00,85.00,Czechia,Brno,Urban,5.64,3.00
+CZK - Czech Koruna,150.00,85.00,Czechia,Prague,Urban,5.29,3.00
+CZK - Czech Koruna,150.00,85.00,Czechia,Prague,Urban,5.29,3.00
+CZK - Czech Koruna,170.00,85.00,Czechia,Prague,Urban,5.99,3.00
+CZK - Czech Koruna,200.00,85.00,Czechia,Prague,Urban,7.05,3.00
+CZK - Czech Koruna,225.00,85.00,Czechia,Prague,Urban,7.93,3.00
+CZK - Czech Koruna,200.00,85.00,Czechia,Česke Budějovice,Urban,7.05,3.00
+CZK - Czech Koruna,200.00,85.00,Czechia,Brno,Urban,7.05,3.00
+CZK - Czech Koruna,150.00,85.00,Czechia,Olomouc,Urban,5.29,3.00
+GBP - Pound Sterling,12.18,3.00,UK,Southampton,"Suburban, Rural",12.18,3.00
+GBP - Pound Sterling,13.00,3.00,UK,Winchester,Urban,13.00,3.00
+GBP - Pound Sterling,12.50,3.00,UK,,Rural,12.50,3.00
+GBP - Pound Sterling,12.61,3.00,UK,Newark,Urban,12.61,3.00
+GBP - Pound Sterling,12.50,3.00,UK,Torbay,Urban,12.50,3.00
+GBP - Pound Sterling,14.00,3.00,UK,Canterbury,Suburban,14.00,3.00
+GBP - Pound Sterling,10.00,3.00,UK,,Rural,10.00,3.00
+GBP - Pound Sterling,11.00,3.00,UK,York,Urban,11.00,3.00
+GBP - Pound Sterling,12.21,3.00,UK,Sheffield,Urban,12.21,3.00
+GBP - Pound Sterling,7.55,3.00,UK,Gowerton,Suburban,7.55,3.00
+CAD - Canadian Dollar,18.75,5.51,Canada,Vancouver,Suburban,9.97,2.93
+ARS - Argentine Peso,"5,769.00","5,600.00",Argentina,Buenos Aires,Suburban,2.87,2.78
+CAD - Canadian Dollar,25.25,5.50,Canada,Peterborough,Urban,13.42,2.92
+CAD - Canadian Dollar,22.00,5.50,Canada,North Vancouver,Suburban,11.69,2.92
+CAD - Canadian Dollar,15.00,5.50,Canada,Edmonton,Suburban,7.97,2.92
+CAD - Canadian Dollar,14.00,5.50,Canada,Montréal,Urban,7.44,2.92
+CAD - Canadian Dollar,22.00,5.50,Canada,Saskatoon,Urban,11.69,2.92
+CAD - Canadian Dollar,18.00,5.50,Canada,Rocky Mountain House,Rural,9.57,2.92
+CAD - Canadian Dollar,19.00,5.50,Canada,Vancouver,Urban,10.10,2.92
+CAD - Canadian Dollar,19.00,5.50,Canada,Port Moody,Suburban,10.10,2.92
+CAD - Canadian Dollar,23.50,5.50,Canada,Ottawa,Suburban,12.49,2.92
+CAD - Canadian Dollar,23.00,5.50,Canada,Ottawa,Suburban,12.23,2.92
+CAD - Canadian Dollar,20.00,5.50,Canada,Toronto,Urban,10.63,2.92
+CAD - Canadian Dollar,17.50,5.50,Canada,Vancouver,Urban,9.30,2.92
+CAD - Canadian Dollar,18.00,5.50,Canada,Toronto,Urban,9.57,2.92
+CAD - Canadian Dollar,18.00,5.50,Canada,Toronto,Urban,9.57,2.92
+CAD - Canadian Dollar,19.00,5.50,Canada,Victoria,Urban,10.10,2.92
+CAD - Canadian Dollar,19.50,5.50,Canada,Vancouver,Urban,10.37,2.92
+USD - US dollar,15.00,4.00,USA,Cleveland,Urban,11.12,2.97
+USD - US dollar,15.00,4.00,USA,,Suburban,11.12,2.97
+USD - US dollar,11.00,4.00,USA,,"Urban, Suburban, Rural",8.15,2.97
+USD - US dollar,16.00,4.00,USA,Frostburg,Rural,11.86,2.97
+USD - US dollar,16.00,4.00,USA,"Milwaukee, WI",Urban,11.86,2.97
+USD - US dollar,16.50,4.00,USA,,Suburban,12.23,2.97
+USD - US dollar,13.00,4.00,USA,"Chambersburg, Pennsylvania",Suburban,9.64,2.97
+USD - US dollar,15.00,4.00,USA,Dallas,Suburban,11.12,2.97
+USD - US dollar,15.00,4.00,USA,"Little Rock, Arkansas",Suburban,11.12,2.97
+USD - US dollar,24.00,4.00,USA,Orland Park,Suburban,17.79,2.97
+USD - US dollar,20.00,4.00,USA,,Urban,14.83,2.97
+USD - US dollar,11.00,4.00,USA,Waco,Suburban,8.15,2.97
+USD - US dollar,18.80,4.00,USA,"Lafayette, IN",Suburban,13.94,2.97
+USD - US dollar,16.00,4.00,USA,Westminster,Urban,11.86,2.97
+USD - US dollar,20.50,4.00,USA,Cartersville,Suburban,15.20,2.97
+USD - US dollar,22.00,4.00,USA,Seattle,Urban,16.31,2.97
+USD - US dollar,11.00,4.00,USA,Greensboro,"Urban, Suburban",8.15,2.97
+USD - US dollar,21.00,4.00,USA,San Francisco,Urban,15.57,2.97
+USD - US dollar,18.00,4.00,USA,Chagrin Falls,Rural,13.34,2.97
+USD - US dollar,14.40,4.00,USA,,Suburban,10.67,2.97
+USD - US dollar,18.00,4.00,USA,"Northfield, Illinois",Suburban,13.34,2.97
+USD - US dollar,12.00,4.00,USA,"Boise, Idaho",Urban,8.90,2.97
+USD - US dollar,13.00,4.00,USA,"Moscow, Idaho",Suburban,9.64,2.97
+USD - US dollar,11.00,4.00,USA,milwaukee,Suburban,8.15,2.97
+USD - US dollar,12.00,4.00,USA,Scranton,Urban,8.90,2.97
+USD - US dollar,9.25,4.00,USA,"Richmond, IN",Rural,6.86,2.97
+USD - US dollar,9.00,4.00,USA,,Urban,6.67,2.97
+USD - US dollar,12.00,4.00,USA,Little Rock,"Urban, Suburban",8.90,2.97
+USD - US dollar,24.00,4.00,USA,"Portland, ME",Suburban,17.79,2.97
+USD - US dollar,16.00,4.00,USA,,Suburban,11.86,2.97
+USD - US dollar,19.29,4.00,USA,Denver,Urban,14.30,2.97
+USD - US dollar,2.50,4.00,El Salvador,San Salvador,Urban,1.85,2.97
+USD - US dollar,15.00,4.00,USA,Dallas,Suburban,11.12,2.97
+USD - US dollar,13.00,4.00,USA,Indianapolis,Urban,9.64,2.97
+USD - US dollar,18.00,4.00,USA,San Francisco,Urban,13.34,2.97
+USD - US dollar,15.00,4.00,USA,"Houston, TX",Urban,11.12,2.97
+USD - US dollar,12.00,4.00,USA,"Glen Ellyn, IL",Suburban,8.90,2.97
+CAD - Canadian Dollar,18.00,5.48,Canada,Welland,Urban,9.57,2.91
+USD - US dollar,19.35,3.98,USA,Flagstaff,Urban,14.34,2.95
+CAD - Canadian Dollar,16.25,5.46,Canada,Calgary,Urban,8.64,2.90
+CZK - Czech Koruna,163.00,84.00,Czechia,Brno,Urban,5.75,2.96
+RUB - Russian Ruble,440.00,320.00,Russia,Moscow,Urban,3.93,2.86
+RUB - Russian Ruble,380.00,320.00,Russia,Moscow,Urban,3.40,2.86
+CAD - Canadian Dollar,18.86,5.45,Canada,Halifax,Urban,10.03,2.90
+CAD - Canadian Dollar,18.00,5.45,Canada,Montréal,Urban,9.57,2.90
+CAD - Canadian Dollar,19.50,5.45,Canada,Vancouver,Urban,10.37,2.90
+AUD - Australian Dollar,45.00,5.70,Australia,Alice Springs,Urban,23.55,2.98
+USD - US dollar,14.00,3.95,USA,"Madison, WI",Suburban,10.38,2.93
+USD - US dollar,10.00,3.95,USA,Warner Robins,Urban,7.41,2.93
+USD - US dollar,15.00,3.95,USA,San Antonio,Suburban,11.12,2.93
+GBP - Pound Sterling,12.25,2.95,UK,Cardiff,Urban,12.25,2.95
+ARS - Argentine Peso,"6,250.00","5,500.00",Argentina,Buenos Aires,Urban,3.10,2.73
+ARS - Argentine Peso,"5,000.00","5,500.00",Argentina,Mar del Plata,Urban,2.48,2.73
+EUR - Euro,9.00,3.40,Portugal,,Rural,7.69,2.90
+EUR - Euro,7.00,3.40,Cyprus,Nicosia,Urban,5.98,2.90
+EUR - Euro,17.30,3.40,Germany,Munich,Suburban,14.78,2.90
+EUR - Euro,10.70,3.40,Spain,Madrid,Urban,9.14,2.90
+EUR - Euro,15.00,3.40,Ireland,Cork,Urban,12.81,2.90
+EUR - Euro,8.90,3.40,Spain,Valencia,Urban,7.60,2.90
+EUR - Euro,15.00,3.40,Germany,Dussseldorf,Suburban,12.81,2.90
+CLP - Chilean Peso,"3,180.00","3,600.00",Chile,Santiago,Urban,2.58,2.92
+CAD - Canadian Dollar,18.25,5.40,Canada,Vancouver,Urban,9.70,2.87
+CZK - Czech Koruna,145.00,83.00,Czechia,Ostrava,Urban,5.11,2.93
+MXN - Mexican Peso,35.50,70.00,Mexico,Monterrey,Urban,1.54,3.04
+MXN - Mexican Peso,50.00,70.00,Mexico,Mérida,Suburban,2.17,3.04
+MXN - Mexican Peso,33.50,70.00,Mexico,CDMX,Suburban,1.46,3.04
+CAD - Canadian Dollar,20.50,5.37,Canada,Toronto,Urban,10.90,2.85
+SGD - Singapore Dollar,12.00,5.00,Singapore,Singapore,Urban,6.95,2.89
+SGD - Singapore Dollar,12.00,5.00,Singapore,Singapore,Urban,6.95,2.89
+AUD - Australian Dollar,30.02,5.60,Australia,,Rural,15.71,2.93
+AUD - Australian Dollar,29.80,5.60,Australia,Melbourne,Suburban,15.60,2.93
+CAD - Canadian Dollar,17.85,5.35,Canada,Kelowna,Urban,9.49,2.84
+GBP - Pound Sterling,12.21,2.90,UK,Dundee,Urban,12.21,2.90
+GBP - Pound Sterling,17.10,2.90,UK,London,Urban,17.10,2.90
+RON - Romanian Leu,24.00,17.00,Romania,Bucharest,Urban,3.91,2.77
+RON - Romanian Leu,26.50,17.00,Romania,Bucharest,Urban,4.32,2.77
+HUF - Forint,"2,300.00","1,300.00",Hungary,Budapest,Urban,5.39,3.05
+HUF - Forint,"2,350.00","1,300.00",Hungary,Budapest,Urban,5.51,3.05
+USD - US dollar,10.85,3.85,USA,Billings,Urban,8.04,2.85
+ILS - New Israeli Sheqel,71.00,12.00,Israel,Karmiel (north),"Urban, Suburban",17.64,2.98
+ILS - New Israeli Sheqel,35.00,12.00,Israel,Jerusalem,Urban,8.70,2.98
+TRY - Turkish Lira,144.00,170.00,Turkey,Çanakkale,Urban,2.23,2.64
+CLP - Chilean Peso,"12,250.00","3,509.00",Chile,Santiago,Urban,9.93,2.84
+IQD - Iraqi Dinar,"3,400.00","5,000.00",Iraq,Baghdad,Urban,1.92,2.83
+AUD - Australian Dollar,33.00,5.50,Australia,Melbourne,Urban,17.27,2.88
+AUD - Australian Dollar,25.00,5.50,Australia,Melbourne,Suburban,13.09,2.88
+AUD - Australian Dollar,26.00,5.50,Australia,Townsville,Urban,13.61,2.88
+AUD - Australian Dollar,31.00,5.50,Australia,Brisbane,Suburban,16.23,2.88
+AUD - Australian Dollar,32.00,5.50,Australia,Melbourne,Urban,16.75,2.88
+AUD - Australian Dollar,26.00,5.50,Australia,Brisbane,Suburban,13.61,2.88
+AUD - Australian Dollar,32.00,5.50,Australia,Melbourne,Urban,16.75,2.88
+AUD - Australian Dollar,31.00,5.50,Australia,Melbourne,Urban,16.23,2.88
+AUD - Australian Dollar,33.00,5.50,Australia,Sydney,Suburban,17.27,2.88
+AUD - Australian Dollar,29.88,5.50,Australia,Melbourne,Suburban,15.64,2.88
+AUD - Australian Dollar,36.00,5.50,Australia,Melbourne,Urban,18.84,2.88
+AUD - Australian Dollar,33.00,5.50,Australia,Brisbane,Urban,17.27,2.88
+AUD - Australian Dollar,30.19,5.50,Australia,Sydney,Urban,15.80,2.88
+AUD - Australian Dollar,33.00,5.50,Australia,Melbourne,Urban,17.27,2.88
+AUD - Australian Dollar,33.00,5.50,Australia,Melbourne,Urban,17.27,2.88
+AUD - Australian Dollar,35.00,5.50,Australia,Cronulla,Suburban,18.32,2.88
+AUD - Australian Dollar,32.00,5.50,Australia,Melbourne,Urban,16.75,2.88
+AUD - Australian Dollar,30.35,5.50,Australia,Newcastle,Suburban,15.89,2.88
+AUD - Australian Dollar,30.00,5.50,Australia,Sydney,Urban,15.70,2.88
+AUD - Australian Dollar,31.00,5.50,Australia,Rockhampton,Urban,16.23,2.88
+AUD - Australian Dollar,33.38,5.50,Australia,Perth,Urban,17.47,2.88
+AUD - Australian Dollar,40.00,5.50,Australia,Sydney,Suburban,20.94,2.88
+AUD - Australian Dollar,35.00,5.50,Australia,Sydney,Urban,18.32,2.88
+AUD - Australian Dollar,31.70,5.50,Australia,Melbourne,Urban,16.59,2.88
+AUD - Australian Dollar,25.00,5.50,Australia,Sydney,Suburban,13.09,2.88
+AUD - Australian Dollar,35.00,5.50,Australia,Melbourne,Urban,18.32,2.88
+AUD - Australian Dollar,33.38,5.50,Australia,Brisbane,Urban,17.47,2.88
+AUD - Australian Dollar,23.50,5.50,Australia,Hobart,Suburban,12.30,2.88
+AUD - Australian Dollar,30.00,5.50,Australia,Torquay,Suburban,15.70,2.88
+AUD - Australian Dollar,35.00,5.50,Australia,Sydney,Urban,18.32,2.88
+AUD - Australian Dollar,32.31,5.50,Australia,Perth,Suburban,16.91,2.88
+AUD - Australian Dollar,33.90,5.50,Australia,Townsville,Suburban,17.74,2.88
+AUD - Australian Dollar,32.00,5.50,Australia,Melbourne,Urban,16.75,2.88
+AUD - Australian Dollar,31.00,5.50,Australia,Wollongong,Suburban,16.23,2.88
+AUD - Australian Dollar,33.38,5.50,Australia,Melbourne,Suburban,17.47,2.88
+AUD - Australian Dollar,32.24,5.50,Australia,Melbourne,Suburban,16.87,2.88
+AUD - Australian Dollar,22.70,5.50,Australia,Sydney,Suburban,11.88,2.88
+AUD - Australian Dollar,28.00,5.50,Australia,Melbourne,Urban,14.66,2.88
+AUD - Australian Dollar,35.00,5.50,Australia,Melbourne,Urban,18.32,2.88
+CLP - Chilean Peso,"4,000.00","3,500.00",Chile,Santiago,Urban,3.24,2.84
+EUR - Euro,18.00,3.30,Germany,Berlin,Urban,15.37,2.82
+EUR - Euro,18.00,3.30,Germany,,Urban,15.37,2.82
+EUR - Euro,7.00,3.30,Slovakia,Bratislava,Urban,5.98,2.82
+EUR - Euro,13.90,3.30,Germany,Berlin,Urban,11.87,2.82
+EUR - Euro,11.00,3.30,Austria,Vienna,Urban,9.39,2.82
+CAD - Canadian Dollar,21.00,5.25,Canada,Nelson BC,Urban,11.16,2.79
+CAD - Canadian Dollar,19.43,5.25,Canada,Vaughan,Suburban,10.33,2.79
+CAD - Canadian Dollar,17.00,5.25,Canada,Calgary,Suburban,9.04,2.79
+CAD - Canadian Dollar,23.00,5.25,Canada,Vancouver,Urban,12.23,2.79
+GBP - Pound Sterling,15.60,2.85,UK,,Suburban,15.60,2.85
+MXN - Mexican Peso,55.00,68.00,Mexico,Tijuana,Urban,2.39,2.95
+USD - US dollar,15.00,3.80,USA,"Columbus, OH",Urban,11.12,2.82
+USD - US dollar,17.25,3.80,USA,"Columbus, OH",Urban,12.79,2.82
+USD - US dollar,11.10,3.80,USA,"Columbus, OH",Urban,8.23,2.82
+ARS - Argentine Peso,"4,500.00","5,300.00",Argentina,Ciudad Autónoma de Buenos Aires,Urban,2.23,2.63
+MYR - Malaysian Ringgit,10.00,15.00,Malaysia,Kuala Lumpur,Urban,1.81,2.72
+PLN - Zloty,31.40,14.00,Poland,Toruń,Urban,6.23,2.78
+PLN - Zloty,31.00,14.00,Poland,Warsaw,Urban,6.15,2.78
+PLN - Zloty,33.00,14.00,Poland,Gdańsk,Urban,6.54,2.78
+PLN - Zloty,31.00,14.00,Poland,Warsaw,Urban,6.15,2.78
+PLN - Zloty,25.00,14.00,Poland,Warsaw,Urban,4.96,2.78
+PLN - Zloty,70.00,14.00,Poland,Elbląg,Urban,13.88,2.78
+PLN - Zloty,34.00,14.00,Poland,Gdańsk,Urban,6.74,2.78
+PLN - Zloty,33.00,14.00,Poland,Poznań,Urban,6.54,2.78
+PLN - Zloty,31.40,14.00,Poland,Łódź,Urban,6.23,2.78
+PLN - Zloty,31.00,14.00,Poland,Gliwice,Urban,6.15,2.78
+PLN - Zloty,31.00,14.00,Poland,Łódź,Urban,6.15,2.78
+PLN - Zloty,30.00,14.00,Poland,Warsaw,Urban,5.95,2.78
+PLN - Zloty,26.50,14.00,Poland,Kraków,Urban,5.26,2.78
+PLN - Zloty,25.00,14.00,Poland,Częstochowa,Urban,4.96,2.78
+PLN - Zloty,32.00,14.00,Poland,Wrocław,Urban,6.35,2.78
+PLN - Zloty,29.00,14.00,Poland,Warsaw,Urban,5.75,2.78
+PLN - Zloty,28.00,14.00,Poland,Warsaw,Urban,5.55,2.78
+CAD - Canadian Dollar,18.00,5.20,Canada,Ottawa,Urban,9.57,2.76
+CAD - Canadian Dollar,16.00,5.20,Canada,Vancouver,Urban,8.51,2.76
+CAD - Canadian Dollar,19.40,5.20,Canada,Vancouver,Urban,10.31,2.76
+CZK - Czech Koruna,180.00,80.00,Czechia,Olomouc,Urban,6.34,2.82
+CZK - Czech Koruna,270.00,80.00,Czechia,Prague,Suburban,9.52,2.82
+CZK - Czech Koruna,150.00,80.00,Czechia,Prague,Suburban,5.29,2.82
+CZK - Czech Koruna,170.00,80.00,Czechia,Kutná Hora,Urban,5.99,2.82
+CZK - Czech Koruna,140.00,80.00,Czechia,Prague,Urban,4.93,2.82
+CZK - Czech Koruna,160.00,80.00,Czechia,Ostrava,Urban,5.64,2.82
+CZK - Czech Koruna,222.00,80.00,Czechia,Prague,Urban,7.83,2.82
+CZK - Czech Koruna,160.00,80.00,Czechia,Prague,Urban,5.64,2.82
+CZK - Czech Koruna,150.00,80.00,Czechia,Prague,Urban,5.29,2.82
+CZK - Czech Koruna,200.00,80.00,Czechia,Česke Budějovice,Suburban,7.05,2.82
+CZK - Czech Koruna,155.00,80.00,Czechia,Znojmo,Urban,5.46,2.82
+CZK - Czech Koruna,160.00,80.00,Czechia,Prague,Urban,5.64,2.82
+CZK - Czech Koruna,150.00,80.00,Czechia,Brno,Suburban,5.29,2.82
+CZK - Czech Koruna,134.00,80.00,Czechia,Brno,Urban,4.72,2.82
+CZK - Czech Koruna,250.00,80.00,Czechia,Prague,Urban,8.81,2.82
+CZK - Czech Koruna,250.00,80.00,Czechia,Prague,Urban,8.81,2.82
+CZK - Czech Koruna,190.00,80.00,Czechia,Prague,Urban,6.70,2.82
+CZK - Czech Koruna,140.00,80.00,Czechia,Brno,Urban,4.93,2.82
+NZD - New Zealand Dollar,26.00,6.50,New Zealand,Auckland,Urban,11.29,2.82
+NZD - New Zealand Dollar,28.00,6.50,New Zealand,Christchurch,Urban,12.16,2.82
+NZD - New Zealand Dollar,26.50,6.50,New Zealand,,Suburban,11.50,2.82
+NZD - New Zealand Dollar,30.00,6.50,New Zealand,Hawkes Bay,Urban,13.02,2.82
+NZD - New Zealand Dollar,33.80,6.50,New Zealand,Auckland,Suburban,14.67,2.82
+NZD - New Zealand Dollar,26.00,6.50,New Zealand,Auckland,Suburban,11.29,2.82
+JPY - Yen,"1,270.00",600.00,Japan,Kyoto,Urban,5.90,2.79
+CAD - Canadian Dollar,16.50,5.18,Canada,Sherbrooke,Urban,8.77,2.75
+EUR - Euro,16.50,3.25,Netherlands,Amsterdam,Urban,14.09,2.78
+EUR - Euro,14.71,3.25,Netherlands,Heerlen,Urban,12.56,2.78
+AUD - Australian Dollar,31.00,5.40,Australia,Adelaide,Urban,16.23,2.83
+AUD - Australian Dollar,28.55,5.40,Australia,Albury,Rural,14.94,2.83
+USD - US dollar,17.75,3.75,USA,Cullman,"Urban, Rural",13.16,2.78
+USD - US dollar,18.13,3.75,USA,"Arlington, WA",Rural,13.44,2.78
+USD - US dollar,20.00,3.75,USA,Kansas City,Suburban,14.83,2.78
+USD - US dollar,12.00,3.75,USA,"Charlotte, NC",Urban,8.90,2.78
+USD - US dollar,10.00,3.75,USA,"Butler, Pennsylvania",Urban,7.41,2.78
+GBP - Pound Sterling,13.95,2.80,UK,London,Urban,13.95,2.80
+ARS - Argentine Peso,"5,000.00","5,200.00",Argentina,Buenos Aires,Urban,2.48,2.58
+HUF - Forint,"2,270.00","1,250.00",Hungary,,Urban,5.32,2.93
+EUR - Euro,20.00,3.20,Germany,Hagen,Urban,17.08,2.73
+EUR - Euro,16.00,3.20,Germany,Hannover,Urban,13.66,2.73
+EUR - Euro,16.40,3.20,Netherlands,Den Burg,Rural,14.01,2.73
+EUR - Euro,8.00,3.20,Slovakia,Bratislava,Urban,6.83,2.73
+EUR - Euro,6.70,3.20,Latvia,Riga,Urban,5.72,2.73
+EUR - Euro,5.00,3.20,Portugal,Porto,Urban,4.27,2.73
+EUR - Euro,5.20,3.20,Bulgaria,Sofia,Urban,4.44,2.73
+EUR - Euro,5.60,3.20,Bulgaria,Sofia,Suburban,4.78,2.73
+EUR - Euro,11.50,3.20,Germany,Munich,Urban,9.82,2.73
+EUR - Euro,15.00,3.20,Germany,Munich,Urban,12.81,2.73
+EUR - Euro,18.00,3.20,Germany,Schwäbisch Hall,Urban,15.37,2.73
+EUR - Euro,6.00,3.20,Bulgaria,Sofia,Urban,5.12,2.73
+EUR - Euro,5.00,3.20,Greece,Patras,Urban,4.27,2.73
+USD - US dollar,3.75,3.70,Lebanon,Jal El Dib,Urban,2.78,2.74
+CAD - Canadian Dollar,18.25,5.08,Canada,Ottawa,Urban,9.70,2.70
+AUD - Australian Dollar,30.35,5.30,Australia,Sydney,Urban,15.89,2.77
+AUD - Australian Dollar,30.00,5.30,Australia,Melbourne,Urban,15.70,2.77
+AUD - Australian Dollar,31.19,5.30,Australia,Melbourne,Urban,16.32,2.77
+AUD - Australian Dollar,25.00,5.30,Australia,Adelaide,Suburban,13.09,2.77
+GBP - Pound Sterling,8.56,2.75,UK,Kelso,Rural,8.56,2.75
+GBP - Pound Sterling,12.60,2.75,UK,Bristol,Suburban,12.60,2.75
+KRW - Won,"12,000.00","5,500.00",South Korea,Songdo-dong,Urban,6.27,2.87
+EUR - Euro,3.80,3.17,Bulgaria,Rouse,Urban,3.25,2.71
+USD - US dollar,22.00,3.65,USA,rutland,Urban,16.31,2.71
+USD - US dollar,15.45,3.65,USA,"Richmond, VA","Urban, Suburban",11.45,2.71
+AUD - Australian Dollar,23.00,5.25,Australia,,Suburban,12.04,2.75
+CAD - Canadian Dollar,19.00,5.00,Canada,Hamilton,Urban,10.10,2.66
+CAD - Canadian Dollar,45.00,5.00,Canada,Shawinigan,Urban,23.92,2.66
+CAD - Canadian Dollar,15.00,5.00,Canada,Kingston,Suburban,7.97,2.66
+CAD - Canadian Dollar,20.00,5.00,Canada,"Fonthill, Ontario",Suburban,10.63,2.66
+CAD - Canadian Dollar,18.00,5.00,Canada,Vancouver,Suburban,9.57,2.66
+CAD - Canadian Dollar,21.00,5.00,Canada,Fredericton,Urban,11.16,2.66
+CAD - Canadian Dollar,21.00,5.00,Canada,Cambridge,Suburban,11.16,2.66
+CAD - Canadian Dollar,18.00,5.00,Canada,Tantramar,Rural,9.57,2.66
+CAD - Canadian Dollar,20.00,5.00,Canada,Toronto,Urban,10.63,2.66
+CAD - Canadian Dollar,20.00,5.00,Canada,London,Urban,10.63,2.66
+CAD - Canadian Dollar,26.00,5.00,Canada,Vancouver,Urban,13.82,2.66
+CAD - Canadian Dollar,19.50,5.00,Canada,Vancouver,Urban,10.37,2.66
+CAD - Canadian Dollar,15.00,5.00,Canada,Montréal,Urban,7.97,2.66
+CAD - Canadian Dollar,16.00,5.00,Canada,Winnipeg,Urban,8.51,2.66
+CAD - Canadian Dollar,18.00,5.00,Canada,Montréal,Urban,9.57,2.66
+CAD - Canadian Dollar,17.50,5.00,Canada,Montréal,Urban,9.30,2.66
+CAD - Canadian Dollar,21.00,5.00,Canada,Kenora,Rural,11.16,2.66
+CAD - Canadian Dollar,17.40,5.00,Canada,Vancouver,Urban,9.25,2.66
+CAD - Canadian Dollar,22.05,5.00,Canada,Waterloo ontario,Urban,11.72,2.66
+MXN - Mexican Peso,45.00,65.00,Mexico,México city,Urban,1.95,2.82
+MXN - Mexican Peso,61.54,65.00,Mexico,CDMX,Urban,2.67,2.82
+MXN - Mexican Peso,40.00,65.00,Mexico,Puebla,Urban,1.74,2.82
+MXN - Mexican Peso,40.00,65.00,Mexico,Mexicali,"Urban, Suburban",1.74,2.82
+MXN - Mexican Peso,55.00,65.00,Mexico,Axtla de Terrazas,Rural,2.39,2.82
+RON - Romanian Leu,25.00,16.00,Romania,Bucharest,Urban,4.08,2.61
+RON - Romanian Leu,45.00,16.00,Romania,Bucharest,Urban,7.34,2.61
+RON - Romanian Leu,11.00,16.00,Romania,Cluj-Napoca,Urban,1.79,2.61
+RON - Romanian Leu,30.00,16.00,Romania,Bucharest,Urban,4.89,2.61
+RON - Romanian Leu,13.00,16.00,Romania,Bucharest,Urban,2.12,2.61
+RON - Romanian Leu,20.00,16.00,Romania,Brasov,Urban,3.26,2.61
+CAD - Canadian Dollar,18.10,4.98,Canada,Toronto,Suburban,9.62,2.65
+AUD - Australian Dollar,32.00,5.20,Australia,Moonah,Suburban,16.75,2.72
+AUD - Australian Dollar,35.00,5.20,Australia,Brisbane,Suburban,18.32,2.72
+AUD - Australian Dollar,28.80,5.20,Australia,Geelong,Suburban,15.07,2.72
+AUD - Australian Dollar,33.20,5.20,Australia,Lismore,Suburban,17.38,2.72
+AUD - Australian Dollar,35.00,5.20,Australia,Sunshine Coast,Suburban,18.32,2.72
+AUD - Australian Dollar,32.31,5.20,Australia,Perth,Urban,16.91,2.72
+AUD - Australian Dollar,17.70,5.20,Australia,"Newcastle, NSW","Urban, Suburban",9.26,2.72
+GBP - Pound Sterling,12.90,2.70,UK,Birmingham,Urban,12.90,2.70
+GBP - Pound Sterling,13.00,2.70,UK,Cheltenham,Suburban,13.00,2.70
+TRY - Turkish Lira,300.00,160.00,Turkey,Ankara,Urban,4.65,2.48
+TRY - Turkish Lira,162.00,160.00,Turkey,Ordu,Urban,2.51,2.48
+TRY - Turkish Lira,200.00,160.00,Turkey,Istanbul,Urban,3.10,2.48
+NZD - New Zealand Dollar,25.40,6.20,New Zealand,Wellington,Urban,11.03,2.69
+CLP - Chilean Peso,"2,500.00","3,300.00",Chile,Santiago,Urban,2.03,2.67
+CAD - Canadian Dollar,17.85,4.95,Canada,Vancouver,Urban,9.49,2.63
+CAD - Canadian Dollar,17.00,4.95,Canada,Bradford,"Suburban, Rural",9.04,2.63
+CAD - Canadian Dollar,22.00,4.95,Canada,Toronto,Urban,11.69,2.63
+CAD - Canadian Dollar,17.75,4.95,Canada,Toronto,Urban,9.44,2.63
+CAD - Canadian Dollar,17.60,4.95,Canada,Toronto,Urban,9.36,2.63
+RUB - Russian Ruble,360.00,290.00,Russia,Moscow,Urban,3.22,2.59
+CLP - Chilean Peso,"3,330.00","3,290.00",Chile,San Pedro de la Paz,Urban,2.70,2.67
+EUR - Euro,4.05,3.10,Bulgaria,Plovdiv,Urban,3.46,2.65
+EUR - Euro,14.50,3.10,Germany,Weimar,Urban,12.38,2.65
+ARS - Argentine Peso,"4,464.00","5,000.00",Argentina,Bariloche,Urban,2.22,2.48
+ARS - Argentine Peso,"3,500.00","5,000.00",Argentina,La Plata,Urban,1.74,2.48
+ARS - Argentine Peso,"5,284.00","5,000.00",Argentina,Ciudad Autónoma de Buenos Aires,Urban,2.62,2.48
+ARS - Argentine Peso,"1,600.00","5,000.00",Argentina,Córdoba,Urban,0.79,2.48
+HUF - Forint,"2,500.00","1,200.00",Hungary,Budapest,Urban,5.86,2.81
+HUF - Forint,"1,790.00","1,200.00",Hungary,Pécs,Urban,4.20,2.81
+HUF - Forint,"2,200.00","1,200.00",Hungary,Budapest,Urban,5.16,2.81
+CAD - Canadian Dollar,18.00,4.88,Canada,Vancouver,Urban,9.57,2.59
+CAD - Canadian Dollar,18.25,4.88,Canada,"Mont-Tremblant, Québec",Suburban,9.70,2.59
+CZK - Czech Koruna,165.00,75.00,Czechia,Brno,Urban,5.82,2.64
+CZK - Czech Koruna,150.00,75.00,Czechia,Vyškov,Suburban,5.29,2.64
+CZK - Czech Koruna,150.00,75.00,Czechia,Brno,Suburban,5.29,2.64
+CZK - Czech Koruna,140.00,75.00,Czechia,Olomouc,Urban,4.93,2.64
+CZK - Czech Koruna,150.00,75.00,Czechia,Brno,Urban,5.29,2.64
+CZK - Czech Koruna,140.00,75.00,Czechia,Olomouc,Urban,4.93,2.64
+CZK - Czech Koruna,150.00,75.00,Czechia,Brno,Urban,5.29,2.64
+CZK - Czech Koruna,110.00,75.00,Czechia,Prague,Urban,3.88,2.64
+CZK - Czech Koruna,200.00,75.00,Czechia,Prague,Urban,7.05,2.64
+CZK - Czech Koruna,135.00,75.00,Czechia,Brno,Suburban,4.76,2.64
+CZK - Czech Koruna,140.00,75.00,Czechia,Chrudim,Urban,4.93,2.64
+CZK - Czech Koruna,150.00,75.00,Czechia,Bořetice,Rural,5.29,2.64
+CZK - Czech Koruna,145.00,75.00,Czechia,Olomouc,Urban,5.11,2.64
+CZK - Czech Koruna,140.00,75.00,Czechia,Olomouc,Urban,4.93,2.64
+CZK - Czech Koruna,187.00,75.00,Czechia,Prague,Suburban,6.59,2.64
+CZK - Czech Koruna,145.00,75.00,Czechia,Olomouc,"Urban, Suburban",5.11,2.64
+CZK - Czech Koruna,160.00,75.00,Czechia,Brno,Urban,5.64,2.64
+GBP - Pound Sterling,13.00,2.65,UK,Cheltenham,Suburban,13.00,2.65
+MYR - Malaysian Ringgit,12.00,14.00,Malaysia,Kuala Lumpur,Urban,2.18,2.54
+MYR - Malaysian Ringgit,15.62,14.00,Malaysia,Kuala Lumpur,Urban,2.83,2.54
+MYR - Malaysian Ringgit,10.00,14.00,Malaysia,Kuala Lumpur,Urban,1.81,2.54
+MYR - Malaysian Ringgit,10.00,14.00,Malaysia,Petaling Jaya,Suburban,1.81,2.54
+CAD - Canadian Dollar,17.00,4.85,Canada,Calgary,Suburban,9.04,2.58
+CAD - Canadian Dollar,17.01,4.85,Canada,Halifax,Urban,9.04,2.58
+HUF - Forint,"1,800.00","1,188.00",Hungary,Pécs,Urban,4.22,2.78
+PLN - Zloty,21.00,13.00,Poland,Lublin,Urban,4.16,2.58
+PLN - Zloty,31.40,13.00,Poland,Katowice,Urban,6.23,2.58
+PLN - Zloty,35.00,13.00,Poland,Gdynia,Urban,6.94,2.58
+PLN - Zloty,20.00,13.00,Poland,Lubliniec,Urban,3.97,2.58
+SGD - Singapore Dollar,14.00,4.50,Singapore,Singapore,Urban,8.10,2.60
+SGD - Singapore Dollar,15.00,4.50,Singapore,Singapore,Urban,8.68,2.60
+KZT - Tenge,"2,000.00","1,690.00",Kazakstan,Almaty,Urban,3.18,2.69
+USD - US dollar,7.25,3.50,USA,Rome,Rural,5.37,2.59
+USD - US dollar,9.00,3.50,USA,Marion,Suburban,6.67,2.59
+USD - US dollar,8.45,3.50,USA,"Springfield, MO",Urban,6.26,2.59
+USD - US dollar,18.36,3.50,USA,Northbrook,Suburban,13.61,2.59
+USD - US dollar,16.00,3.50,USA,Ontario,Suburban,11.86,2.59
+USD - US dollar,25.00,3.50,USA,"Portland, OR",Urban,18.53,2.59
+USD - US dollar,2.80,3.50,Ecuador,Quito,Urban,2.08,2.59
+USD - US dollar,22.00,3.50,USA,Portland,Urban,16.31,2.59
+USD - US dollar,12.50,3.50,USA,Cincinnati,Urban,9.27,2.59
+CLP - Chilean Peso,"2,500.00","3,200.00",Chile,Pucón,Urban,2.03,2.59
+CAD - Canadian Dollar,17.85,4.80,Canada,Vancouver,Urban,9.49,2.55
+CAD - Canadian Dollar,17.25,4.80,Canada,Guelph,Suburban,9.17,2.55
+NZD - New Zealand Dollar,32.64,6.00,New Zealand,Auckland,Urban,14.17,2.60
+NZD - New Zealand Dollar,30.00,6.00,New Zealand,Auckland,Suburban,13.02,2.60
+NZD - New Zealand Dollar,26.00,6.00,New Zealand,Wellington,Urban,11.29,2.60
+NZD - New Zealand Dollar,23.50,6.00,New Zealand,Christchurch,Urban,10.20,2.60
+NZD - New Zealand Dollar,28.00,6.00,New Zealand,Christchurch,Urban,12.16,2.60
+NZD - New Zealand Dollar,23.50,6.00,New Zealand,Wellington,Suburban,10.20,2.60
+NZD - New Zealand Dollar,35.00,6.00,New Zealand,Dunedin,Urban,15.19,2.60
+NZD - New Zealand Dollar,27.00,6.00,New Zealand,Palmerston North,Urban,11.72,2.60
+NZD - New Zealand Dollar,27.00,6.00,New Zealand,Taupo,Urban,11.72,2.60
+NZD - New Zealand Dollar,26.00,6.00,New Zealand,Christchurch,Urban,11.29,2.60
+NZD - New Zealand Dollar,25.00,6.00,New Zealand,Auckland,Urban,10.85,2.60
+CAD - Canadian Dollar,21.84,4.78,Canada,Calgary,Urban,11.61,2.54
+AUD - Australian Dollar,33.21,5.00,Australia,Melbourne,Urban,17.38,2.62
+AUD - Australian Dollar,30.00,5.00,Australia,Sydney,Suburban,15.70,2.62
+AUD - Australian Dollar,25.00,5.00,Australia,Melbourne,Suburban,13.09,2.62
+AUD - Australian Dollar,31.00,5.00,Australia,Adelaide,Suburban,16.23,2.62
+AUD - Australian Dollar,25.85,5.00,Australia,Perth,Suburban,13.53,2.62
+AUD - Australian Dollar,31.19,5.00,Australia,,Rural,16.32,2.62
+AUD - Australian Dollar,25.00,5.00,Australia,Cootamundra,Rural,13.09,2.62
+AUD - Australian Dollar,30.00,5.00,Australia,Ballarat,Rural,15.70,2.62
+AUD - Australian Dollar,35.00,5.00,Australia,Brisbane,Urban,18.32,2.62
+AUD - Australian Dollar,31.20,5.00,Australia,Adelaide,Suburban,16.33,2.62
+AUD - Australian Dollar,29.00,5.00,Australia,Sydney,Urban,15.18,2.62
+AUD - Australian Dollar,31.00,5.00,Australia,Melbourne,Urban,16.23,2.62
+AUD - Australian Dollar,37.00,5.00,Australia,Melbourne,Suburban,19.37,2.62
+AUD - Australian Dollar,34.33,5.00,Australia,Perth,Suburban,17.97,2.62
+AUD - Australian Dollar,33.19,5.00,Australia,Cessnock,Suburban,17.37,2.62
+AUD - Australian Dollar,33.31,5.00,Australia,Melbourne,Urban,17.43,2.62
+AUD - Australian Dollar,24.00,5.00,Australia,Melbourne,Urban,12.56,2.62
+AUD - Australian Dollar,32.00,5.00,Australia,Brisbane,Urban,16.75,2.62
+AUD - Australian Dollar,31.00,5.00,Australia,Melbourne,Suburban,16.23,2.62
+AUD - Australian Dollar,33.00,5.00,Australia,,Rural,17.27,2.62
+AUD - Australian Dollar,31.75,5.00,Australia,Melbourne,Urban,16.62,2.62
+AUD - Australian Dollar,30.00,5.00,Australia,Brisbane,Suburban,15.70,2.62
+AUD - Australian Dollar,39.00,5.00,Australia,,"Suburban, Rural",20.41,2.62
+AUD - Australian Dollar,27.00,5.00,Australia,Launceston,Urban,14.13,2.62
+AUD - Australian Dollar,25.00,5.00,Australia,Darwin,Urban,13.09,2.62
+AUD - Australian Dollar,33.19,5.00,Australia,Brisbane,Suburban,17.37,2.62
+AUD - Australian Dollar,30.13,5.00,Australia,Melbourne,Suburban,15.77,2.62
+AUD - Australian Dollar,40.00,5.00,Australia,Townsville,Suburban,20.94,2.62
+AUD - Australian Dollar,35.00,5.00,Australia,Sydney,Urban,18.32,2.62
+AUD - Australian Dollar,35.00,5.00,Australia,Sydney,Urban,18.32,2.62
+AUD - Australian Dollar,31.00,5.00,Australia,Melbourne,Suburban,16.23,2.62
+AUD - Australian Dollar,26.00,5.00,Australia,Brisbane,Suburban,13.61,2.62
+AUD - Australian Dollar,34.15,5.00,Australia,Sunshine Coast,Suburban,17.87,2.62
+AUD - Australian Dollar,35.00,5.00,Australia,Sydney,Urban,18.32,2.62
+AUD - Australian Dollar,35.00,5.00,Australia,Castlemaine,Rural,18.32,2.62
+AUD - Australian Dollar,31.00,5.00,Australia,Gold Coast,Urban,16.23,2.62
+AUD - Australian Dollar,24.96,5.00,Australia,Adelaide,Suburban,13.06,2.62
+AUD - Australian Dollar,32.31,5.00,Australia,Brisbane,Urban,16.91,2.62
+AUD - Australian Dollar,30.60,5.00,Australia,Melbourne,Suburban,16.02,2.62
+AUD - Australian Dollar,22.80,5.00,Australia,,Suburban,11.93,2.62
+AUD - Australian Dollar,33.38,5.00,Australia,Adelaide,Suburban,17.47,2.62
+AUD - Australian Dollar,28.00,5.00,Australia,Dunsborough,Urban,14.66,2.62
+AUD - Australian Dollar,30.00,5.00,Australia,,Rural,15.70,2.62
+AUD - Australian Dollar,34.00,5.00,Australia,Adelaide,Suburban,17.80,2.62
+AUD - Australian Dollar,36.00,5.00,Australia,Sydney,Suburban,18.84,2.62
+AUD - Australian Dollar,30.00,5.00,Australia,Hastings,Urban,15.70,2.62
+AUD - Australian Dollar,32.00,5.00,Australia,Townsville,Suburban,16.75,2.62
+AUD - Australian Dollar,32.00,5.00,Australia,Brisbane,Urban,16.75,2.62
+AUD - Australian Dollar,31.00,5.00,Australia,Sunshine Coast,Suburban,16.23,2.62
+EUR - Euro,18.50,3.00,Germany,Berlin,Urban,15.80,2.56
+EUR - Euro,14.00,3.00,Germany,Landau in der Pfalz,Urban,11.96,2.56
+EUR - Euro,9.00,3.00,Netherlands,Amstelveen,Suburban,7.69,2.56
+EUR - Euro,12.00,3.00,Germany,Berlin,Urban,10.25,2.56
+EUR - Euro,14.00,3.00,Germany,Wernau,Urban,11.96,2.56
+EUR - Euro,6.63,3.00,Portugal,Porto,Urban,5.66,2.56
+EUR - Euro,9.38,3.00,Spain,Valencia,Urban,8.01,2.56
+EUR - Euro,11.00,3.00,Austria,Vienna,Urban,9.39,2.56
+EUR - Euro,6.00,3.00,Bulgaria,Burgas,Urban,5.12,2.56
+EUR - Euro,6.20,3.00,Croatia,Zagreb,Urban,5.30,2.56
+EUR - Euro,7.00,3.00,Cyprus,Nicosia,Urban,5.98,2.56
+EUR - Euro,5.00,3.00,Greece,Mytilene,Suburban,4.27,2.56
+EUR - Euro,5.00,3.00,Greece,Arta,Suburban,4.27,2.56
+EUR - Euro,6.00,3.00,Portugal,Matosinhos,Urban,5.12,2.56
+EUR - Euro,6.80,3.00,Portugal,Lisbon,Urban,5.81,2.56
+EUR - Euro,7.00,3.00,Portugal,Lisbon,Urban,5.98,2.56
+EUR - Euro,6.00,3.00,Spain,Girona,Suburban,5.12,2.56
+EUR - Euro,9.70,3.00,Spain,Barcelona,Urban,8.28,2.56
+EUR - Euro,13.90,3.00,Germany,Jena,Urban,11.87,2.56
+EUR - Euro,9.00,3.00,Slovenia,Ljubljana,Urban,7.69,2.56
+EUR - Euro,11.00,3.00,Croatia,Zagreb,Urban,9.39,2.56
+EUR - Euro,8.40,3.00,Spain,Valencia,Urban,7.17,2.56
+EUR - Euro,8.75,3.00,Spain,Madrid,Urban,7.47,2.56
+JPY - Yen,"1,050.00",550.00,Japan,"Kiryu, Gunma","Urban, Suburban",4.88,2.56
+AMD - Armenian Dram,"1,500.00","1,300.00",Armenia,Yerevan,Urban,3.05,2.64
+CAD - Canadian Dollar,21.00,4.75,Canada,Toronto,Urban,11.16,2.53
+CAD - Canadian Dollar,22.00,4.75,Canada,Montréal,Urban,11.69,2.53
+CAD - Canadian Dollar,16.50,4.75,Canada,Montréal,Urban,8.77,2.53
+USD - US dollar,20.25,3.45,USA,"Santa Rosa, CA",Suburban,15.01,2.56
+ARS - Argentine Peso,"5,000.00","4,800.00",Argentina,Buenos Aires,Urban,2.48,2.38
+CAD - Canadian Dollar,16.25,4.71,Canada,Sherbrooke,Urban,8.64,2.50
+BRL - Brazilian Real,14.00,18.00,Brazil,Marilia,Urban,2.00,2.57
+VND - Dong,"32,000.00","90,000.00",Vietnam,Ho Chi Minh city,Urban,0.91,2.56
+HUF - Forint,"2,600.00","1,150.00",Hungary,Budapest,Urban,6.09,2.70
+RON - Romanian Leu,17.00,15.00,Romania,Cluj-Napoca,Urban,2.77,2.45
+RON - Romanian Leu,18.00,15.00,Romania,Iaşi,Urban,2.94,2.45
+RON - Romanian Leu,19.00,15.00,Romania,Iaşi,Urban,3.10,2.45
+RON - Romanian Leu,17.00,15.00,Romania,Iaşi,Urban,2.77,2.45
+AUD - Australian Dollar,30.00,4.90,Australia,Brisbane,Suburban,15.70,2.56
+AUD - Australian Dollar,24.00,4.90,Australia,Sydney,Suburban,12.56,2.56
+AUD - Australian Dollar,19.40,4.90,Australia,Brisbane,Urban,10.15,2.56
+CZK - Czech Koruna,125.00,72.00,Czechia,Prostějov,Suburban,4.41,2.54
+TRY - Turkish Lira,150.00,150.00,Turkey,Istanbul,Urban,2.33,2.33
+CAD - Canadian Dollar,30.00,4.65,Canada,Montréal,Urban,15.95,2.47
+CAD - Canadian Dollar,17.83,4.65,Canada,Edmonton,Urban,9.48,2.47
+NZD - New Zealand Dollar,24.50,5.80,New Zealand,Auckland,Urban,10.64,2.52
+NZD - New Zealand Dollar,23.15,5.80,New Zealand,Cambridge,"Urban, Suburban",10.05,2.52
+NZD - New Zealand Dollar,26.00,5.80,New Zealand,Tāmaki Makaurau (Auckland),Suburban,11.29,2.52
+ARS - Argentine Peso,"3,400.00","4,700.00",Argentina,Mendoza,Urban,1.69,2.33
+EUR - Euro,5.50,2.90,Slovakia,Dubnica nad Váhom,Urban,4.70,2.48
+EUR - Euro,8.75,2.90,Spain,Madrid,Urban,7.47,2.48
+EUR - Euro,6.85,2.90,Spain,Ibiza,Urban,5.85,2.48
+EUR - Euro,5.41,2.90,Spain,Barcelona,Urban,4.62,2.48
+EUR - Euro,6.00,2.90,Slovakia,Trenčín,Urban,5.12,2.48
+EUR - Euro,13.90,2.90,Germany,Berlin,Urban,11.87,2.48
+EUR - Euro,13.50,2.90,Ireland,Cork,Suburban,11.53,2.48
+EUR - Euro,6.40,2.90,Slovakia,Bratislava,Urban,5.47,2.48
+EUR - Euro,6.57,2.90,Spain,A Coruña,Urban,5.61,2.48
+EUR - Euro,7.20,2.90,Slovakia,Bratislava,Urban,6.15,2.48
+EUR - Euro,7.00,2.90,Spain,Madrid,Urban,5.98,2.48
+EUR - Euro,9.22,2.90,Spain,Madrid,Urban,7.87,2.48
+MXN - Mexican Peso,50.00,60.00,Mexico,Mérida,Urban,2.17,2.61
+MXN - Mexican Peso,52.00,60.00,Mexico,Monterrey,Urban,2.26,2.61
+MXN - Mexican Peso,100.00,60.00,Mexico,Guadalajara,Urban,4.34,2.61
+CAD - Canadian Dollar,17.50,4.60,Canada,Charlottetown,Urban,9.30,2.45
+KRW - Won,"10,500.00","5,000.00",South Korea,Seoul,Urban,5.49,2.61
+AUD - Australian Dollar,33.20,4.80,Australia,Sydney,Suburban,17.38,2.51
+AUD - Australian Dollar,32.00,4.80,Australia,Adelaide,Urban,16.75,2.51
+RSD - Serbian Dinar,450.00,335.00,Serbia,Belgrade,Urban,3.28,2.44
+CAD - Canadian Dollar,23.00,4.55,Canada,Cambridge,Urban,12.23,2.42
+CAD - Canadian Dollar,22.75,4.55,Canada,Squamish,Suburban,12.09,2.42
+CAD - Canadian Dollar,27.00,4.55,Canada,Calgary,Urban,14.35,2.42
+CAD - Canadian Dollar,21.21,4.55,Canada,Calgary,Urban,11.27,2.42
+CZK - Czech Koruna,170.00,70.00,Czechia,Prague,Urban,5.99,2.47
+CZK - Czech Koruna,160.00,70.00,Czechia,Příbram,Urban,5.64,2.47
+CZK - Czech Koruna,140.00,70.00,Czechia,Ústí nad Labem,Urban,4.93,2.47
+CZK - Czech Koruna,134.00,70.00,Czechia,Příbram,Suburban,4.72,2.47
+AUD - Australian Dollar,33.00,4.75,Australia,Melbourne,Urban,17.27,2.49
+USD - US dollar,17.00,3.30,USA,Saratoga,Suburban,12.60,2.45
+USD - US dollar,13.00,3.30,USA,"Gadsden, AL","Suburban, Rural",9.64,2.45
+EUR - Euro,9.00,2.85,Spain,Las Palmas de Gran Canaria,Urban,7.69,2.43
+ARS - Argentine Peso,"5,000.00","4,600.00",Argentina,La plata,Urban,2.48,2.28
+USD - US dollar,17.00,3.29,USA,"Buffalo, NY",Urban,12.60,2.44
+CAD - Canadian Dollar,19.00,4.52,Canada,Canmore,Urban,10.10,2.40
+MYR - Malaysian Ringgit,9.00,13.00,Malaysia,Kuala Lumpur,Urban,1.63,2.36
+CAD - Canadian Dollar,22.00,4.50,Canada,Calgary,Urban,11.69,2.39
+CAD - Canadian Dollar,18.20,4.50,Canada,Toronto,Urban,9.67,2.39
+CAD - Canadian Dollar,19.00,4.50,Canada,Toronto,Urban,10.10,2.39
+CAD - Canadian Dollar,22.00,4.50,Canada,"Dartmouth, Nova Scotia",Urban,11.69,2.39
+CAD - Canadian Dollar,21.32,4.50,Canada,Invermere,Rural,11.33,2.39
+CAD - Canadian Dollar,16.00,4.50,Canada,Fredericton,Suburban,8.51,2.39
+CAD - Canadian Dollar,30.63,4.50,Canada,Toronto,Urban,16.28,2.39
+CAD - Canadian Dollar,19.50,4.50,Canada,Montréal,Urban,10.37,2.39
+GTQ - Quetzal,21.35,25.00,Guatemala,Ciudad de Guatemala,Urban,2.07,2.43
+AUD - Australian Dollar,32.00,4.70,Australia,Perth,Suburban,16.75,2.46
+AUD - Australian Dollar,35.00,4.70,Australia,Melbourne,Suburban,18.32,2.46
+AUD - Australian Dollar,40.00,4.70,Australia,Melbourne,Urban,20.94,2.46
+AUD - Australian Dollar,21.25,4.70,Australia,Brisbane,Suburban,11.12,2.46
+HUF - Forint,"2,450.00","1,100.00",Hungary,Budapest,Urban,5.74,2.58
+USD - US dollar,16.75,3.25,USA,St. Paul,Urban,12.42,2.41
+PLN - Zloty,34.00,12.00,Poland,Łódź,Suburban,6.74,2.38
+PLN - Zloty,32.00,12.00,Poland,Tychy,Urban,6.35,2.38
+EUR - Euro,5.50,2.80,Greece,Athens,Urban,4.70,2.39
+EUR - Euro,5.50,2.80,Slovakia,Košice,Urban,4.70,2.39
+EUR - Euro,13.50,2.80,Germany,Stuttgart,Suburban,11.53,2.39
+EUR - Euro,6.40,2.80,Slovakia,Bratislava,Urban,5.47,2.39
+EUR - Euro,8.25,2.80,Spain,Seville,Urban,7.05,2.39
+BRL - Brazilian Real,20.00,17.00,Brazil,Florianópolis,Urban,2.86,2.43
+RUB - Russian Ruble,340.00,260.00,Russia,Obninsk,Urban,3.04,2.32
+ARS - Argentine Peso,"3,100.00","4,500.00",Argentina,Tucuman,Urban,1.54,2.23
+ARS - Argentine Peso,"4,500.00","4,500.00",Argentina,"Crespo, Entre Rios",Urban,2.23,2.23
+USD - US dollar,19.00,3.21,USA,Chicago,Urban,14.08,2.38
+GBP - Pound Sterling,12.44,2.40,UK,Norwich,Suburban,12.44,2.40
+NZD - New Zealand Dollar,23.50,5.50,New Zealand,Wellington,Urban,10.20,2.39
+NZD - New Zealand Dollar,27.50,5.50,New Zealand,"Paraparaumu, Kapit Coast",Suburban,11.94,2.39
+NZD - New Zealand Dollar,28.00,5.50,New Zealand,Palmerston North,Suburban,12.16,2.39
+NZD - New Zealand Dollar,26.00,5.50,New Zealand,Auckland,Suburban,11.29,2.39
+NZD - New Zealand Dollar,28.00,5.50,New Zealand,Palmerston North,Urban,12.16,2.39
+INR - Indian Rupee,115.00,300.00,India,Bangalore,Urban,0.89,2.33
+AUD - Australian Dollar,33.17,4.60,Australia,Brisbane,Urban,17.36,2.41
+AUD - Australian Dollar,28.00,4.60,Australia,Melbourne,Urban,14.66,2.41
+MXN - Mexican Peso,39.38,57.00,Mexico,Colima,Urban,1.71,2.48
+RON - Romanian Leu,35.00,14.00,Romania,Bucharest,Urban,5.71,2.28
+CAD - Canadian Dollar,22.97,4.36,Canada,Nanaimo,Urban,12.21,2.32
+CZK - Czech Koruna,150.00,67.00,Czechia,,Urban,5.29,2.36
+RSD - Serbian Dinar,550.00,320.00,Serbia,,"Urban, Suburban",4.00,2.33
+JPY - Yen,"1,500.00",500.00,Japan,Nishinoomote,Rural,6.97,2.32
+MDL - Moldovan Leu,90.00,55.00,Moldova,Chisinau,Urban,3.84,2.35
+NZD - New Zealand Dollar,26.00,5.40,New Zealand,Christchurch,Suburban,11.29,2.34
+AUD - Australian Dollar,18.75,4.50,Australia,Horsham,Rural,9.81,2.36
+AUD - Australian Dollar,32.50,4.50,Australia,Sydney,Suburban,17.01,2.36
+AUD - Australian Dollar,32.00,4.50,Australia,Perth,Suburban,16.75,2.36
+AUD - Australian Dollar,31.60,4.50,Australia,Melbourne,Suburban,16.54,2.36
+AUD - Australian Dollar,30.00,4.50,Australia,,Suburban,15.70,2.36
+AUD - Australian Dollar,32.50,4.50,Australia,Melbourne,Urban,17.01,2.36
+AUD - Australian Dollar,24.00,4.50,Australia,Sydney,Urban,12.56,2.36
+AUD - Australian Dollar,32.00,4.50,Australia,Townsville,Urban,16.75,2.36
+AUD - Australian Dollar,32.00,4.50,Australia,Brisbane,Suburban,16.75,2.36
+AUD - Australian Dollar,33.00,4.50,Australia,Melbourne,Urban,17.27,2.36
+AUD - Australian Dollar,35.00,4.50,Australia,Brisbane,Suburban,18.32,2.36
+AUD - Australian Dollar,26.25,4.50,Australia,Melbourne,Suburban,13.74,2.36
+AUD - Australian Dollar,55.00,4.50,Australia,Sydney,Urban,28.79,2.36
+AUD - Australian Dollar,27.50,4.50,Australia,Sydney,Suburban,14.39,2.36
+AUD - Australian Dollar,31.20,4.50,Australia,Sydney,Suburban,16.33,2.36
+AUD - Australian Dollar,28.00,4.50,Australia,Newcastle,Urban,14.66,2.36
+EUR - Euro,6.00,2.70,Croatia,Zagreb,Suburban,5.12,2.31
+EUR - Euro,5.90,2.70,Greece,Thessaloniki,Urban,5.04,2.31
+EUR - Euro,8.80,2.70,Spain,Málaga,Urban,7.52,2.31
+EUR - Euro,7.74,2.70,Slovenia,Ljubljana,Urban,6.61,2.31
+CAD - Canadian Dollar,17.00,4.25,Canada,Montréal,Urban,9.04,2.26
+CAD - Canadian Dollar,19.50,4.25,Canada,Montréal,Urban,10.37,2.26
+ARS - Argentine Peso,"6,000.00","4,300.00",Argentina,La plata,Urban,2.98,2.14
+ARS - Argentine Peso,"5,500.00","4,300.00",Argentina,Buenos Aires,Urban,2.73,2.14
+ARS - Argentine Peso,"6,000.00","4,300.00",Argentina,La Plata,Urban,2.98,2.14
+MXN - Mexican Peso,62.00,55.00,Mexico,Matamoros,Urban,2.69,2.39
+MXN - Mexican Peso,35.00,55.00,Mexico,Puebla,Urban,1.52,2.39
+MXN - Mexican Peso,40.00,55.00,Mexico,Puebla,Urban,1.74,2.39
+MXN - Mexican Peso,46.16,55.00,Mexico,Tepic,Urban,2.01,2.39
+MXN - Mexican Peso,75.00,55.00,Mexico,México city,Urban,3.26,2.39
+CZK - Czech Koruna,220.00,65.00,Czechia,Olomouc,Urban,7.75,2.29
+CZK - Czech Koruna,150.00,65.00,Czechia,Brno,Suburban,5.29,2.29
+RSD - Serbian Dinar,371.00,310.00,Serbia,Novi Sad,Urban,2.70,2.26
+AUD - Australian Dollar,28.80,4.40,Australia,Melbourne,Urban,15.07,2.30
+CLP - Chilean Peso,"3,000.00","2,800.00",Chile,Santiago,Urban,2.43,2.27
+CAD - Canadian Dollar,17.25,4.20,Canada,Vancouver,Urban,9.17,2.23
+USD - US dollar,16.07,3.04,USA,"Columbus, OH",Urban,11.91,2.25
+BRL - Brazilian Real,20.00,16.00,Brazil,Londrina,Urban,2.86,2.28
+BRL - Brazilian Real,24.00,16.00,Brazil,São Paulo,Urban,3.43,2.28
+BRL - Brazilian Real,11.00,16.00,Brazil,Erechim / Rio Grande do Sul,Urban,1.57,2.28
+RUB - Russian Ruble,230.00,245.00,Russia,Rostov-in-Don,Urban,2.06,2.19
+RUB - Russian Ruble,270.00,245.00,Russia,Obninsk,Urban,2.41,2.19
+MYR - Malaysian Ringgit,8.00,12.00,Malaysia,Kuala Lumpur,Urban,1.45,2.18
+MYR - Malaysian Ringgit,14.00,12.00,Malaysia,Shah Alam,Suburban,2.54,2.18
+MYR - Malaysian Ringgit,10.00,12.00,Malaysia,Klang,Suburban,1.81,2.18
+CZK - Czech Koruna,150.00,64.00,Czechia,Poděbrady,Urban,5.29,2.26
+CZK - Czech Koruna,170.00,64.00,Czechia,Poděbrady,Urban,5.99,2.26
+NZD - New Zealand Dollar,26.50,5.20,New Zealand,Wellington,Suburban,11.50,2.26
+RSD - Serbian Dinar,460.00,305.00,Serbia,Belgrade,Urban,3.35,2.22
+EUR - Euro,5.63,2.60,Croatia,Zagreb,Urban,4.81,2.22
+EUR - Euro,9.37,2.60,Spain,Valencia,Urban,8.00,2.22
+EUR - Euro,5.00,2.60,Latvia,Riga,Urban,4.27,2.22
+ARS - Argentine Peso,"5,000.00","4,200.00",Argentina,Rosario,Urban,2.48,2.09
+PHP - Philippine Peso,58.75,180.00,Philippines,Baguio City,Urban,0.71,2.18
+USD - US dollar,17.50,3.00,USA,"Modesto, CA",Suburban,12.97,2.22
+USD - US dollar,17.00,3.00,USA,,Suburban,12.60,2.22
+USD - US dollar,7.00,3.00,USA,Baltimore,Urban,5.19,2.22
+USD - US dollar,10.00,3.00,USA,"Houston, TX",Urban,7.41,2.22
+USD - US dollar,12.00,3.00,USA,,Suburban,8.90,2.22
+USD - US dollar,15.00,3.00,USA,,Rural,11.12,2.22
+AUD - Australian Dollar,30.00,4.30,Australia,Melbourne,Urban,15.70,2.25
+INR - Indian Rupee,80.00,280.00,India,lucknow uttar pradesh,"Urban, Suburban, Rural",0.62,2.18
+PLN - Zloty,33.00,11.00,Poland,Lublin,Urban,6.54,2.18
+PLN - Zloty,32.00,11.00,Poland,Rawa Mazowiecka,Urban,6.35,2.18
+PLN - Zloty,32.99,10.99,Poland,Warsaw,"Urban, Suburban",6.54,2.18
+NZD - New Zealand Dollar,26.00,5.10,New Zealand,Auckland,Suburban,11.29,2.21
+CLP - Chilean Peso,"4,350.00","2,700.00",Chile,Santiago,Urban,3.53,2.19
+CAD - Canadian Dollar,16.95,4.00,Canada,,Urban,9.01,2.13
+CAD - Canadian Dollar,18.00,4.00,Canada,Fredericton,Urban,9.57,2.13
+CAD - Canadian Dollar,19.00,4.00,Canada,"Princeton, BC",Rural,10.10,2.13
+NZD - New Zealand Dollar,26.00,5.00,New Zealand,Auckland,Urban,11.29,2.17
+NZD - New Zealand Dollar,29.00,5.00,New Zealand,Auckland,Urban,12.59,2.17
+NZD - New Zealand Dollar,26.00,5.00,New Zealand,Christchurch,Urban,11.29,2.17
+NZD - New Zealand Dollar,27.00,5.00,New Zealand,Auckland,Urban,11.72,2.17
+USD - US dollar,12.50,2.90,USA,,Suburban,9.27,2.15
+BOB - Boliviano,13.75,20.00,Bolivia,La Paz,Urban,0.86,1.25
+EUR - Euro,8.00,2.50,Malta,Sliema,Urban,6.83,2.14
+EUR - Euro,6.00,2.50,Portugal,,Suburban,5.12,2.14
+EUR - Euro,10.00,2.50,Spain,Madrid,Urban,8.54,2.14
+EUR - Euro,5.90,2.50,Greece,Athens,Urban,5.04,2.14
+EUR - Euro,5.00,2.50,Greece,Athens,Urban,4.27,2.14
+EUR - Euro,4.50,2.50,Greece,Drama,Urban,3.84,2.14
+EUR - Euro,10.00,2.50,Italy,Milan,Urban,8.54,2.14
+EUR - Euro,6.00,2.50,Italy,Pesaro,Urban,5.12,2.14
+RSD - Serbian Dinar,350.00,290.00,Serbia,Belgrade,Urban,2.55,2.11
+BRL - Brazilian Real,19.00,15.00,Brazil,Florianópolis,"Urban, Suburban",2.71,2.14
+HUF - Forint,"1,856.00",950.00,Hungary,Szeged,Urban,4.35,2.23
+MYR - Malaysian Ringgit,10.00,11.00,Malaysia,Selangor,"Urban, Suburban",1.81,2.00
+MYR - Malaysian Ringgit,8.00,11.00,Malaysia,Kota Kinabalu,Suburban,1.45,2.00
+MYR - Malaysian Ringgit,6.00,11.00,Malaysia,Kuala Lumpur,Urban,1.09,2.00
+MYR - Malaysian Ringgit,12.00,11.00,Malaysia,Subang Jaya,Urban,2.18,2.00
+AUD - Australian Dollar,35.00,4.00,Australia,Sydney,Urban,18.32,2.09
+SEK - Swedish Krona,250.00,26.00,Sweden,Stockholm,Urban,19.33,2.01
+AUD - Australian Dollar,38.00,4.00,Australia,Perth,Suburban,19.89,2.09
+AUD - Australian Dollar,32.50,4.00,Australia,Melbourne,Suburban,17.01,2.09
+EUR - Euro,4.00,2.40,Latvia,Liepaja,Urban,3.42,2.05
+EUR - Euro,19.20,2.40,Netherlands,The Hague,Urban,16.40,2.05
+EUR - Euro,5.50,2.40,Greece,Thessaloniki,Urban,4.70,2.05
+EUR - Euro,5.00,2.40,Greece,Thessaloniki,Urban,4.27,2.05
+EUR - Euro,10.00,2.40,Slovenia,Celje,Urban,8.54,2.05
+EUR - Euro,12.00,2.40,Spain,Girona,Urban,10.25,2.05
+EUR - Euro,6.81,2.40,Croatia,Omiš,Urban,5.82,2.05
+EUR - Euro,15.00,2.40,Germany,,Urban,12.81,2.05
+EUR - Euro,4.50,2.40,Greece,Thessaloniki,Suburban,3.84,2.05
+EUR - Euro,11.45,2.40,Ireland,Galway,Urban,9.78,2.05
+EUR - Euro,8.00,2.40,Croatia,Zagreb,Urban,6.83,2.05
+INR - Indian Rupee,130.00,260.00,India,Hyderabad,Urban,1.01,2.02
+RSD - Serbian Dinar,400.00,280.00,Serbia,Novi Sad,Suburban,2.91,2.04
+PHP - Philippine Peso,86.88,165.00,Philippines,Manila,Urban,1.05,2.00
+USD - US dollar,18.00,2.75,USA,Lakewood,Suburban,13.34,2.04
+UAH - Hryvnia,80.00,120.00,Ukraine,Kyiv,Urban,1.32,1.99
+RUB - Russian Ruble,350.00,220.00,Russia,Khabarovsk,Urban,3.13,1.97
+RON - Romanian Leu,19.00,12.00,Romania,Iaşi,Urban,3.10,1.96
+ARS - Argentine Peso,"6,200.00","3,800.00",Argentina,San Miguel de Tucumán,Urban,3.08,1.89
+ARS - Argentine Peso,"4,500.00","3,800.00",Argentina,Córdoba,Urban,2.23,1.89
+MUR - Mauritius Rupee,120.00,125.00,Mauritius,Pamplemousses,Rural,1.89,1.97
+KRW - Won,"11,000.00","4,000.00",South Korea,Seoul,Urban,5.75,2.09
+PHP - Philippine Peso,112.50,160.00,Philippines,Makati City,Urban,1.36,1.94
+PHP - Philippine Peso,69.00,160.00,Philippines,Malolos City,Suburban,0.83,1.94
+IDR - Rupiah,"20,000.00","45,000.00",Indonesia,Bali,Urban,0.83,1.87
+INR - Indian Rupee,111.00,250.00,India,Ludhiana,Urban,0.86,1.94
+EUR - Euro,5.00,2.30,Greece,Kastoria,Suburban,4.27,1.96
+EUR - Euro,8.75,2.30,Spain,Gijon,Urban,7.47,1.96
+EUR - Euro,8.00,2.30,Italy,Florence,Urban,6.83,1.96
+EUR - Euro,15.00,2.30,Slovenia,Ljubljana,Urban,12.81,1.96
+EUR - Euro,8.50,2.30,Spain,Oviedo,Urban,7.26,1.96
+BRL - Brazilian Real,13.89,14.00,Brazil,"Joinville, SC",Urban,1.98,2.00
+BRL - Brazilian Real,20.00,14.00,Brazil,São Sebastião,Suburban,2.86,2.00
+BRL - Brazilian Real,16.52,14.00,Brazil,"Joinville, SC",Urban,2.36,2.00
+BRL - Brazilian Real,8.00,14.00,Brazil,Caxias do Sul,Urban,1.14,2.00
+BRL - Brazilian Real,12.00,14.00,Brazil,Porto Alegre,Urban,1.71,2.00
+NZD - New Zealand Dollar,28.10,4.50,New Zealand,Palmerston North,Urban,12.20,1.95
+NZD - New Zealand Dollar,24.50,4.50,New Zealand,Wellington,Urban,10.64,1.95
+GTQ - Quetzal,34.00,20.00,Guatemala,Antigua,Urban,3.30,1.94
+INR - Indian Rupee,100.00,245.00,India,Mumbai,Urban,0.78,1.90
+BOB - Boliviano,15.00,18.00,Bolivia,Santa Cruz,Urban,0.94,1.13
+USD - US dollar,10.50,2.60,Puerto Rico,Arecibo,Urban,7.78,1.93
+NIO - Cordoba Oro,45.83,95.00,Nicaragua,Estelí,Urban,0.92,1.91
+ZAR - Rand,49.00,44.00,South Africa,Modderfontein,Suburban,2.25,2.02
+BRL - Brazilian Real,7.63,13.50,Brazil,Rio de Janeiro,Suburban,1.09,1.93
+COP - Colombian Peso,"7,959.00","9,500.00",Colombia,Monteria,Urban,1.88,2.24
+INR - Indian Rupee,90.00,240.00,India,Delhi,Urban,0.70,1.87
+EUR - Euro,9.35,2.20,Spain,Madrid,Urban,7.99,1.88
+EUR - Euro,7.00,2.20,Croatia,Rijeka,Urban,5.98,1.88
+EUR - Euro,11.00,2.20,Italy,Milan,Urban,9.39,1.88
+EUR - Euro,5.50,2.20,Croatia,Osijek,Urban,4.70,1.88
+CAD - Canadian Dollar,16.50,3.50,Canada,St. John’s,Urban,8.77,1.86
+MYR - Malaysian Ringgit,12.00,10.00,Malaysia,Kuala Lumpur,Suburban,2.18,1.81
+JPY - Yen,"1,500.00",400.00,Japan,Kobe,Urban,6.97,1.86
+MXN - Mexican Peso,83.00,45.00,Mexico,Ciudad Guzmán,Urban,3.61,1.95
+PKR - Pakistan Rupee,170.00,700.00,Pakistan,Islamabad,Urban,0.45,1.87
+PKR - Pakistan Rupee,135.00,700.00,Pakistan,Lahore,Urban,0.36,1.87
+USD - US dollar,8.00,2.50,Ecuador,Quito,Urban,5.93,1.85
+RUB - Russian Ruble,230.00,200.00,Russia,Krasnoyarsk,Urban,2.06,1.79
+JOD - Jordanian Dinar,1.35,1.75,Jordan,Amman,Suburban,1.41,1.83
+BRL - Brazilian Real,12.00,13.00,Brazil,Belém,Suburban,1.71,1.86
+VND - Dong,"24,000.00","65,000.00",Vietnam,Hanoi,Urban,0.68,1.85
+CAD - Canadian Dollar,25.00,3.36,Canada,Edmonton,Urban,13.29,1.79
+AUD - Australian Dollar,32.35,3.50,Australia,Sydney,Urban,16.93,1.83
+EUR - Euro,7.00,2.10,Greece,Athens,Urban,5.98,1.79
+COP - Colombian Peso,"7,000.00","9,000.00",Colombia,Chia,Urban,1.65,2.13
+INR - Indian Rupee,22.00,225.00,India,Mumbai,Urban,0.17,1.75
+INR - Indian Rupee,58.00,225.00,India,Lucknow,Urban,0.45,1.75
+HUF - Forint,"1,800.00",800.00,Hungary,Budapest,Urban,4.22,1.88
+CZK - Czech Koruna,150.00,50.00,Czechia,,Rural,5.29,1.76
+RUB - Russian Ruble,250.00,190.00,Russia,,Urban,2.24,1.70
+RUB - Russian Ruble,274.00,190.00,Russia,Tomsk,Urban,2.45,1.70
+PHP - Philippine Peso,120.00,140.00,Philippines,Makati City,Urban,1.45,1.69
+PHP - Philippine Peso,86.00,140.00,Philippines,Makati City,Urban,1.04,1.69
+PHP - Philippine Peso,80.00,140.00,Philippines,Makati City,Urban,0.97,1.69
+EUR - Euro,8.50,2.00,Croatia,Zagreb,Urban,7.26,1.71
+EUR - Euro,10.00,2.00,Italy,Modena,Urban,8.54,1.71
+EUR - Euro,9.50,2.00,Italy,Udine,Urban,8.11,1.71
+EUR - Euro,8.00,2.00,Italy,Milano,Urban,6.83,1.71
+EUR - Euro,5.00,2.00,Italy,Rome,Urban,4.27,1.71
+EUR - Euro,12.00,2.00,Italy,Rome,Urban,10.25,1.71
+EUR - Euro,16.00,2.00,Spain,San Sebastian basque country,Urban,13.66,1.71
+EUR - Euro,10.00,2.00,Spain,Alicante,Urban,8.54,1.71
+IQD - Iraqi Dinar,"4,500.00","3,000.00",Iraq,Sulaymaniyah,Urban,2.54,1.70
+ZAR - Rand,21.00,39.00,South Africa,Gqeberha,Urban,0.96,1.79
+BRL - Brazilian Real,20.00,12.00,Brazil,São Paulo,Urban,2.86,1.71
+VND - Dong,"20,000.00","60,000.00",Vietnam,Hanoi,Urban,0.57,1.71
+VND - Dong,"23,000.00","60,000.00",Vietnam,Hanoi,Urban,0.65,1.71
+MYR - Malaysian Ringgit,10.00,9.00,Malaysia,Shah Alam,Urban,1.81,1.63
+RON - Romanian Leu,19.30,10.00,Romania,Bucharest,Urban,3.15,1.63
+MKD - Denar,235.00,120.00,North Macedonia,Skopje,Urban,3.26,1.67
+DJF - Djiboutian Franc,138.80,400.00,Djibouti,Djibouti,"Urban, Suburban",0.58,1.66
+RUB - Russian Ruble,210.00,180.00,Russia,Saint-Petersburg,Urban,1.88,1.61
+RUB - Russian Ruble,400.00,180.00,Russia,Moscow,Urban,3.58,1.61
+ZAR - Rand,150.00,38.00,South Africa,Johannesburg,Urban,6.88,1.74
+GEL - Lari,8.00,6.00,Georgia,Tbilisi,Urban,2.27,1.70
+CAD - Canadian Dollar,18.00,3.00,Canada,Vancouver,Urban,9.57,1.59
+PHP - Philippine Peso,75.00,130.00,Philippines,Batangas city,Suburban,0.91,1.57
+ZAR - Rand,40.00,37.00,South Africa,Rosendal,Rural,1.84,1.70
+COP - Colombian Peso,"7,959.00","8,000.00",Colombia,"Bucaramanga, Santander",Urban,1.88,1.89
+ZAR - Rand,34.50,36.00,South Africa,Durban north,Suburban,1.58,1.65
+VND - Dong,"23,000.00","55,000.00",Vietnam,Hanoi,Urban,0.65,1.56
+VND - Dong,"20,000.00","55,000.00",Vietnam,Hanoi,Urban,0.57,1.56
+AUD - Australian Dollar,32.50,3.00,Australia,Perth,Urban,17.01,1.57
+PHP - Philippine Peso,50.00,125.00,Philippines,La Carlota City,Suburban,0.60,1.51
+IDR - Rupiah,"15,000.00","35,000.00",Indonesia,Jakarta,Urban,0.62,1.45
+IDR - Rupiah,"13,500.00","35,000.00",Indonesia,Surabaya,Urban,0.56,1.45
+UAH - Hryvnia,150.00,90.00,Ukraine,Kyiv,Urban,2.48,1.49
+ZAR - Rand,120.00,35.00,South Africa,,Suburban,5.51,1.61
+BYN - Belarussian Ruble,4.00,6.00,Belarus,Zhlobin,Urban,0.99,1.49
+BYN - Belarussian Ruble,6.50,6.00,Belarus,Minsk,Urban,1.61,1.49
+RSD - Serbian Dinar,350.00,200.00,Serbia,Belgrade,Urban,2.55,1.46
+EUR - Euro,10.00,1.70,Italy,Verona,Suburban,8.54,1.45
+EUR - Euro,8.00,1.70,Italy,Casalbuttano (CR),Rural,6.83,1.45
+MXN - Mexican Peso,55.00,35.00,Mexico,México city,Urban,2.39,1.52
+UAH - Hryvnia,130.00,85.00,Ukraine,Odesa,"Urban, Suburban",2.15,1.41
+KRW - Won,"10,320.00","2,900.00",South Korea,Wonju,Suburban,5.39,1.52
+HUF - Forint,"2,100.00",650.00,Hungary,Szeged,Urban,4.92,1.52
+INR - Indian Rupee,60.00,180.00,India,Bangalore,Urban,0.47,1.40
+LKR - Sri Lanka Rupee,260.00,600.00,Sri Lanka,Wattala,Suburban,0.58,1.33
+IDR - Rupiah,"18,000.00","32,000.00",Indonesia,Makassar,Urban,0.75,1.33
+DZD - Algerian Dinar,173.08,250.00,Algeria,Algiers,Urban,0.96,1.39
+COP - Colombian Peso,"9,500.00","7,000.00",Colombia,Pasto,Urban,2.24,1.65
+EUR - Euro,8.00,1.60,Italy,Padua,Urban,6.83,1.37
+EUR - Euro,4.50,1.60,Greece,Thessaloniki,Urban,3.84,1.37
+EUR - Euro,7.50,1.60,Spain,Sant Cugat del Vallés,Urban,6.41,1.37
+THB - Baht,75.00,60.00,Thailand,Pathum Thani,Suburban,1.68,1.34
+UAH - Hryvnia,130.00,80.00,Ukraine,Kyiv,Urban,2.15,1.32
+EGP - Egyptian Pound,52.00,90.00,Egypt,Cairo,Urban,0.77,1.33
+ZAR - Rand,30.00,29.00,South Africa,Mosselbay,Urban,1.38,1.33
+PHP - Philippine Peso,60.00,100.00,Philippines,Bacolod City,Urban,0.73,1.21
+PHP - Philippine Peso,38.00,100.00,Philippines,Antipolo City,Urban,0.46,1.21
+EUR - Euro,15.00,1.40,Italy,Rieti,Rural,12.81,1.20
+ZAR - Rand,31.00,27.00,South Africa,Potchefstroom,Suburban,1.42,1.24
+EUR - Euro,7.00,1.30,Italy,Sezto Fiorentino,Urban,5.98,1.11
+COP - Colombian Peso,"9,200.00","5,500.00",Colombia,Bogotá,Suburban,2.17,1.30
+COP - Colombian Peso,"9,200.00","5,500.00",Colombia,Bogotá,Suburban,2.17,1.30
+IDR - Rupiah,"21,000.00","25,000.00",Indonesia,Bandung,Urban,0.87,1.04
+EUR - Euro,16.00,1.20,Italy,Ancona,Suburban,13.66,1.02
+INR - Indian Rupee,52.00,120.00,India,Meerut,Suburban,0.40,0.93
+IDR - Rupiah,"9,000.00","21,000.00",Indonesia,Sleman,Suburban,0.37,0.87
+IDR - Rupiah,"12,980.00","20,000.00",Indonesia,Samarinda,Urban,0.54,0.83
+IDR - Rupiah,"70,000.00","20,000.00",Indonesia,Jakarta,Urban,2.91,0.83
